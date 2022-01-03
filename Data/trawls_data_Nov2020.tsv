@@ -1,0 +1,582 @@
+Sample	Lowest ID	Broad group	Stage	Count	Fraction split	Representative count	Density in water column (ind./m3)
+D1137-T1	Copepoda (Calanus pacificus, Pleuromamma sp., Eucalanus californicus, Candacia sp., Euchaeta sp., Gaetanus sp., Gaussia sp.)	Copepod	Adult	3790	16	60640	
+D1137-T1	Euphausiidae (Euphausia pacifica + Nematoscelis difficilis)	Euphausid	Furcilia	623	16	9968	
+D1137-T1	Sagittoidea	Chaetognath	Adult	443	16	7088	
+D1137-T1	Halocyprida	Ostracod	Adult	331	16	5296	
+D1137-T1	Euphausiidae (Euphausia pacifica + Nematoscelis difficilis)	Euphausid	Calytopsis	98	16	1568	
+D1137-T1	Bilateria	Egg	Egg	72	16	1152	
+D1137-T1	Microsetella sp.	Copepod	Adult	19	16	304	
+D1137-T1	Diphyidae	Siphonophore	Eudoxid	15	16	240	
+D1137-T1	Chuniphyes multidentata (anterior)	Siphonophore	Polygastric	12	16	192	
+D1137-T1	Thalia democratica	Salp	Blastozooid	6	16	96	
+D1137-T1	Lensia sp.	Siphonophore	Polygastric	6	16	96	
+D1137-T1	Hyperiidae	Amphipod	Juvenile	6	16	96	
+D1137-T1	Eusergestes similis	Decapod	Elaphocaris	6	16	96	
+D1137-T1	Sagitta sp. (lyra et. al.) > 2cm	Chaetognath	Adult	74	1	74	
+D1137-T1	Polychaeta	Polychaete	Nectotroch	4	16	64	
+D1137-T1	Oikopleura sp.	Appendicularian	Adult	3	16	48	
+D1137-T1	Hydrozoa	Hydromedusa	Adult	3	16	48	
+D1137-T1	Vibilia armata	Amphipod	Adult	2	16	32	
+D1137-T1	Tomopteris sp.	Polychaete	Adult	2	16	32	
+D1137-T1	Narcomedusae	Hydromedusa	Adult	2	16	32	
+D1137-T1	Mysida	Mysid	Juvenile	2	16	32	
+D1137-T1	Muggiaea atlantica	Siphonophore	Polygastric	2	16	32	
+D1137-T1	Hydrozoa	Hydromedusa	Adult	2	16	32	
+D1137-T1	Eusergestes similis	Decapod	Mysis	2	16	32	
+D1137-T1	Euphausia pacifica	Euphausid	Adult	2	16	32	
+D1137-T1	Doliolida	Doliolid	Oozoid	2	16	32	
+D1137-T1	Ctenophora	Ctenophore	Adult	2	16	32	
+D1137-T1	Chuniphyes sp. (posterior)	Siphonophore	Polygastric	2	16	32	
+D1137-T1	Balanomorpha	Barnacle	Nauplius	2	16	32	
+D1137-T1	Alciopida	Polychaete	Adult	2	16	32	
+D1137-T1	Aglaura sp.	Hydromedusa	Adult	2	16	32	
+D1137-T1	Euphausia pacifica	Euphausid	Adult	22	1	22	
+D1137-T1	Scina sp.	Amphipod	Adult	1	16	16	
+D1137-T1	Prayidae	Siphonophore	Nectophore	1	16	16	
+D1137-T1	Prayidae	Siphonophore	Eudoxid	1	16	16	
+D1137-T1	Polychaeta	Polychaete	Adult	1	16	16	
+D1137-T1	Poeobius meseres	Polychaete	Adult	1	16	16	
+D1137-T1	Pneumatodermatidae	Gymnosome pteropod	Adult	1	16	16	
+D1137-T1	Phronima sp.	Amphipod	Adult	1	16	16	
+D1137-T1	Nanomia sp. (pneumatophore)	Siphonophore	Polygastric	1	16	16	
+D1137-T1	Lensia multicristata	Siphonophore	Polygastric	1	16	16	
+D1137-T1	Lensia conoidea	Siphonophore	Polygastric	1	16	16	
+D1137-T1	Hippopodius hippopus	Siphonophore	Larval nectophore	1	16	16	
+D1137-T1	Haliscera sp.	Hydromedusa	Adult	1	16	16	
+D1137-T1	Cyclothone signata	Actinopteri	Adult	1	16	16	
+D1137-T1	Conchoecilla sp.	Ostracod	Adult	1	16	16	
+D1137-T1	Colobonema sericeum	Hydromedusa	Adult	1	16	16	
+D1137-T1	Chuniphyes moserae	Siphonophore	Polygastric	1	16	16	
+D1137-T1	Chelophyes appendiculata	Siphonophore	Polygastric	1	16	16	
+D1137-T1	Brachipoda	Brachiopod	Lecitotrophic larva	1	16	16	
+D1137-T1	Calanoida	Copepod	Adult	14	1	14	
+D1137-T1	Colobonema sericeum	Hydromedusa	Adult	10	1	10	
+D1137-T1	Lensia conoidea	Siphonophore	Polygastric	5	1	5	
+D1137-T1	Cyclothone signata	Actinopteri	Adult	4	1	4	
+D1137-T1	Chelophyes appendiculata	Siphonophore	Polygastric	4	1	4	
+D1137-T1	Salpa fusiformis	Salp	Oozoid	3	1	3	
+D1137-T1	Poeobius meseres	Polychaete	Adult	3	1	3	
+D1137-T1	Myctophum sp.	Actinopteri	Adult	3	1	3	
+D1137-T1	Hydrozoa	Hydromedusa	Adult	3	1	3	
+D1137-T1	Haliscera sp.	Hydromedusa	Adult	3	1	3	
+D1137-T1	Chuniphyes multidentata (anterior)	Siphonophore	Polygastric	3	1	3	
+D1137-T1	Beroe sp.	Ctenophore	Adult	3	1	3	
+D1137-T1	Scina sp.	Amphipod	Adult	2	1	2	
+D1137-T1	Paraphronima sp.	Amphipod	Adult	2	1	2	
+D1137-T1	Euphausia pacifica	Euphausid	Furcilia	2	1	2	
+D1137-T1	Eucalanus californicus	Copepod	Adult	2	1	2	
+D1137-T1	Chuniphyes sp. (posterior)	Siphonophore	Polygastric	2	1	2	
+D1137-T1	Atolla sp.	Scyphomedusa	Adult	2	1	2	
+D1137-T1	Tomopteris sp.	Polychaete	Adult	1	1	1	
+D1137-T1	Streetsia challengeri	Amphipod	Adult	1	1	1	
+D1137-T1	Sergestoidea	Decapod	Adult	1	1	1	
+D1137-T1	Pyrosoma atlanticum	Pyrosome	Adult	1	1	1	
+D1137-T1	Cyphocaris sp.	Amphipod	Adult	1	1	1	
+D1137-T1	Gaussia princeps	Copepod	Adult	1	1	1	
+D1137-T1	Gaetanus sp.	Copepod	Adult	1	1	1	
+D1137-T1	Cyclothone sp.	Actinopteri	Larval	1	1	1	
+29Mar19-BW3	Copepoda (<2mm)	Copepod 	Adult + Copepodite	1603	16	25648	
+29Mar19-BW3	Copepoda (Calanus pacificus) (>2mm)	Copepod	Adult	226	16	3616	
+29Mar19-BW3	Corycaeus sp.	Copepod	Adult	192	16	3072	
+29Mar19-BW3	Oikopleura dioica	Appendicularia	Adult	94	16	1504	
+29Mar19-BW3	Euphausiidae	Krill	Calytopsis	44	16	704	
+29Mar19-BW3	Euphausiidae	Krill	Metanauplius	38	16	608	
+29Mar19-BW3	Sagitta sp.	Chaetognath	Adult + Juvenile	25	16	400	
+29Mar19-BW3	Muggiaea atlantica	Siphonophore	Polygastric	13	16	208	
+29Mar19-BW3	Eucalanus californicus	Copepod	Nauplius	12	16	192	
+29Mar19-BW3	Bilateria	Egg	Egg	9	16	144	
+29Mar19-BW3	Evadne sp.	Cladoceran	Adult	8	16	128	
+29Mar19-BW3	Euphausiidae	Krill	Furcilia	6	16	96	
+29Mar19-BW3	Gastropoda	Benthic snail	Veliger	4	16	64	
+29Mar19-BW3	Muggiaea atlantica	Siphonophore	Eudoxid	4	16	64	
+29Mar19-BW3	Bivalvia	Bivalve	Veliger	3	16	48	
+29Mar19-BW3	Anthoathecata	Hydromedusa	Adult	2	16	32	
+29Mar19-BW3	Salpida	Salp	Blastozooid	1	16	16	
+29Mar19-BW3	Cirripedia	Barnacle	Cypris	1	16	16	
+29Mar19-BW3	Eucalanus californicus	Copepod	Adult	1	16	16	
+29Mar19-BW3	Sphaeronectes koellikeri	Siphonophore	Polygastric	9	1	9	
+29Mar19-BW3	Pleurobrachia sp.	Ctenophore	Adult	4	1	4	
+29Mar19-BW3	Beroe sp.	Ctenophore	Adult	3	1	3	
+29Mar19-BW3	Muggiaea atlantica	Siphonophore	Polygastric	2	1	2	
+29Mar19-BW3	Thunnus sp.	Actinopteri	Larva	1	1	1	
+29Mar19-BW3	Geryonidae	Decapod	Zoea II	1	1	1	
+29Mar19-BW3	Oikopleura dioica	Appendicularia	Adult	1	1	1	
+29Mar19-BW3	Salpida	Salp	Blastozooid	1	1	1	
+D1139-BWT1	Copepoda (<2mm)	Copepod 	Adult + Copepodite	945	32	30240	
+D1139-BWT1	Copepoda (Calanus pacificus) (>2mm)	Copepod	Adult	198	32	6336	
+D1139-BWT1	Corycaeus sp.	Copepod	Adult	170	32	5440	
+D1139-BWT1	Euphausiidae	Krill	Calytopsis	151	32	4832	
+D1139-BWT1	Oikopleura dioica	Appendicularia	Adult	130	32	4160	
+D1139-BWT1	Euphausiidae	Krill	Metanauplius	75	32	2400	
+D1139-BWT1	Eucalanus californicus	Copepod	Nauplius	73	32	2336	
+D1139-BWT1	Eucalanus californicus	Copepod	Adult	29	32	928	
+D1139-BWT1	Euphausiidae	Krill	Furcilia	27	32	864	
+D1139-BWT1	Evadne sp.	Cladoceran	Adult	25	32	800	
+D1139-BWT1	Muggiaea atlantica	Siphonophore	Polygastric	15	32	480	
+D1139-BWT1	Sagitta sp.	Chaetognath	Adult + Juvenile	14	32	448	
+D1139-BWT1	Narcomedusae	Hydromedusa	Juvenile	13	32	416	
+D1139-BWT1	Engraulidae	Actinopteri	Egg	9	32	288	
+D1139-BWT1	Pleurobrachia bachei	Ctenophore	Adult	168	1	168	
+D1139-BWT1	Pleurobrachia bachei	Ctenophore	Adult	5	32	160	
+D1139-BWT1	Beroe gracilis	Ctenophore	Adult	3	32	96	
+D1139-BWT1	Gastropoda	Benthic snail	Veliger	1	32	32	
+D1139-BWT1	Sergestidae	Decapod	Elaphocaris	1	32	32	
+D1139-BWT1	Nanomia sp. (pneumatophore)	Siphonophore	Polygastric	1	32	32	
+D1139-BWT1	Bivalvia	Bivalve	Veliger	1	32	32	
+D1139-BWT1	Centropages bradyi	Copepod	Adult	1	32	32	
+D1139-BWT1	Calanoida	Copepod	Adult	9	1	9	
+D1139-BWT1	Beroe gracilis	Ctenophore	Adult	7	1	7	
+D1139-BWT1	Eucalanus californicus	Copepod	Adult	4	1	4	
+D1139-BWT1	Mitrocomella sp.	Hydromedusa	Adult	3	1	3	
+D1139-BWT1	Nanomia sp. (pneumatophore)	Siphonophore	Polygastric	2	1	2	
+D1139-BWT1	Bolinopsis sp. (comb row)	Ctenophore	Adult	2	1	2	
+D1139-BWT1	Oikopleura dioica	Appendicularia	Adult	2	1	2	
+D1139-BWT1	Polychaeta (piece)	Polychaete	Adult	2	1	2	
+D1139-BWT1	Cirripedia	Barnacle	Cypris	1	1	1	
+D1139-BWT1	Geryonidae	Decapod	Zoea	1	1	1	
+D1139-BWT1	Carcinidae	Decapod	Zoea	1	1	1	
+D1139-BWT1	Clytia gregaria	Hydromedusa	Adult	1	1	1	
+D1139-BWT1	Carangidae	Actinopteri	Egg	1	1	1	
+D1139-BWT1	Narcomedusae	Hydromedusa	Juvenile	1	1	1	
+D1139-BWT1	Caligidae	Copepod	Adult, gravid	1	1	1	
+D1139-BWT1	Engraulidae	Actinopteri	Larva	1	1	1	
+BIOS19-D3-Trawl1	Euchaeta sp.	Copepod	Adult	1268	32	40576	22719
+BIOS19-D3-Trawl1	Temora sp.	Copepod	Adult	226	32	7232	4049
+BIOS19-D3-Trawl1	Diogenes sp.	Decapod	Zoea	160	32	5120	2867
+BIOS19-D3-Trawl1	Maja sp.	Decapod	Zoea	55	32	1760	985
+BIOS19-D3-Trawl1	Sagitta sp.	Chaetognath	Adult	31	32	992	555
+BIOS19-D3-Trawl1	Libinia sp.	Decapod	Zoea	20	32	640	358
+BIOS19-D3-Trawl1	Thunnus sp.	Actinopteri	Egg	19	32	608	340
+BIOS19-D3-Trawl1	Alpheidae	Decapod	Late zoea	16	32	512	287
+BIOS19-D3-Trawl1	Oikopleura sp.	Larvacean	Adult	16	32	512	287
+BIOS19-D3-Trawl1	Evadne sp.	Cladoceran	Adult	15	32	480	269
+BIOS19-D3-Trawl1	Oithona sp.	Copepod	Adult	11	32	352	197
+BIOS19-D3-Trawl1	Alpheidae	Decapod	Early zoea	11	32	352	197
+BIOS19-D3-Trawl1	Engraulid elongate egg	Actinopteri	Egg	9	32	288	161
+BIOS19-D3-Trawl1	Thunnus sp.	Actinopteri	Hatchling	8	32	256	143
+BIOS19-D3-Trawl1	Corycaeus sp.	Copepod	Adult	7	32	224	125
+BIOS19-D3-Trawl1	Thunnus sp.	Actinopteri	Larva	6	32	192	108
+BIOS19-D3-Trawl1	Oncaea sp.	Copepod	Adult	5	32	160	90
+BIOS19-D3-Trawl1	Calanus sp.	Copepod	Adult	5	32	160	90
+BIOS19-D3-Trawl1	Thunnus sp.	Actinopteri	Larva	42	2	84	47
+BIOS19-D3-Trawl1	Libinia sp.	Decapod	Megalopa	2	32	64	36
+BIOS19-D3-Trawl1	Gastropoda	Benthic snail	Veliger	2	32	64	36
+BIOS19-D3-Trawl1	Copilia sp.	Copepod	Adult	1	32	32	18
+BIOS19-D3-Trawl1	Nanomia sp.	Siphonophore	Polygastric	1	32	32	18
+BIOS19-D3-Trawl1	Isopoda	Isopod	Juvenile/Adult	1	32	32	18
+BIOS19-D3-Trawl1	Centropages sp.	Copepod	Adult	1	32	32	18
+BIOS19-D3-Trawl1	Thiidae	Decapod	Zoea	1	32	32	18
+BIOS19-D3-Trawl1	Enneagonum hyalinum	Siphonophore	Polygastric	1	32	32	18
+BIOS19-D3-Trawl1	Candacia cf. ethiopica	Copepod	Adult	1	32	32	18
+BIOS19-D3-Trawl1	Eurynome sp.	Decapod	Zoea	1	32	32	18
+BIOS19-D3-Trawl1	Bassia bassensis	Siphonophore	Polygastric	1	32	32	18
+BIOS19-D3-Trawl1	Thunnus sp.	Actinopteri	Egg	2	2	4	2
+BIOS19-D3-Trawl1	Bilateria (mystery ciliated grooved larva)	Animal	Larva	1	2	2	1
+BIOS19-D3-Trawl1	Scombriformes	Actinopteri	Larva	1	2	2	1
+BIOS19-D3-Trawl1	Candacia cf. ethiopica	Copepod	Adult	1	2	2	1
+BIOS19-D3-Trawl1	Lysmata sp.	Decapod	Zoea	1	2	2	1
+BIOS19-D3-Trawl1	Libinia sp.	Decapod	Megalopa	1	2	2	1
+BIOS19-D4-Trawl1	Temora sp.	Copepod	Adult	670	32	21440	
+BIOS19-D4-Trawl1	Penilia avirostris	Cladoceran	Adult	86	32	2752	
+BIOS19-D4-Trawl1	Actinopteri (Pomatomus, Scombridae, Sciaenidae)	Actinopteri	Egg	59	32	1888	
+BIOS19-D4-Trawl1	Majidae	Decapod	Zoea	14	32	448	
+BIOS19-D4-Trawl1	Actinopteri (Pomatomus, Scombridae, Gobiidae, Sciaenidae)	Actinopteri	Larva	11	32	352	
+BIOS19-D4-Trawl1	Alpheidae	Decapod	Early zoea	10	32	320	
+BIOS19-D4-Trawl1	Euchaeta sp.	Copepod	Adult	10	32	320	
+BIOS19-D4-Trawl1	Pandalidae	Decapod	Zoea	10	32	320	
+BIOS19-D4-Trawl1	Clupeidae	Actinopteri	Egg	9	32	288	
+BIOS19-D4-Trawl1	Sagitta sp.	Chaetognath	Adult	6	32	192	
+BIOS19-D4-Trawl1	Oikopleura sp.	Larvacean	Adult	4	32	128	
+BIOS19-D4-Trawl1	Thiidae	Decapod	Zoea	3	32	96	
+BIOS19-D4-Trawl1	Obelia sp.	Hydromedusa	Adult	2	32	64	
+BIOS19-D4-Trawl1	Evadne sp.	Cladoceran	Adult	2	32	64	
+BIOS19-D4-Trawl1	Hippolytidae	Decapod	Zoea	2	32	64	
+BIOS19-D4-Trawl1	Liocarcinus sp.	Decapod	Zoea	2	32	64	
+BIOS19-D4-Trawl1	Xanthidae	Decapod	Zoea	1	32	32	
+BIOS19-D4-Trawl1	Engraulid elongate egg	Actinopteri	Egg	1	32	32	
+BIOS19-D4-Trawl1	Carangidae	Actinopteri	Larva	1	32	32	
+BIOS19-D4-Trawl1	Diogenes sp.	Decapod	Zoea	1	32	32	
+BIOS19-D4-Trawl1	Pandalidae	Decapod	Zoea	9	2	18	
+BIOS19-D4-Trawl1	Actinopteri (Clupeidae, Scombridae, Gobiidae, Sciaenidae)	Actinopteri	Larva	7	2	14	
+BIOS19-D4-Trawl1	Xanthidae	Decapod	Zoea	4	2	8	
+BIOS19-D4-Trawl1	Alpheidae	Decapod	Late zoea	3	2	6	
+BIOS19-D4-Trawl1	Squilloidea	Stomatopod	Alima	2	2	4	
+BIOS19-D4-Trawl1	Carangidae	Actinopteri	Larva	2	2	4	
+BIOS19-D4-Trawl1	Engraulid elongate egg	Actinopteri	Egg	1	2	2	
+BIOS19-D4-Trawl1	Anthomedusae	Hydromedusa	Adult	1	2	2	
+BIOS19-D1-Trawl1	Euchaeta sp.	Copepod	Adult	676	32	21632	8320.0
+BIOS19-D1-Trawl1	Temora sp.	Copepod	Adult	30	32	960	369.2
+BIOS19-D1-Trawl1	Sagittoidea (short stubby)	Chaetognath	Adult	30	32	960	369.2
+BIOS19-D1-Trawl1	Bilateria (mystery oval egg)	Animal	Egg	19	32	608	233.8
+BIOS19-D1-Trawl1	Corycaeus sp.	Copepod	Adult	14	32	448	172.3
+BIOS19-D1-Trawl1	Calanoida	Copepod	Adult	11	32	352	135.4
+BIOS19-D1-Trawl1	Majoidea	Decapod	Zoea	9	32	288	110.8
+BIOS19-D1-Trawl1	Crangon sp.	Decapod	Zoea	8	32	256	98.5
+BIOS19-D1-Trawl1	Oikopleura sp.	Appendicularia	Adult	5	32	160	61.5
+BIOS19-D1-Trawl1	Galatheidae (Anomura)	Decapod	Zoea	4	32	128	49.2
+BIOS19-D1-Trawl1	Oithona sp.	Copepod	Adult	3	32	96	36.9
+BIOS19-D1-Trawl1	Candacia cf. ethiopica	Copepod	Adult	2	32	64	24.6
+BIOS19-D1-Trawl1	Pandalidae	Decapod	Zoea	1	32	32	12.3
+BIOS19-D1-Trawl1	Oncaea sp.	Copepod	Adult	1	32	32	12.3
+BIOS19-D1-Trawl1	Podon sp.	Cladoceran	Adult	1	32	32	12.3
+BIOS19-D1-Trawl1	Thunnus sp.	Actinopteri	Egg	1	32	32	12.3
+BIOS19-D1-Trawl1	Alpheidae	Decapod	Zoea/Decapodid	12	1	12	4.6
+BIOS19-D1-Trawl1	Candacia cf. ethiopica	Copepod	Adult	5	1	5	1.9
+BIOS19-D1-Trawl1	Libinia sp.	Decapod	Megalopa	5	1	5	1.9
+BIOS19-D1-Trawl1	Thunnus sp.	Actinopteri	Larva (stage 2)	3	1	3	1.2
+BIOS19-D1-Trawl1	Pandalidae	Decapod	Zoea	3	1	3	1.2
+BIOS19-D1-Trawl1	Hyperiidae	Amphipod	Adult	2	1	2	0.8
+BIOS19-D1-Trawl1	Thunnus sp.	Actinopteri	Larva (stage 1)	2	1	2	0.8
+BIOS19-D1-Trawl1	Pseudosagitta sp.	Chaetognath	Adult	2	1	2	0.8
+BIOS19-D1-Trawl1	Squilloidea	Stomatopod	Alima	1	1	1	0.4
+BIOS19-D1-Trawl1	Gammaridea (Hyachelia or Polycheria)	Amphipod	Adult	1	1	1	0.4
+BIOS19-D1-Trawl1	Oithona sp.	Copepod	Adult	1	1	1	0.4
+BIOS19-D1-Trawl1	Thunnus sp.	Actinopteri	Egg	1	1	1	0.4
+BIOS19-D1-Trawl1	Rhincalanus cornutus (female)	Copepod	Adult	1	1	1	0.4
+BIOS19-D1-Trawl1	Euchaeta sp. (large)	Copepod	Adult	1	1	1	0.4
+BIOS19-D2-Trawl1	Temora sp.	Copepod	Adult	1680	32	53760	28102
+BIOS19-D2-Trawl1	Sagittoidea	Chaetognath	Adult	58	32	1856	970
+BIOS19-D2-Trawl1	Libinia sp.	Decapod	Zoea	54	32	1728	903
+BIOS19-D2-Trawl1	Penilia avirostris	Cladoceran	Adult	33	32	1056	552
+BIOS19-D2-Trawl1	Pandalidae	Decapod	Zoea	32	32	1024	535
+BIOS19-D2-Trawl1	Alpheidae	Decapod	Early zoea	28	32	896	468
+BIOS19-D2-Trawl1	Scombridae	Actinopteri	Egg	21	32	672	351
+BIOS19-D2-Trawl1	Majidae	Decapod	Zoea	17	32	544	284
+BIOS19-D2-Trawl1	Oikopleura sp.	Larvacean	Adult	14	32	448	234
+BIOS19-D2-Trawl1	Hippolytidae	Decapod	Zoea	7	32	224	117
+BIOS19-D2-Trawl1	Euchaeta sp.	Copepod	Adult	6	32	192	100
+BIOS19-D2-Trawl1	Anomura (c.f. Munida sp.)	Decapod	Zoea	3	32	96	50
+BIOS19-D2-Trawl1	Actinopteri	Actinopteri	Hatchling	2	32	64	33
+BIOS19-D2-Trawl1	Alpheidae	Decapod	Late zoea	21	2	42	22
+BIOS19-D2-Trawl1	Evadne sp.	Cladoceran	Adult	1	32	32	17
+BIOS19-D2-Trawl1	Panopeidae	Decapod	Zoea	1	32	32	17
+BIOS19-D2-Trawl1	Gastropoda	Gastropod	Veliger	1	32	32	17
+BIOS19-D2-Trawl1	Squilloidea	Stomatopod	Alima	6	2	12	6
+BIOS19-D2-Trawl1	Metridia lucens	Copepod	Adult	4	2	8	4
+BIOS19-D2-Trawl1	Scombridae	Actinopteri	Larva	3	2	6	3
+BIOS19-D2-Trawl1	Scombridae	Actinopteri	Egg	3	2	6	3
+BIOS19-D2-Trawl1	Libinia sp.	Decapod	Zoea	2	2	4	2
+BIOS19-D2-Trawl1	Carangidae	Actinopteri	Larva	1	2	2	1
+BIOS19-D2-Trawl1	Stomatopoda	Stomatopod	Antizoea	1	2	2	1
+BIOS19-D2-Trawl1	Engraulidae	Actinopteri	Larva	1	2	2	1
+BIOS19-D2-Trawl1	Palaemonidae	Decapod	Zoea	1	2	2	1
+BIOS19-D2-Trawl1	Clupeidae	Actinopteri	Egg	1	2	2	1
+BIOS19-D2-Trawl1	Libinia sp.	Decapod	Megalopa	1	2	2	1
+BIOS19-D2-Trawl1	Metridia longa	Copepod	Adult	1	2	2	1
+D1025-SS7	Resomia ornicephala	Siphonophore	Developing tentilla	2	1	2	
+D1025-SS7	Pandeidae (Leuckartiara or Halitholus)	Hydromedusa	Adult	1	1	1	
+D1025-SS7	Scina sp.	Amphipod	Adult	1	1	1	
+D1025-SS7	Euchaeta sp.	Copepod	Adult	7	1	7	
+D1025-SS7	Porroecia sp.	Ostracod	Adult	1	1	1	
+D1025-SS7	Thalassocalyce inconstans	Ctenophore	Adult	1	1	1	
+D1025-SS7	Euchirella sp.	Copepod	Adult	1	1	1	
+D1025-SS7	Calanoida	Copepod	Adult	5	1	5	
+D1025-SS7	Euphausidae	Krill	Metanauplius	2	1	2	
+D1022-SS11	Oithona sp.	Copepod	Adult	1	1	1	
+D1022-SS11	Calanoida	Copepod	Adult	8	1	8	
+D1022-SS11	Salpida muscle band	Salp	Adult	1	1	1	
+D1022-SS2	Euterpina acutifrons	Copepod	Adult	1	1	1	
+D1022-SS2	Calanoida	Copepod	Adult	2	1	2	
+D1022-SS2	Eupahusidae	Krill	Nauplius	1	1	1	
+D1022-SS2	Eucalanus californicus	Copepod	Nauplius	1	1	1	
+D1024-SS2	Siphonophore stem piece	Siphonophore	Polygastric	1	1	1	
+D1024-SS2	Calanoida	Copepod	Adult	13	1	13	
+D1024-SS2	Conchoeciini	Ostracod	Adult	1	1	1	
+D1024-SS2	Leucon cf. longirostris	Cumacean	Adult	1	1	1	
+D1024-SS2	Gaetanus sp. (female with 2 eggs)	Copepod	Adult	1	1	1	
+D1024-SS6	Chuniphyes multidentata	Siphonophore	Adult	1	1	1	
+D1024-SS6	Cyclothone cf. pallida	Copepod	Adult	1	1	1	
+D1024-SS6	Pseudosagitta lyra	Actinopteri	Adult	2	1	2	
+D1024-SS6	Candacia pachydactyla (male)	Copepod	Adult	1	1	1	
+D1024-SS6	Calanoida	Copepod	Adult	5	1	5	
+D1024-SS6	Heterorhabdus sp.	Copepod	Adult	3	1	3	
+D1024-SS6	Pelagobia logicirrata	Polychaete	Adult	1	1	1	
+D1024-SS6	Calanus pacificus	Copepod	Adult	1	1	1	
+D1024-SS6	Metridia sp.	Copepod	Adult	1	1	1	
+D1024-SS6	Trachymedusa	Hydromedusa	Juvenile	1	1	1	
+D1244-MT1	Calanoida (<5mm)	Copepod	Adult+Copepodite	958	1	958	
+D1244-MT1	Evadne sp.	Cladoceran	Adult	574	1	574	
+D1244-MT1	Oikopleura dioica	Appendicularia	Adult	319	1	319	
+D1244-MT1	Pleurobrachia bachei	Ctenophore	Adult	78	1	78	
+D1244-MT1	Calanus pacificus (>5mm)	Copepod	Adult	66	1	66	
+D1244-MT1	Oithona spp. (nana + similis)	Copepod	Adult	44	1	44	
+D1244-MT1	Diphyinae	Siphonophore	Eudoxid	21	1	21	
+D1244-MT1	Diphyinae	Siphonophore	Gonozooid	17	1	17	
+D1244-MT1	Sagitta sp.	Chaetognath	Adult	13	1	13	
+D1244-MT1	Engraulidae	Actinopteri	Egg	11	1	11	
+D1244-MT1	Leptothecata	Hydromedusa	Medusa	10	1	10	
+D1244-MT1	Ditrichocorycaeus anglicus	Copepod	Adult	9	1	9	
+D1244-MT1	Muggiaea atlantica	Siphonophore	Polygastric	4	1	4	
+D1244-MT1	Polychaete	Polychaete	Larva	2	1	2	
+D1244-MT1	Hyperidea	Amphipod	Adult	2	1	2	
+D1244-MT1	Nanomia sp.	Siphonophore	Polygastric	1	1	1	
+D1244-MT1	Beroe cucumis	Ctenophore	Adult	1	1	1	
+D1244-MT1	Thalia democratica	Salp	Oozooid	1	1	1	
+D1244-MT1	Chelophyes appendiculata	Siphonophore	Polygastric	1	1	1	
+D1242-T1	Sagitta hexaptera	Chaetognath	Adult				
+D1242-T1	Scina sp.	Amphipod	Adult				
+D1242-T1	Cyclothone signata	Actinopteri	Adult				
+D1242-T1	Arietellus plumifer	Copepod	Adult				
+D1242-T1	Gaussia princeps	Copepod	Adult				
+D1242-T1	Euphausia pacifica	Krill	Adult				
+D1242-T1	Euphausia pacifica	Krill	Furcillia				
+D1242-T1	Euphausiacea	Krill	Metanauplii				
+D1242-T1	Nematoscelis difficilis	Krill	Adult				
+D1242-T1	Vibilia armata	Amphipod	Adult				
+D1242-T1	Metridia pacifica	Copepod	Adult				
+D1242-T1	Lensia fowleri	Siphonophore	Adult				
+D1242-T1	Chuniphyes multidentata	Siphonophore	Adult				
+D1242-T1	Colobonema sericeum	Hydromedusa	Adult				
+D1242-T1	Chelophyes appendiculata	Siphonophore	Polygastric				
+D1242-T1	Desmophyes annectens	Siphonophore	Polygastric				
+D1242-T1	Munnopsidae	Isopod	Adult				
+D1242-T1	Alciopidae	Polychaete	Adult				
+D1242-T1	Aegina sp.	Hydromedusa	Adult				
+D1242-T1	Centropages bradyi	Copepod	Adult				
+D1242-T1	Pleuromamma spp.	Copepod	Adult				
+D1242-T1	Pleurobrachia bachei	Ctenophore	Adult				
+D1242-T1	Stylocheiron longicorne	Krill	Adult				
+D1242-T1	Pasiphaea pacifica	Decapod	Adult				
+D1242-T1	Pseudosagitta maxima	Chaetognath	Adult				
+D1242-T1	Eudoxoides mitra	Siphonophore	Adult				
+D1242-T1	Conchoecia spp.	Ostracod	Adult				
+D1242-T1	Heterorhabdus sp.	Copepod	Adult				
+D1242-T1	Calanus pacificus	Copepod	Adult				
+D1242-T1	Eucalanus californicus	Copepod	Adult				
+D1242-T1	Gaetanus spp. (pileatus + brevispinus)	Copepod	Adult				
+D1242-T1	Conchoecissa ametra	Ostracod	Adult				
+D1242-T1	Lensia conoidea	Siphonophore	Adult				
+D1242-T1	Solmissus sp.	Hydromedusa	Adult				
+D1242-T1	Microsetella sp.	Copepod	Adult				
+D1242-T1	Sapphirina sp.	Copepod	Adult				
+D1242-T1	Sagitta lyra	Chaetognath	Adult				
+D1242-T1	Oithona spp. (nana + similis)	Copepod	Adult				
+D1242-T1	Pyrosoma sp.	Pyrosome	4-zooid juvenile				
+D1242-T1	Centraugaptilus cf. cucullatus	Copepod	Adult				
+D1242-T1	Munida sp.	Decapod	Zoea				
+D1242-T1	Clio pyramidata	Gastropod	Adult				
+D1242-T1	Megacalanus sp.	Copepod	Adult				
+D1242-T1	Paraphyllina sp.	Scyphomedusa	Adult				
+D1242-T1	Pelagobia cf. logicirrata	Polychaete	Adult				
+D1242-T1	Subeucalanus sp.	Copepod	Adult				
+D1242-T1	Euchaeta cf. marina	Copepod	Adult				
+D1242-T1	Cunina sp.	Hydromedusa	Adult				
+D1242-T1	Haloptilus cf. acutifrons	Copepod	Adult				
+D1242-T1	Lensia achilles	Siphonophore	Adult				
+D1242-T1	Pantachogon sp.	Hydromedusa	Adult				
+D1242-T1	Travisiopsis lumbricoides	Polychaete	Adult				
+D1242-T1	Emerita analoga	Decapod	Zoea				
+D1242-T1	Conchoecilla daphnoides	Ostracod	Adult				
+D1242-T1	Tomopteris sp.	Polychaete	Adult				
+D1242-T1	Apolemia sp.	Siphonophore	Adult				
+D1242-T1	Vogtia serrata	Siphonophore	Adult				
+D1242-T1	Cyphocaris sp.	Amphipod	Adult				
+D1242-T1	Thyssanoessa gregaria	Krill	Adult				
+D1242-T1	Calocalanus sp.	Copepod	Adult				
+D1242-T1	Polynoidae	Polychaete	Postlarva				
+D1242-T1	Echinomysis sp.	Mysid	Adult				
+D1243-T1	Echinomysis sp.	Mysid	Adult				
+D1243-T1	Eucalanus californicus	Copepod	Adult				
+D1243-T1	Conchoecissa ametra	Ostracod	Adult				
+D1243-T1	Scina sp.	Amphipod	Adult				
+D1243-T1	Nematoscelis difficilis	Krill	Adult				
+D1243-T1	Colobonema sericeum	Hydromedusa	Adult				
+D1243-T1	Metridia spp.	Copepod	Adult				
+D1243-T1	Calanus pacificus	Copepod	Adult				
+D1243-T1	Euchaeta marina	Copepod	Adult				
+D1243-T1	Microsetella sp.	Copepod	Adult				
+D1243-T1	Centraugaptilus cf. cucullatus	Copepod	Adult				
+D1243-T1	Pleuromamma spp.	Copepod	Adult				
+D1243-T1	Pasiphaea pacifica	Decapod	Adult				
+D1243-T1	Pasiphaea pacifica	Decapod	Juvenile				
+D1243-T1	Conchoecia spp.	Ostracod	Adult				
+D1243-T1	Gaetanus brevispinus	Copepod	Adult				
+D1243-T1	Euphausia pacifica	Krill	Adult				
+D1243-T1	Beroe sp.	Ctenophore	Adult				
+D1243-T1	Sagitta lyra	Chaetognath	Adult				
+D1243-T1	Pseudosagitta maxima	Chaetognath	Adult				
+D1243-T1	Sagitta spp.	Chaetognath	Adult				
+D1243-T1	Conchoecilla daphnoides	Ostracod	Adult				
+D1243-T1	Engraulidae	Actinopteri	Larva				
+D1243-T1	Megacalanus sp.	Copepod	Adult				
+D1243-T1	Cyclothone signata	Actinopteri	Adult				
+D1243-T1	Chuniphyes multidentata	Siphonophore	Polygastric				
+D1243-T1	Haloptilus cf. acutifrons	Copepod	Adult				
+D1243-T1	Coronata (red belly)	Scyphomedusa	Juvenile				
+D1243-T1	Gaussia princeps	Copepod	Adult				
+D1243-T1	Thyssanopoda sp.	Krill	Adult				
+D1243-T1	Chelophyes appendiculata	Siphonophore	Polygastric				
+D1243-T1	Vogtia serrata	Siphonophore	Polygastric				
+D1243-T1	Nematobranchion sp.	Krill	Adult				
+D1243-T1	Cyphocaris sp.	Amphipod	Adult				
+D1243-T1	Gaetanus pileatus	Copepod	Adult				
+D1243-T1	Riteriella retracta	Salp	Oozooid				
+D1243-T1	Sagitta hexaptera	Chaetognath	Adult				
+D1243-T1	Corolla spectabilis	Gastropod	Adult				
+D1243-T1	Tomopteris spp.	Polychaete	Adult				
+D1243-T1	Argyropelecus sp.	Actinopteri	Larva				
+D1243-T1	Lensia conoidea	Siphonophore	Polygastric				
+D1243-T1	Stylocheiron longicorne	Krill	Adult				
+D1243-T1	Candacia bipinnata	Copepod	Adult				
+D1243-T1	Haliscera sp.	Hydromedusa	Adult				
+D1243-T1	Travisiopsis lumbricoides	Polychaete	Adult				
+D1243-T1	Heterorhabdus sp.	Copepod	Adult				
+D1243-T1	Sergestidae spp. (Acetes?)	Decapod	Adult				
+D1243-T1	Nanomia sp.	Siphonophore	Polygastric				
+D1243-T1	Arietellus plumifer	Copepod	Adult				
+D1243-T1	Vibilia armata	Amphipod	Adult				
+D1243-T1	Vibilia armata	Amphipod	Juvenile				
+D1243-T1	Nectadamas diomedeae	Siphonophore	Polygastric				
+D1243-T1	Eupronoe minuta	Amphipod	Adult				
+D1243-T1	Paraphronima sp.	Amphipod	Adult				
+D1244-T1	Eucalanus californicus	Copepod	Adult				
+D1244-T1	Cyclothone signata	Actinopteri	Adult				
+D1244-T1	Megacalanus sp.	Copepod	Adult				
+D1244-T1	Microsetella sp.	Copepod	Adult				
+D1244-T1	Conchoecia spp.	Ostracod	Adult				
+D1244-T1	Scina spp.	Amphipod	Adult				
+D1244-T1	Pleuromamma spp.	Copepod	Adult				
+D1244-T1	Pseudosagitta maxima	Chaetognath	Adult				
+D1244-T1	Metridia pacifica	Copepod	Adult				
+D1244-T1	Haloptilus cf. acutifrons	Copepod	Adult				
+D1244-T1	Conchoecilla daphnoides	Ostracod	Adult				
+D1244-T1	Pyrosoma sp.	Pyrosome	4-zooid				
+D1244-T1	Calanus pacificus	Copepod	Adult				
+D1244-T1	Sagitta lyra	Chaetognath	Adult				
+D1244-T1	Gaetanus brevispinus	Copepod	Adult				
+D1244-T1	Euchaeta marina	Copepod	Adult				
+D1244-T1	Paraconchoecia sp.	Ostracod	Adult				
+D1244-T1	Conchoecissa ametra	Ostracod	Adult				
+D1244-T1	Lensia conoidea	Siphonophore	Polygastric				
+D1244-T1	Euphausiidae	Krill	Calytopsis				
+D1244-T1	Euphausiidae	Krill	Furcilia				
+D1244-T1	Ectinosomatidae	Copepod	Adult				
+D1244-T1	Stylocheiron longicorne	Krill	Adult				
+D1244-T1	Boreomysis californica	Mysid	Adult				
+D1244-T1	Vibilia armata	Amphipod	Adult				
+D1244-T1	Euphausia pacifica	Krill	Adult				
+D1244-T1	Vogtia serrata	Siphonophore	Polygastric				
+D1244-T1	Chuniphyes multidentata	Siphonophore	Polygastric				
+D1244-T1	Stylocheiron cf. maximum	Krill	Adult				
+D1244-T1	Nematoscelis difficilis	Krill	Adult				
+D1244-T1	Lensia fowleri	Siphonophore	Polygastric				
+D1244-T1	Lensia hotspur	Siphonophore	Polygastric				
+D1244-T1	Centropages sp.	Copepod	Adult				
+D1244-T1	Arietellus plumifer	Copepod	Adult				
+D1244-T1	Cyphocaris sp.	Amphipod	Adult				
+D1244-T1	Thunnus sp.	Actinopteri	Larva				
+D1244-T1	Gaussia princeps	Copepod	Adult				
+D1244-T1	Ihlea racovitzai	Salp	Blastozooid				
+D1244-T1	Ceriantharia	Anthozoa	6-tentacle juvenile				
+D1244-T1	Tomopteris spp.	Polychaete	Adult				
+D1244-T1	Eucopia sp.	Lophogastrid	Adult				
+D1244-T1	Flaccisagitta hexaptera	Chaetognath	Adult				
+D1244-T1	Cyclothone sp.	Actinopteri	Adult				
+D1244-T1	Gaetanus pileatus	Copepod	Adult				
+D1244-T1	Eupronoe minuta	Amphipod	Adult				
+D1244-T1	Pasiphaea pacifica	Decapod	Adult				
+D1244-T1	Chelophyes appendiculata	Siphonophore	Polygastric				
+D1244-T1	Nanomia sp.	Siphonophore	Polygastric				
+D1244-T1	Subeucalanus sp.	Copepod	Adult				
+D1244-T1	Maupausia sp.	Polychaete	Adult				
+D1244-T1	Caecosagitta macrocephala	Chaetognath	Adult				
+D1244-T1	Heteropyramis cf. maculata	Siphonophore	Polygastric				
+D1244-T1	Eusergestes similis	Decapod	Adult				
+D1244-T1	Kephyes ovata	Siphonophore	Polygastric				
+D1244-T1	Heteropyramis crystallina	Siphonophore	Polygastric				
+D1244-T1	Munnopsidae	Isopod	Adult				
+D1244-T1	Gennadas sp.	Decapod	Adult				
+D1244-T1	Macrocypridina s.	Ostracod	Adult				
+D1244-T1	Thyssanoessa gregaria	Krill	Adult				
+D1244-T1	Halicreas sp.	Hydromedusa	Adult				
+D1244-T1	Undeuchaeta plumosa	Copepod	Adult				
+D1244-T1	Centraugaptilus cf. cucullatus	Copepod	Adult				
+D1244-T1	Centropages calaninus	Copepod	Adult				
+D1244-T1	Paraphronima sp.	Amphipod	Adult				
+D1244-T1	Lanceola sp.	Amphipod	Adult				
+D1244-T1	Echinomysis sp.	Mysid	Adult				
+D1244-T1	Stylocheiron elongatum	Krill	Adult				
+D1244-T1	Dairella latissima	Amphipod	Adult				
+D1244-T1	Brachyscelus crusculum	Amphipod	Adult				
+D1244-T1	Alepocephalus sp.	Actinopteri	Juvenile				
+D1244-T1	Sagitella sp.	Polychaete	Adult				
+D1244-T1	Pneumoderma sp.	Gastropod	Adult				
+D1244-T1	Pneumodermatidae	Gastropod	Adult				
+Groton1-BW2-T2	Mnemiopsis leidyi (comb rows/8)	Ctenophore	Adult	11	16	176	
+Groton1-BW2-T2	Calanus sp.	Copepod	Adult	128	16	2048	
+Groton1-BW2-T2	Penilia avirostris	Cladoceran	Adult	504	16	8064	
+Groton1-BW2-T2	Thalia democratica	Salp	Oozooid	3	16	48	
+Groton1-BW2-T2	Thalia democratica	Salp	Blastozooid	44	16	704	
+Groton1-BW2-T2	Pleurobrachia sp. (bulbs/2)	Ctenophore	Adult	5	16	80	
+Groton1-BW2-T2	Centropages cf. hamatus	Copepod	Adult	124	16	1984	
+Groton1-BW2-T2	Coryne eximia	Hydromedusa	Adult	1	1	1	
+Groton1-BW2-T2	Crangon septemspinosa	Decapod	Zoea 1	4	16	64	
+Groton1-BW2-T2	Actinopteri	Actinopteri	Egg	10	16	160	
+Groton1-BW2-T2	Platysquilla eusebia	Stomatopod	Antizoea	2	16	32	
+Groton1-BW2-T2	Majidae	Decapod	Zoea	1	16	16	
+Groton1-BW2-T2	Podon sp.	Cladoceran	Adult	1	16	16	
+Groton1-BW2-T2	Limacina retroversa	Gastropod	Adult	3	16	48	
+Groton1-BW2-T2	Oikopleura sp.	Larvacean	Adult	10	16	160	
+Groton1-BW2-T2	Sagitta setosa	Chaetognath	Adult	11	1	11	
+Groton1-BW2-T2	Libinia sp.	Decapod	Megalopa	2	1	2	
+Groton1-BW2-T2	Hyperiidae sp. (Lestrigonus?)	Amphipod	Adult	2	1	2	
+Groton1-BW2-T2	Tompteris sp.	Polychaete	Adult	1	1	1	
+Groton1-BW2-T2	Laodicea undulata	Hydromedusa	Adult	1	1	1	
+Groton1-BW2-T2	Mitrocomella polydiademata	Hydromedusa	Adult	1	1	1	
+Groton1-BW2-T2	Pleurobrachia sp. (whole preserved)	Ctenophore	Adult	11	1	11	
+Groton1-BW2-T2	Amphinema rugosum	Hydromedusa	Adult	1	1	1	
+Groton1-BW2-T2	Squilla empusa	Stomatopod	Alima	11	1	11	
+Groton1-BW2-T2	Emerita talpoida	Decapod	Zoea	2	1	2	
+Groton1-BW2-T2	Scomber scomber	Actinopteri	Larva	13	1	13	
+Groton1-BW2-T2	Pleuronectidae	Actinopteri	Larva	1	1	1	
+Groton1-BW2-T2	Alpheus sp.	Decapod	Zoea 1	1	1	1	
+Groton1-BW2-T2	Crangon septemspinosa	Decapod	Zoea 2	4	1	4	
+Groton2-BW1-T1	Penilia avirostris	Cladoceran	Adult	201	16	3216	
+Groton2-BW1-T1	Temora turbinata	Copepod	Adult	64	16	1024	
+Groton2-BW1-T1	Centropages cf. typicus	Copepod	Adult	58	16	928	
+Groton2-BW1-T1	Oikopleura sp.	Larvacean	Adult	31	16	496	
+Groton2-BW1-T1	Sagitta cf. tasmanica	Chaetognath	Adult	27	16	432	
+Groton2-BW1-T1	Calanoida	Copepod	Adult	24	16	384	
+Groton2-BW1-T1	Candacia bipinnata	Copepod	Adult	18	16	288	
+Groton2-BW1-T1	Echinoida	Echinoderm	Echinopluteus	16	16	256	
+Groton2-BW1-T1	Thalia democratica	Larvacean	Blastozooid	12	16	192	
+Groton2-BW1-T1	Polychaeta	Polychaete	Nectochaete	7	16	112	
+Groton2-BW1-T1	Clupeidae	Actinopteri	Egg	6	16	96	
+Groton2-BW1-T1	Calanus sp.	Copepod	Adult	6	16	96	
+Groton2-BW1-T1	Actinopteri	Actinopteri	Egg	6	16	96	
+Groton2-BW1-T1	Labidocera aestiva	Copepod	Adult	4	16	64	
+Groton2-BW1-T1	Sagitta setosa	Chaetognath	Adult	3	16	48	
+Groton2-BW1-T1	Paraeucalanus sp.	Copepod	Adult	3	16	48	
+Groton2-BW1-T1	Belzebub faxoni	Decapod	Zoea	3	16	48	
+Groton2-BW1-T1	Podon sp.	Cladoceran	Adult	2	16	32	
+Groton2-BW1-T1	Crangon septemspinosa	Decapod	Zoea	1	16	16	
+Groton2-BW1-T1	Sapphirina sp.	Copepod	Adult	1	16	16	
+Groton2-BW1-T1	Euchaeta marina	Copepod	Adult	1	16	16	
+Groton2-BW1-T1	Creseis sp.	Gastropod	Adult	1	16	16	
+Groton2-BW1-T1	Pleurobrachia sp. (Tentacle bulbs/2)	Ctenophore	Adult	1	16	16	
+Groton2-BW1-T1	Diphyes sp.	Siphonophore	Eudoxid	1	16	16	
+Groton2-BW1-T1	Anthomedusae	Hydromedusa	Juvenile	1	16	16	
+Groton2-BW1-T1	Pagurus longicarpus	Decapod	Zoea	1	16	16	
+Groton2-BW1-T1	Pterotrachea sp.	Gastropod	Juvenile	1	16	16	
+Groton2-BW1-T1	Doliolida	Doliolid	Blastozooid	1	16	16	
+Groton2-BW1-T1	Thalia democratica	Salp	Blastozooid	15	1	15	
+Groton2-BW1-T1	Clupeidae	Actinopteri	Larva	15	1	15	
+Groton2-BW1-T1	Hyperoche medusarum	Amphipod	Adult	9	1	9	
+Groton2-BW1-T1	Scomber spp.	Actinopteri	Larva	8	1	8	
+Groton2-BW1-T1	Creseis sp.	Gastropod	Adult	7	1	7	
+Groton2-BW1-T1	Thalia democratica	Salp	Oozooid	3	1	3	
+Groton2-BW1-T1	Belzebub faxoni	Decapod	Adult	3	1	3	
+Groton2-BW1-T1	Peachia sp.	Anthozoa	Juvenile	3	1	3	
+Groton2-BW1-T1	Crangon septemspinosa	Decapod	Zoea II	3	1	3	
+Groton2-BW1-T1	Hippolytidae	Decapod	Zoea	2	1	2	
+Groton2-BW1-T1	Eupronoe sp.	Amphipod	Adult	2	1	2	
+Groton2-BW1-T1	Platyscelus sp.	Amphipod	Adult	2	1	2	
+Groton2-BW1-T1	Agalma elegans	Siphonophore	Athorybia stage	2	1	2	
+Groton2-BW1-T1	Pleuronectes americanus	Actinopteri	Larva	2	1	2	
+Groton2-BW1-T1	Squilla empusa	Stomatopod	Alima	1	1	1	
+Groton2-BW1-T1	Nanomia sp. (pneumatophore)	Siphonophore	Polygastric	1	1	1	
+Groton2-BW1-T1	Clytia gregaria	Hydromedusa	Adult	1	1	1	
+Groton2-BW1-T1	Liriope tetraphylla	Hydromedusa	Adult	1	1	1	
+Groton2-BW1-T1	Doryteuthis pelaeii	Cephalopod	Paralarva	1	1	1	
+Groton2-BW1-T1	Oxycephalus sp.	Amphipod	Adult	1	1	1	
+Groton2-BW1-T1	Glossocephalus milneedwardsii	Amphipod	Adult	1	1	1	
