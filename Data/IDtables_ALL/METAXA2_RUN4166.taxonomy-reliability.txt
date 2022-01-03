@@ -1,0 +1,17 @@
+19747e4926116e11bce1da090e371a1e	Eukaryota(90.14);environmental samples(90.14);uncultured eukaryote(90.14);
+1caad9ef20cb75194ee3dfe52943393c	Eukaryota(91.25);Metazoa(91.25);Ecdysozoa(91.25);Arthropoda(91.25);Crustacea(91.25);Maxillopoda(91.25);Copepoda(91.25);Calanoida(91.25);Centropagidae(54.90);Centropages(54.90);Centropages hamatus(18.36);
+464f4db03e9945fc160930210e4e5112	Eukaryota(89.32);Metazoa(89.32);Ecdysozoa(89.32);Arthropoda(89.32);Crustacea(89.32);Maxillopoda(89.32);Copepoda(89.32);Calanoida(89.32);Acartiidae(36.39);Acartia(36.39);Acartia tonsa(90.97);
+4ba42ae6dea6709cfb3c2e64745647c0	Eukaryota(91.48);environmental samples(91.48);uncultured eukaryote(91.48);
+61a48aa04a323c0d27b6a247b9331ffe	Eukaryota(91.18);Metazoa(91.18);Platyhelminthes(91.18);Trematoda(91.18);Digenea(91.18);Plagiorchiida(72.94);Enenteridae(54.71);unclassified Enenteridae(36.47);Enenterid sp.1 DTJL-2000(18.23);
+6557d494cb53c7a4c40c18fc071cd8bf	Eukaryota(85.94);environmental samples(85.94);uncultured eukaryote(85.94);
+7807010ad7f8e47b0a36deb2af3c3616	Eukaryota(89.37);environmental samples(89.37);uncultured eukaryote(89.37);
+90223a01aad1bd1993c5cd85373a66e5	Eukaryota(91.46);environmental samples(91.46);uncultured eukaryote(91.46);
+98121af57e592a3f16c2e7c87ee27033	Eukaryota(91.48);environmental samples(91.48);uncultured eukaryote(91.48);
+98db3c2d312070d10ea38cb22a2a4dba	Eukaryota(91.20);Metazoa(91.20);Ecdysozoa(91.20);Arthropoda(91.20);Crustacea(91.20);Maxillopoda(91.20);Copepoda(91.20);Calanoida(91.20);Centropagidae(54.75);Centropages(54.75);Centropages hamatus(18.32);
+9aaaf723a92ca83651c54fb4a6d8fe7b	Eukaryota(89.32);Metazoa(89.32);Ecdysozoa(89.32);Arthropoda(89.32);Crustacea(89.32);Maxillopoda(89.32);Copepoda(89.32);Calanoida(89.32);Acartiidae(36.39);Acartia(36.39);Acartia tonsa(90.97);
+9d4fdb50124d3b03b958293d5c5f3aec	Eukaryota(91.40);Fungi(73.11);environmental samples(18.35);uncultured fungus(18.35);
+a864298d4d332555392df772b38ce3df	Eukaryota(91.78);Stramenopiles(91.78);Bacillariophyta(91.78);Mediophyceae(73.42);Biddulphiophycidae(55.07);Triceratiales(18.35);Triceratiaceae(18.35);Trieres(18.35);Trieres sp. TN-2014(18.35);
+a939e4332eec1b60ceb75af5be58c605	Eukaryota(91.23);environmental samples(91.23);uncultured eukaryote(91.23);
+ca37cc768ec5fec742aecf67e6307ef9	Eukaryota(91.57);environmental samples(91.57);uncultured eukaryote(91.57);
+db006b1eb3926201c029453c9896c7ae	Eukaryota(91.18);Metazoa(91.18);Platyhelminthes(91.18);Trematoda(91.18);Digenea(91.18);Plagiorchiida(72.94);Enenteridae(54.71);unclassified Enenteridae(36.47);Enenterid sp.1 DTJL-2000(18.23);
+e9948e88179f96adce374a11845f6635	Eukaryota(89.44);Viridiplantae(59.30);Streptophyta(59.30);Embryophyta(59.30);Tracheophyta(59.30);Spermatophyta(59.30);Magnoliophyta(59.30);eudicotyledons(59.30);Gunneridae(59.30);Pentapetalae(59.30);rosids(0);fabids(29.69);Fabales(29.69);Fabaceae(29.69);Papilionoideae(29.69);Dalbergieae(29.69);Arachis(29.69);Arachis ipaensis(29.69);

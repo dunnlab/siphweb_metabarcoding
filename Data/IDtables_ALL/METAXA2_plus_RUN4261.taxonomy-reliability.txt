@@ -1,0 +1,10 @@
+105c88e51947fa9def3eaefb95bc10f7	Eukaryota(90.50);Bilateria(90.50);Protostomia(90.50);Ecdysozoa(90.50);Arthropoda(90.50);Crustacea(90.50);Temora discaudata(18.36);
+236f01e2b96b27077ae0bfc9558d049d	Eukaryota(90.24);Bilateria(90.24);Protostomia(90.24);Ecdysozoa(90.24);Arthropoda(90.24);Crustacea(90.24);Centropages typicus(18.36);
+25d0e3d3b2fc941dab7bb8417205fd06	Eukaryota(92.10);SAR(92.10);Stramenopiles(92.10);Ochrophyta(92.10);Mediophyceae(92.10);Minutocellus(18.42);Minutocellus polymorphus(36.84);
+2ddaefee4aff84466a8b5a9016705136	Eukaryota(89.82);Bilateria(53.80);Protostomia(53.80);Ecdysozoa(53.80);Arthropoda(53.80);Crustacea(53.80);Acartia tonsa(36.42);
+4217e1b6ee7195b23bc6460d41273c56	Eukaryota(89.82);Bilateria(53.80);Protostomia(53.80);Ecdysozoa(53.80);Arthropoda(53.80);Crustacea(53.80);Acartia tonsa(36.42);
+5e1ffc399c604ac1ada7b5e03faf94f2	Eukaryota(91.60);Cnidaria(91.60);Hydrozoa(91.60);Hydroidolina(91.60);Siphonophorae(54.98);uncultured eukaryote(18.36);uncultured eukaryote(18.36);
+99517db718278833eb87d3162970f7ef	Eukaryota(90.50);Bilateria(90.50);Protostomia(90.50);Ecdysozoa(90.50);Arthropoda(90.50);Crustacea(90.50);Centropages typicus(18.41);
+a908ba13285ee98af391186878707ef3	Eukaryota(90.70);Bilateria(90.70);Protostomia(90.70);Ecdysozoa(90.70);Arthropoda(90.70);Crustacea(90.70);Temora discaudata(18.35);
+e03ea0c4cb89e071370ef5a7d708d805	Eukaryota(91.85);Cnidaria(91.85);Hydrozoa(91.85);Hydroidolina(91.85);Siphonophorae(55.13);uncultured eukaryote(18.41);uncultured eukaryote(18.41);
+f6f3fa25ceb627f1a37238340dfbdedc	Eukaryota(91.84);Cnidaria(91.84);Hydrozoa(91.84);Hydroidolina(91.84);Siphonophorae(55.10);uncultured marine eukaryote(36.73);uncultured marine eukaryote(36.73);

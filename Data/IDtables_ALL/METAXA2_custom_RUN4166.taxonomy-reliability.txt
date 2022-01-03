@@ -1,0 +1,17 @@
+19747e4926116e11bce1da090e371a1e	Eukaryota(90.12);Cnidaria(90.12);Hydrozoa(90.12);Hydroidolina(90.12);Siphonophorae(90.12);Resomia(36.05);Resomia persica(18.02);
+1caad9ef20cb75194ee3dfe52943393c	Eukaryota(91.81);Arthropoda(91.81);Crustacea(91.81);Multicrustacea(91.81);Hexanauplia(91.81);Centropages(91.81);Centropages typicus(73.45);
+464f4db03e9945fc160930210e4e5112	Eukaryota(90.68);Arthropoda(90.68);Crustacea(90.68);Multicrustacea(90.68);Hexanauplia(90.68);Acartia(90.68);Acartia tonsa(90.68);
+4ba42ae6dea6709cfb3c2e64745647c0	Eukaryota(91.48);Cnidaria(91.48);Hydrozoa(91.48);Hydroidolina(91.48);Siphonophorae(91.48);Resomia(36.59);Resomia persica(18.29);
+61a48aa04a323c0d27b6a247b9331ffe	Eukaryota(91.18);Platyhelminthes(91.18);Trematoda(91.18);Digenea(91.18);Plagiorchiida(72.94);Enenteridae(18.23);Enenterid sp(18.23);
+6557d494cb53c7a4c40c18fc071cd8bf	Eukaryota(85.94);Cnidaria(85.94);Hydrozoa(85.94);Hydroidolina(85.94);Siphonophorae(85.94);Resomia(34.37);Resomia persica(17.18);
+7807010ad7f8e47b0a36deb2af3c3616	Eukaryota(89.34);Cnidaria(89.34);Hydrozoa(89.34);Hydroidolina(89.34);Siphonophorae(89.34);Resomia(35.73);Resomia persica(17.86);
+90223a01aad1bd1993c5cd85373a66e5	Eukaryota(86.53);Cercozoa(86.53);uncultured Cercozoa(69.50);uncultured Cercozoa(69.50);(0);(0);uncultured Cercozoa(69.50);
+98121af57e592a3f16c2e7c87ee27033	Eukaryota(91.48);Cnidaria(91.48);Hydrozoa(91.48);Hydroidolina(91.48);Siphonophorae(91.48);Resomia(36.59);Resomia persica(18.29);
+98db3c2d312070d10ea38cb22a2a4dba	Eukaryota(91.59);Arthropoda(91.59);Crustacea(91.59);Multicrustacea(91.59);Hexanauplia(91.59);Centropages(91.59);Centropages typicus(73.27);
+9aaaf723a92ca83651c54fb4a6d8fe7b	Eukaryota(90.68);Arthropoda(90.68);Crustacea(90.68);Multicrustacea(90.68);Hexanauplia(90.68);Acartia(90.68);Acartia tonsa(90.68);
+9d4fdb50124d3b03b958293d5c5f3aec	Eukaryota(88.47);Cercozoa(70.79);uncultured Cercozoa(70.79);uncultured Cercozoa(70.79);(0);(0);uncultured Cercozoa(70.79);
+a864298d4d332555392df772b38ce3df	Eukaryota(91.66);Bacillariophyta(55.07);Bacillariophyceae(55.07);Bacillariales(55.07);Bacillariaceae(55.07);Nitzschia(36.71);Nitzschia dissipata(36.71);
+a939e4332eec1b60ceb75af5be58c605	Eukaryota(91.23);Cnidaria(91.23);Hydrozoa(91.23);Hydroidolina(91.23);Siphonophorae(91.23);Siphonophorae sp(91.23);Siphonophorae sp(91.23);
+ca37cc768ec5fec742aecf67e6307ef9	Eukaryota(91.57);Cnidaria(91.57);Hydrozoa(91.57);Hydroidolina(91.57);Siphonophorae(91.57);Resomia(36.63);Resomia persica(18.31);
+db006b1eb3926201c029453c9896c7ae	Eukaryota(91.18);Platyhelminthes(91.18);Trematoda(91.18);Digenea(91.18);Plagiorchiida(72.94);Enenteridae(18.23);Enenterid sp(18.23);
+e9948e88179f96adce374a11845f6635	Eukaryota(88.67);Cnidaria(35.70);Scyphozoa(35.70);Semaeostomeae(35.70);Pelagiidae(17.85);Chrysaora(17.85);Chrysaora pacifica(17.85);

@@ -1,0 +1,10 @@
+105c88e51947fa9def3eaefb95bc10f7	Eukaryota(90.96);Arthropoda(90.96);Crustacea(90.96);Multicrustacea(90.96);Hexanauplia(90.96);Temora(36.72);Temora discaudata(18.36);
+236f01e2b96b27077ae0bfc9558d049d	Eukaryota(91.70);Arthropoda(91.70);Crustacea(91.70);Multicrustacea(91.70);Hexanauplia(91.70);Centropages(73.44);Centropages typicus(73.44);
+25d0e3d3b2fc941dab7bb8417205fd06	Eukaryota(90.14);Bacillariophyta(90.14);Bacillariophyceae(90.14);Naviculales(36.05);Amphipleuraceae(18.02);Halamphora(18.02);Halamphora holsatica(18.02);
+2ddaefee4aff84466a8b5a9016705136	Eukaryota(90.49);Arthropoda(90.49);Crustacea(90.49);Multicrustacea(90.49);Hexanauplia(90.49);Acartia(90.49);Acartia tonsa(90.49);
+4217e1b6ee7195b23bc6460d41273c56	Eukaryota(90.49);Arthropoda(90.49);Crustacea(90.49);Multicrustacea(90.49);Hexanauplia(90.49);Acartia(90.49);Acartia tonsa(90.49);
+5e1ffc399c604ac1ada7b5e03faf94f2	Eukaryota(91.55);Cnidaria(91.55);Hydrozoa(91.55);Siphonophorae(18.31);Cordagalmatidae(18.31);Cordagalma(18.31);Cordagalma abyssorum(18.31);
+99517db718278833eb87d3162970f7ef	Eukaryota(91.95);Arthropoda(91.95);Crustacea(91.95);Multicrustacea(91.95);Hexanauplia(91.95);Centropages(73.64);Centropages typicus(73.64);
+a908ba13285ee98af391186878707ef3	Eukaryota(91.16);Arthropoda(91.16);Crustacea(91.16);Multicrustacea(91.16);Hexanauplia(91.16);Temora(36.77);Temora stylifera(18.41);
+e03ea0c4cb89e071370ef5a7d708d805	Eukaryota(91.80);Cnidaria(91.80);Hydrozoa(91.80);Siphonophorae(18.36);Cordagalmatidae(18.36);Cordagalma(18.36);Cordagalma abyssorum(18.36);
+f6f3fa25ceb627f1a37238340dfbdedc	Eukaryota(91.84);Cnidaria(91.84);Hydrozoa(91.84);Hydroidolina(91.84);Siphonophorae(55.10);Resomia(55.10);Resomia dunni(18.36);

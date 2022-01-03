@@ -1,0 +1,16 @@
+19747e4926116e11bce1da090e371a1e	Eukaryota(90.14);Cnidaria(72.11);Hydrozoa(72.11);Hydroidolina(72.11);Siphonophorae(72.11);uncultured eukaryote(90.14);uncultured eukaryote(90.14);
+1caad9ef20cb75194ee3dfe52943393c	Eukaryota(91.25);Bilateria(91.25);Protostomia(91.25);Ecdysozoa(91.25);Arthropoda(91.25);Crustacea(91.25);Centropages hamatus(18.36);
+464f4db03e9945fc160930210e4e5112	Eukaryota(89.32);Bilateria(89.32);Protostomia(89.32);Ecdysozoa(89.32);Arthropoda(89.32);Crustacea(89.32);Acartia tonsa(36.39);
+4ba42ae6dea6709cfb3c2e64745647c0	Eukaryota(91.48);Cnidaria(73.18);Hydrozoa(73.18);Hydroidolina(73.18);Siphonophorae(73.18);uncultured eukaryote(91.48);uncultured eukaryote(91.48);
+61a48aa04a323c0d27b6a247b9331ffe	Eukaryota(91.12);Bilateria(91.12);Protostomia(91.12);Lophotrochozoa(91.12);Platyhelminthes(91.12);Trematoda(91.12);Gorgocephalus kyphosi(18.23);
+6557d494cb53c7a4c40c18fc071cd8bf	Eukaryota(85.94);SAR(17.18);Alveolata(17.18);Syndiniales(17.18);Syndiniales Group II(17.18);uncultured eukaryote(85.94);uncultured eukaryote(85.94);
+7807010ad7f8e47b0a36deb2af3c3616	Eukaryota(89.37);Cnidaria(71.49);Hydrozoa(71.49);Hydroidolina(71.49);Siphonophorae(71.49);uncultured eukaryote(89.37);uncultured eukaryote(89.37);
+90223a01aad1bd1993c5cd85373a66e5	Eukaryota(91.46);Dinoflagellata(54.87);Dinophyceae(54.87);Gymnodiniphycidae(36.58);Kareniaceae(36.58);Karlodinium(36.58);uncultured eukaryote(91.46);
+98121af57e592a3f16c2e7c87ee27033	Eukaryota(91.48);Cnidaria(73.18);Hydrozoa(73.18);Hydroidolina(73.18);Siphonophorae(73.18);uncultured eukaryote(91.48);uncultured eukaryote(91.48);
+98db3c2d312070d10ea38cb22a2a4dba	Eukaryota(91.20);Bilateria(91.20);Protostomia(91.20);Ecdysozoa(91.20);Arthropoda(91.20);Crustacea(91.20);Centropages hamatus(18.32);
+9aaaf723a92ca83651c54fb4a6d8fe7b	Eukaryota(89.32);Bilateria(89.32);Protostomia(89.32);Ecdysozoa(89.32);Arthropoda(89.32);Crustacea(89.32);Acartia tonsa(36.39);
+9d4fdb50124d3b03b958293d5c5f3aec	Eukaryota(91.40);Chytridiomycota(91.40);Incertae Sedis(91.40);Rhizophydiales(91.40);uncultured(73.17);uncultured fungus(18.35);uncultured fungus(18.35);
+a864298d4d332555392df772b38ce3df	Eukaryota(91.78);SAR(91.78);Stramenopiles(73.42);Ochrophyta(73.42);Bacillariophyceae(18.35);Nitzschia dissipata(18.35);Nitzschia dissipata(18.35);
+a939e4332eec1b60ceb75af5be58c605	Eukaryota(91.23);Cnidaria(91.23);Hydrozoa(91.23);Hydroidolina(91.23);Siphonophorae(91.23);uncultured eukaryote(72.99);uncultured eukaryote(72.99);
+ca37cc768ec5fec742aecf67e6307ef9	Eukaryota(91.57);SAR(18.31);Alveolata(18.31);Syndiniales(18.31);Syndiniales Group II(18.31);uncultured eukaryote(91.57);uncultured eukaryote(91.57);
+db006b1eb3926201c029453c9896c7ae	Eukaryota(91.12);Bilateria(91.12);Protostomia(91.12);Lophotrochozoa(91.12);Platyhelminthes(91.12);Trematoda(91.12);Gorgocephalus kyphosi(18.23);
