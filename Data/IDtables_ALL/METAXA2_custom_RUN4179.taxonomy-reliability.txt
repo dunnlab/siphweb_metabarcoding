@@ -1,19 +1,3 @@
-01cc3e18ed6619f3e756c99a6e16c6e6	Eukaryota(91.15);Cnidaria(91.15);Hydrozoa(91.15);Hydroidolina(72.92);Siphonophorae(72.92);Siphonophorae sp(18.23);Siphonophorae sp(18.23);
-0ce244c886334e12b17e0e8d33c5af0b	Eukaryota(89.78);Arthropoda(89.78);Crustacea(89.78);Multicrustacea(89.78);Hexanauplia(89.78);Acartia(89.78);Acartia tonsa(89.78);
-20453a9142c7a602286841e27272728f	Eukaryota(91.77);Arthropoda(91.77);Crustacea(91.77);Multicrustacea(91.77);Hexanauplia(91.77);Temora(91.77);Temora stylifera(18.35);
-274c6d70ec785434a2b2c7b300914328	Eukaryota(90.98);Cnidaria(90.98);Hydrozoa(90.98);Siphonophorae(18.19);Physophoridae(18.19);Physophora(18.19);Physophora(18.19);
-3821cf96ba84cf12ddd2d3717c8b9ead	Eukaryota(91.28);Cnidaria(91.28);Hydrozoa(91.28);Hydroidolina(73.02);Siphonophorae(73.02);Siphonophorae sp(18.25);Siphonophorae sp(18.25);
-3c449ab638832ab92b61e42d036f7167	Eukaryota(85.78);Bacillariophyta(85.78);Bacillariophyceae(85.78);Eunotiales(68.62);Eunotiaceae(68.62);Eunotia(68.62);Eunotia sp(68.62);
-3e9951ff26cec71fc13b93f97507046c	Eukaryota(91.52);Arthropoda(91.52);Crustacea(91.52);Multicrustacea(91.52);Hexanauplia(91.52);Centropages(73.42);Centropages typicus(73.42);
-695265d2d04094de581ef67c2ac076b2	Eukaryota(91.76);Cnidaria(91.76);Hydrozoa(91.76);Hydroidolina(73.41);Siphonophorae(73.41);Siphonophorae sp(18.35);Siphonophorae sp(18.35);
-8fb2ac3ac02ef5b54750a2cc4ea3109d	Eukaryota(90.98);Cnidaria(90.98);Hydrozoa(90.98);Siphonophorae(18.19);Physophoridae(18.19);Physophora(18.19);Physophora(18.19);
-9ff22742a4482ef75176a5e772342adf	Eukaryota(91.52);Arthropoda(91.52);Crustacea(91.52);Multicrustacea(91.52);Hexanauplia(91.52);Centropages(73.42);Centropages typicus(73.42);
-b7dbeb9023053ac9556ddd7dc005c098	Eukaryota(89.10);Arthropoda(89.10);Crustacea(89.10);Multicrustacea(89.10);Hexanauplia(89.10);Temora(53.97);Temora discaudata(18.22);
-c00d5a35343eabae1e5e00b890fa0077	Eukaryota(89.10);Arthropoda(89.10);Crustacea(89.10);Multicrustacea(89.10);Hexanauplia(89.10);Temora(53.97);Temora discaudata(18.22);
-c3e983257434444331b0e93219fa1016	Eukaryota(91.97);Cnidaria(91.97);Hydrozoa(91.97);Hydroidolina(73.58);Siphonophorae(73.58);Siphonophorae sp(18.39);Siphonophorae sp(18.39);
-cd639d398beab13ef47701230f73da65	Eukaryota(91.76);Cnidaria(91.76);Hydrozoa(91.76);Hydroidolina(73.41);Siphonophorae(73.41);Siphonophorae sp(18.35);Siphonophorae sp(18.35);
-d52bf14c924c0f74649800412f0d6aca	Eukaryota(91.28);Cnidaria(91.28);Hydrozoa(91.28);Hydroidolina(73.02);Siphonophorae(73.02);Siphonophorae sp(18.25);Siphonophorae sp(18.25);
-d915518f3ffa8fdce50026e3e86e283e	Eukaryota(90.98);Cnidaria(90.98);Hydrozoa(90.98);Siphonophorae(18.19);Physophoridae(18.19);Physophora(18.19);Physophora(18.19);
-dae8df19723ff7468b5fb88af4c029a6	Eukaryota(89.78);Arthropoda(89.78);Crustacea(89.78);Multicrustacea(89.78);Hexanauplia(89.78);Acartia(89.78);Acartia tonsa(89.78);
-eccc62f8edd4726d81888606f6deb335	Eukaryota(91.15);Cnidaria(91.15);Hydrozoa(91.15);Hydroidolina(72.92);Siphonophorae(72.92);Siphonophorae sp(18.23);Siphonophorae sp(18.23);
-f356bb890f923a8aee8620e55af7d902	Eukaryota(91.35);Cnidaria(91.35);Hydrozoa(91.35);Siphonophorae(18.27);Physophoridae(18.27);Physophora(18.27);Physophora(18.27);
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a2779190d77136d92e95acd313f56db32c05a9b4df0876dbaff6ad7aa2b3c2
+size 3186

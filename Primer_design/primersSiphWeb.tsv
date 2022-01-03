@@ -1,0 +1,13 @@
+Gene	Alignment	Name	Type (F/R)	Degeneracy	% matches	Primer sequence	Length (bp)	TM © min	TM © max	%GC	Hairpin TMC	Self Dimer TMC	Pair Dimer TMC	Insert size (bp)	Start position	End position	Sameness	Resolution	Resolution real	Order?	Bad for amplifying
+18S	975seqs	18S152F	F	0	99	TGACGGAAGGGCACCACCAG	20	62.7	64.6	63.2	63	0.1	None	152	3275	3301		96%	14%	Yes	Few scattered random taxa
+18S	975seqs	18S152R	R	0	98	TCCACCAACTAAGAACGGCC	20	60	60	55	None	None	None	152	3425	3457	1	96%	14%	Yes	Few scattered random taxa
+18S	975seqs	18S166F	F	0	67	AACGGCTACCACATCCAAGG	20	60	60	55	None	None	None	166	887	906		98%	21%	Yes	Hyperiids, chaetognaths, barnacles, cephalopods, holothurians
+18S	975seqs	18S166R	R	0	74	CACCAGACTTGCCCTCCAAT	20	60	60	55	31.9	None	None	166	1152	1129		98%	21%	Yes	Hyperiids, chaetognaths, barnacles, cephalopods, holothurians
+18S	975seqs	18S272F	F	0	82+ (3 msms)	AAACGATGCCGACTAGCGAT	20	59.9	59.9	50	44.6	7.9	6.7	272	3064	3085		98%	28%	Yes	Hyperiids, chaetognaths, Acartia, barnacles, gorgonians, scyphozoa, siphonophora, decapods, larvaceans, holothurians, 
+18S	975seqs	18S272R	R	0	98	TCCACCAACTAAGAACGGCC	20	60	60	55	None	None	6.7	272	3457	3425	1	98%	28%	Yes	Hyperiids, chaetognaths, Acartia, barnacles, gorgonians, scyphozoa, siphonophora, decapods, larvaceans, holothurians, 
+18S	975seqs	18S179F	F	0	98	GGCCGTTCTTAGTTGGTGGA	20	60	60	55	None	None	11	179	3425	3457	1	99%	37%	Yes	Urochordates, squids, some fish
+18S	975seqs	18S179R	R	0	93 (2 msms)	TGCGGCCCAGAACATCTAAG	20	60.1	60.1	55	None	None	11	179	4139	4116		99%	37%	Yes	Urochordates, squids, some fish
+18S	975seqs	18S261F	F	0	95	AACAGGTCTGTGATGCCCTT	20	59.2	59.2	50	44.1	4.2	14	261	4081	4118		99%	33%	Yes	Few scattered random taxa
+18S	975seqs	18S261R	R	0	95	TGTGTACAAAGGGCAGGGAC	20	59.9	59.9	55	None	None	14	261	4432	4397		99%	33%	Yes	Few scattered random taxa
+18S	975seqs	18SV9ADSF	F	0	66	CTTTGTACACACCGCCCGTC	20	61.6	61.6	60	None	None	None	134	4,421	4443		98%	13%	Have it	Hyperiids, chaetognaths, Acartia, Spinocalanus, cerianthids, pelagiidae, copepods, urochordates, holothurians, echinoderms, gastropods
+18S	975seqs	18SV9ADSR	R	0	66	CCTTGTTACGACTTTTACTTCCTCT	25	58.8	58.8	40	None	None	None	134	4745	4779		98%	13%	Have it	Hyperiids, chaetognaths, Acartia, Spinocalanus, cerianthids, pelagiidae, copepods, urochordates, holothurians, echinoderms, gastropods

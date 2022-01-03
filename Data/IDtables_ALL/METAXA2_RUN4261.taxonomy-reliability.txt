@@ -1,10 +1,3 @@
-105c88e51947fa9def3eaefb95bc10f7	Eukaryota(90.50);Metazoa(90.50);Ecdysozoa(72.48);Arthropoda(72.48);Crustacea(72.48);Maxillopoda(72.48);Copepoda(72.48);Calanoida(72.48);Temoridae(36.38);Temora(36.38);Temora discaudata(91.81);
-236f01e2b96b27077ae0bfc9558d049d	Eukaryota(90.30);Metazoa(54.63);Ecdysozoa(54.63);Arthropoda(54.63);Crustacea(54.63);Maxillopoda(54.63);Copepoda(54.63);Calanoida(54.63);Centropagidae(54.63);Centropages(54.63);Centropages typicus(45.90);
-25d0e3d3b2fc941dab7bb8417205fd06	Eukaryota(92.10);Alveolata(18.42);Dinophyceae(18.42);Syndiniales(18.42);environmental samples(18.42);uncultured syndiniales(18.42);
-2ddaefee4aff84466a8b5a9016705136	Eukaryota(89.62);Metazoa(53.80);Ecdysozoa(53.80);Arthropoda(53.80);Crustacea(53.80);Maxillopoda(53.80);Copepoda(53.80);Calanoida(53.80);Acartiidae(53.80);Acartia(53.80);Acartia tonsa(45.99);
-4217e1b6ee7195b23bc6460d41273c56	Eukaryota(89.62);Metazoa(53.80);Ecdysozoa(53.80);Arthropoda(53.80);Crustacea(53.80);Maxillopoda(53.80);Copepoda(53.80);Calanoida(53.80);Acartiidae(53.80);Acartia(53.80);Acartia tonsa(45.99);
-5e1ffc399c604ac1ada7b5e03faf94f2	Eukaryota(91.82);environmental samples(91.82);uncultured eukaryote(91.82);
-99517db718278833eb87d3162970f7ef	Eukaryota(90.56);Metazoa(54.78);Ecdysozoa(54.78);Arthropoda(54.78);Crustacea(54.78);Maxillopoda(54.78);Copepoda(54.78);Calanoida(54.78);Centropagidae(54.78);Centropages(54.78);Centropages typicus(30.68);
-a908ba13285ee98af391186878707ef3	Eukaryota(90.70);Metazoa(90.70);Ecdysozoa(72.63);Arthropoda(72.63);Crustacea(72.63);Maxillopoda(72.63);Copepoda(72.63);Calanoida(72.63);Temoridae(36.43);Temora(36.43);Temora discaudata(45.89);
-e03ea0c4cb89e071370ef5a7d708d805	Eukaryota(92.07);environmental samples(92.07);uncultured eukaryote(92.07);
-f6f3fa25ceb627f1a37238340dfbdedc	Eukaryota(91.84);environmental samples(91.84);uncultured eukaryote(91.84);
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc72f8a45b2167b2ddb2c3cd498279e7d48e131a6ba8def3a41ae10245299584
+size 1863

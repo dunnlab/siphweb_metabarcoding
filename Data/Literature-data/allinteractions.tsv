@@ -1,0 +1,287 @@
+Predator	Pred_suborder	Prey	Prey_broad	source	Num_interactions
+Agalma elegans	Physonectae		Amphipod	Biggs1977	1
+Agalma okeni	Physonectae		Amphipod	Biggs1977b_Feeding	1
+Agalma okeni	Physonectae		Amphipod	Biggs1977	1
+Archangelopsis jagoa	Physonectae		Amphipod	Hissman2005_newrho	1
+Athorybia rosacea	Physonectae		Amphipod	Biggs1977b_Feeding	1
+Athorybia rosacea	Physonectae		Amphipod	Biggs1977	1
+Diphyes dispar	Calycophorae		Amphipod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Amphipod	Purcell1981b_feeding	1
+Forskalia tholoides	Physonectae		Amphipod	Biggs1977b_Feeding	1
+Rosacea cymbiformis	Calycophorae		Amphipod	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Amphipod	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Amphipod	Purcell1981b_feeding	1
+Physonectae	Physonectae	Bathochordaeus sp. a	Appendicularia	Choy_2017	1
+Siphonophorae	Siphonophorae	Oikopleura	Appendicularia	Choy_2017	1
+Bargmannia	Physonectae	Cephalopoda	Cephalopod	Choy_2017	2
+Physonectae	Physonectae	Galiteuthis	Cephalopod	Choy_2017	1
+Physalia physalis	Cystonectae		Cephalopod	Bardi2007_Physalia	1
+Physalia physalis	Cystonectae		Cephalopod	Mackie1987_Siphbio	1
+Nanomia bijuga	Physonectae	Chaetognatha	Chaetognath	Choy_2017	1
+Apolemia uvaria	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Chaetognath	Purcell1981b_feeding	1
+Physalia physalis	Cystonectae		Chaetognath	Mackie1987_Siphbio	1
+Rosacea cymbiformis	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Sulculeolaria turgida	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Sulculeolaria turgida	Calycophorae		Chaetognath	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Cladoceran	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Cladoceran	Purcell1981b_feeding	1
+Physonectae	Physonectae	Copepoda	Copepod	Choy_2017	1
+Praya dubia	Calycophorae	Copepoda	Copepod	Choy_2017	1
+Abyla elegans	Calycophorae		Copepod	Purcell1981b_feeding	1
+Abyla trigona	Calycophorae		Copepod	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Copepod	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Copepod	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Copepod	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Copepod	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Copepod	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Copepod	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Copepod	Biggs1977b_Feeding	1
+Athorybia rosacea	Physonectae		Copepod	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Copepod	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Copepod	Purcell1981b_feeding	1
+Bassia bassensis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Bassia bassensis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Chelophyes appendiculata	Calycophorae		Copepod	Purcell1981b_feeding	1
+Chelophyes appendiculata	Calycophorae		Copepod	Purcell1981b_feeding	1
+Chelophyes appendiculata	Calycophorae		Copepod	Purcell1981b_feeding	1
+Cordagalma ordinatum	Physonectae		Copepod	Purcell1981b_feeding	1
+Cordagalma ordinatum	Physonectae		Copepod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Copepod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Copepod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Copepod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Copepod	Purcell1981b_feeding	1
+Forskalia tholoides	Physonectae		Copepod	Biggs1977b_Feeding	1
+Marrus orthocanna	Physonectae		Copepod	Andersen1981_Morthocanna	1
+Muggiaea atlantica	Calycophorae		Copepod	Purcell1981b_feeding	1
+Muggiaea atlantica	Calycophorae		Copepod	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Copepod	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Copepod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Rosacea limbata	Calycophorae		Copepod	Pugh1988b_Prayidae	1
+Sphaeronectes koellikeri	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sphaeronectes koellikeri	Calycophorae		Copepod	Purcell1981b_feeding	1
+Stephanophyes superba	Calycophorae		Copepod	Biggs1977b_Feeding	1
+Sulculeolaria biloba	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria biloba	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria chuni	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria chuni	Calycophorae		Copepod	Purcell1981b_feeding	1
+Abyla trigona	Calycophorae		Copepod	Purcell1984	1
+Agalma elegans	Physonectae		Copepod	Purcell1984	1
+Agalma okeni	Physonectae		Copepod	Purcell1984	1
+Athorybia rosacea	Physonectae		Copepod	Purcell1984	1
+Bassia bassensis	Calycophorae		Copepod	Purcell1984	1
+Chelophyes appendiculata	Calycophorae		Copepod	Purcell1984	1
+Cordagalma ordinatum	Physonectae		Copepod	Purcell1984	1
+Diphyes dispar	Calycophorae		Copepod	Purcell1984	1
+Forskalia edwardsi	Physonectae		Copepod	Purcell1984	1
+Hippopodius hippopus	Calycophorae		Copepod	Purcell1984	1
+Muggiaea atlantica	Calycophorae		Copepod	Purcell1984	1
+Nanomia bijuga	Physonectae		Copepod	Purcell1984	1
+Rosacea cymbiformis	Calycophorae		Copepod	Purcell1984	1
+Sphaeronectes koellikeri	Calycophorae		Copepod	Purcell1984	1
+Stephanophyes superba	Calycophorae		Copepod	Purcell1984	1
+Rosacea cymbiformis	Calycophorae		Copepod	Biggs1977b_Feeding	1
+Sulculeolaria monoica	Calycophorae		Copepod	Biggs1977b_Feeding	1
+Sulculeolaria monoica	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria monoica	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Copepod	Purcell1984	1
+Sulculeolaria quadrivalvis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria turgida	Calycophorae		Copepod	Purcell1981b_feeding	1
+Sulculeolaria turgida	Calycophorae		Copepod	Purcell1981b_feeding	1
+Bargmannia	Physonectae	Crustacea	Crustacea	Choy_2017	1
+Lychnagalma utricularia	Physonectae	Crustacea	Crustacea	Choy_2017	3
+Nanomia bijuga	Physonectae	Crustacea	Crustacea	Choy_2017	1
+Abyla trigona	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Crustacea	Biggs1977b_Feeding	1
+Agalma elegans	Physonectae		Crustacea	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Crustacea	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Crustacea	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Crustacea	Biggs1977b_Feeding	1
+Agalma okeni	Physonectae		Crustacea	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Crustacea	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Crustacea	Biggs1977b_Feeding	1
+Athorybia rosacea	Physonectae		Crustacea	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Crustacea	Purcell1981b_feeding	1
+Bassia bassensis	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Chelophyes appendiculata	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Cordagalma ordinatum	Physonectae		Crustacea	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Forskalia edwardsi	Physonectae		Crustacea	Biggs1977b_Feeding	1
+Forskalia tholoides	Physonectae		Crustacea	Biggs1977b_Feeding	1
+Hippopodius hippopus	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Muggiaea atlantica	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Crustacea	Biggs1977b_Feeding	1
+Nanomia bijuga	Physonectae		Crustacea	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Crustacea	Purcell1981b_feeding	1
+Resomia persica	Physonectae		Crustacea	Pugh2009cResomiidae	1
+Rosacea cymbiformis	Calycophorae		Crustacea	Biggs1977b_Feeding	1
+Rosacea cymbiformis	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Rosacea limbata	Calycophorae		Crustacea	Pugh1988b_Prayidae	1
+Rosacea repanda	Calycophorae		Crustacea	Pugh1988b_Prayidae	1
+Sphaeronectes koellikeri	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Stephanophyes superba	Calycophorae		Crustacea	Biggs1977b_Feeding	1
+Sulculeolaria biloba	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Sulculeolaria chuni	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Sulculeolaria monoica	Calycophorae		Crustacea	Biggs1977b_Feeding	1
+Sulculeolaria monoica	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Sulculeolaria turgida	Calycophorae		Crustacea	Purcell1981b_feeding	1
+Siphonophorae	Siphonophorae	Ctenophora	Ctenophore	Choy_2017	2
+Apolemia	Physonectae	Ctenophora	Ctenophore	Choy_2017	1
+Physonectae	Physonectae	Cydippida	Ctenophore	Choy_2017	1
+Praya dubia	Calycophorae	Ctenophora	Ctenophore	Choy_2017	1
+Praya dubia	Calycophorae	Cydippida	Ctenophore	Choy_2017	1
+Siphonophorae	Siphonophorae	Cydippida	Ctenophore	Choy_2017	1
+Calycophorae	Calycophorae	Cydippida	Ctenophore	Choy_2017	1
+Apolemia uvaria	Physonectae		Ctenophore	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Ctenophore	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Decapod	Biggs1977b_Feeding	1
+Agalma elegans	Physonectae		Decapod	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Decapod	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Decapod	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Decapod	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Decapod	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Decapod	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Decapod	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Decapod	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Decapod	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Decapod	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Decapod	Biggs1977b_Feeding	1
+Athorybia rosacea	Physonectae		Decapod	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Decapod	Biggs1977	1
+Athorybia rosacea	Physonectae		Decapod	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Decapod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Decapod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Decapod	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Decapod	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Decapod	Purcell1981b_feeding	1
+Nanomia bijuga	Physonectae		Decapod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Decapod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Decapod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Decapod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Decapod	Purcell1981b_feeding	1
+Siphonophorae	Siphonophorae	Decapoda	Decapod	Choy_2017	1
+Forskalia	Physonectae	Sergestes	Decapod	Choy_2017	1
+Lychnagalma utricularia	Physonectae	Sergestes	Decapod	Choy_2017	5
+Nanomia bijuga	Physonectae	Sergestes	Decapod	Choy_2017	1
+Nanomia bijuga	Physonectae	Euphausia	Euphausiid	Choy_2017	3
+Physonectae	Physonectae	Euphausiacea	Euphausiid	Choy_2017	1
+Praya dubia	Calycophorae	Euphausiacea	Euphausiid	Choy_2017	2
+Siphonophorae	Siphonophorae	Euphausiacea	Euphausiid	Choy_2017	3
+Apolemia	Physonectae	Euphausiacea	Euphausiid	Choy_2017	3
+Forskalia	Physonectae	Euphausiacea	Euphausiid	Choy_2017	3
+Nanomia bijuga	Physonectae	Euphausiacea	Euphausiid	Choy_2017	64
+Resomia ornicephala	Physonectae	Euphausiacea	Euphausiid	Choy_2017	3
+Nanomia bijuga	Physonectae	Euphausiidae	Euphausiid	Choy_2017	5
+Resomia persica	Physonectae		Euphausiid	Pugh2009cResomiidae	1
+Stephanophyes superba	Calycophorae		Euphausiid	Biggs1977b_Feeding	1
+Physonectae	Physonectae	Actinopteri	Fish	Choy_2017	4
+Apolemia	Physonectae	Actinopteri	Fish	Choy_2017	1
+Bathyphysa conifera	Cystonectae	Actinopteri	Fish	Choy_2017	1
+Stephanomia amphytridis	Physonectae	Actinopteri	Fish	Choy_2017	1
+Apolemia	Physonectae	Cyclothone	Fish	Choy_2017	1
+Physonectae	Physonectae	Stenobrachius leucopsarus	Fish	Choy_2017	1
+Bathyphysa conifera	Cystonectae	Tarletonbeania	Fish	Choy_2017	1
+Agalma elegans	Physonectae		Fish	Purcell1981b_feeding	1
+Agalma elegans	Physonectae		Fish	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Fish	Purcell1981b_feeding	1
+Agalma okeni	Physonectae		Fish	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Fish	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Fish	Purcell1981b_feeding	1
+Archangelopsis jagoa	Physonectae		Fish	Hissman2005_newrho	1
+Athorybia rosacea	Physonectae		Fish	Biggs1977b_Feeding	1
+Athorybia rosacea	Physonectae		Fish	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Fish	Purcell1981b_feeding	1
+Bathyphysa sibogae	Cystonectae		Fish	Purcell1981b_feeding	1
+Bathyphysa sibogae	Cystonectae		Fish	Purcell1981	1
+Forskalia tholoides	Physonectae		Fish	Biggs1977b_Feeding	1
+Physalia physalis	Cystonectae		Fish	Bardi2007_Physalia	1
+Physalia physalis	Cystonectae		Fish	Purcell1981	1
+Rhizophysa eyesenhardti	Cystonectae		Fish	Purcell1981b_feeding	1
+Rhizophysa eyesenhardti	Cystonectae		Fish	Purcell1981	1
+Rhizophysa eyesenhardti	Cystonectae		Fish	Purcell1981b_feeding	1
+Rhizophysa filiformis	Cystonectae		Fish	Biggs1977b_Feeding	1
+Rhizophysa filiformis	Cystonectae		Fish	Purcell1981b_feeding	1
+Rhizophysa filiformis	Cystonectae		Fish	Purcell1981	1
+Rosacea cymbiformis	Calycophorae		Fish	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Fish	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Fish	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Fish	Purcell1981b_feeding	1
+Tridensa sulawensis	Physonectae		Fish	Hissman2005_newrho	1
+Apolemia uvaria	Physonectae		Gastropod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Gastropod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Gastropod	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Gelatinous	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Gelatinous	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Gelatinous	Purcell1981	1
+Apolemia uvaria	Physonectae		Gelatinous	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Hydrozoa	Purcell1981b_feeding	1
+Physonectae	Physonectae	Aegina	Hydrozoa	Choy_2017	2
+Apolemia	Physonectae	Aegina	Hydrozoa	Choy_2017	3
+Desmophyes annectens	Calycophorae	Aegina	Hydrozoa	Choy_2017	1
+Nanomia bijuga	Physonectae	Aegina	Hydrozoa	Choy_2017	1
+Apolemia	Physonectae	Crossota	Hydrozoa	Choy_2017	1
+Apolemia	Physonectae	Haliscera conica	Hydrozoa	Choy_2017	2
+Praya dubia	Calycophorae	Hydromedusae	Hydrozoa	Choy_2017	1
+Siphonophorae	Siphonophorae	Leptomedusae	Hydrozoa	Choy_2017	1
+Apolemia	Physonectae	Ptychogena lactea	Hydrozoa	Choy_2017	1
+Praya dubia	Calycophorae	Solmissus	Hydrozoa	Choy_2017	1
+Apolemia	Physonectae	Solmissus	Hydrozoa	Choy_2017	1
+Praya dubia	Calycophorae	Trachymedusae	Hydrozoa	Choy_2017	1
+Apolemia uvaria	Physonectae		Hydrozoa	Purcell1981b_feeding	1
+Apolemia	Physonectae	Medusae	Medusae	Choy_2017	3
+Apolemia uvaria	Physonectae		Mollusc	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Mollusc	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Mollusc	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Forskalia tholoides	Physonectae		Mollusc	Biggs1977b_Feeding	1
+Rosacea cymbiformis	Calycophorae		Mollusc	Biggs1977b_Feeding	1
+Rosacea cymbiformis	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Sulculeolaria quadrivalvis	Calycophorae		Mollusc	Purcell1981b_feeding	1
+Siphonophorae	Siphonophorae	Narcomedusae	Narcomedusae	Choy_2017	1
+Chelophyes appendiculata	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Chelophyes appendiculata	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Cordagalma ordinatum	Physonectae		Ostracod	Purcell1981b_feeding	1
+Cordagalma ordinatum	Physonectae		Ostracod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Diphyes dispar	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Hippopodius hippopus	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Hippopodius hippopus	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Rosacea cymbiformis	Calycophorae		Ostracod	Purcell1981b_feeding	1
+Rosacea limbata	Calycophorae		Ostracod	Pugh1988b_Prayidae	1
+Apolemia uvaria	Physonectae		Polychaete	Purcell1981b_feeding	1
+Athorybia rosacea	Physonectae		Polychaete	Biggs1977b_Feeding	1
+Forskalia tholoides	Physonectae		Polychaete	Biggs1977b_Feeding	1
+Rhizophysa filiformis	Cystonectae		Polychaete	Biggs1977b_Feeding	1
+Rosacea cymbiformis	Calycophorae		Polychaete	Purcell1981b_feeding	1
+Physonectae	Physonectae	Salpida	Salp	Choy_2017	1
+Siphonophorae	Siphonophorae	Salpida	Salp	Choy_2017	1
+Apolemia	Physonectae	Salpida	Salp	Choy_2017	1
+Apolemia uvaria	Physonectae		Salp	Purcell1981b_feeding	1
+Apolemia uvaria	Physonectae		Salp	Purcell1981b_feeding	1
+Apolemia	Physonectae	Atolla vanhoeffeni	Scyphozoa	Choy_2017	2
+Praya dubia	Calycophorae	Forskalia	Siphonophorae	Choy_2017	1
+Praya dubia	Calycophorae	Nanomia bijuga	Siphonophorae	Choy_2017	2
+Siphonophorae	Siphonophorae	Siphonophorae	Siphonophorae	Choy_2017	1
+Bargmannia amoena	Physonectae	Mysid	Mysid	PersObs_D861-D12	1

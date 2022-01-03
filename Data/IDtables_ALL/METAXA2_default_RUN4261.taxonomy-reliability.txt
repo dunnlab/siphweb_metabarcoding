@@ -1,10 +1,3 @@
-105c88e51947fa9def3eaefb95bc10f7	Eukaryota(90.07);Metazoa(90.07);Ecdysozoa(72.05);Arthropoda(72.05);Crustacea(72.05);Maxillopoda(72.05);Copepoda(72.05);Calanoida(72.05);Temoridae(18.36);Temora(18.36);Temora discaudata(91.81);
-236f01e2b96b27077ae0bfc9558d049d	Eukaryota(89.77);Metazoa(89.77);Ecdysozoa(89.77);Arthropoda(89.77);Crustacea(89.77);Maxillopoda(89.77);Copepoda(89.77);Calanoida(89.77);Centropagidae(36.33);Centropages(36.33);Centropages typicus(91.26);
-25d0e3d3b2fc941dab7bb8417205fd06	Eukaryota(91.88);Stramenopiles(91.88);Bacillariophyta(91.88);Mediophyceae(91.88);Cymatosirophycidae(73.52);Cymatosirales(73.52);Cymatosiraceae(73.52);Minutocellus(18.42);Minutocellus polymorphus(18.42);
-2ddaefee4aff84466a8b5a9016705136	Eukaryota(89.28);Metazoa(53.83);Ecdysozoa(36.11);Arthropoda(36.11);Crustacea(18.39);Maxillopoda(18.39);Copepoda(18.39);Calanoida(18.39);Acartiidae(18.39);Acartia(18.39);Acartia tonsa(91.98);
-4217e1b6ee7195b23bc6460d41273c56	Eukaryota(89.28);Metazoa(53.83);Ecdysozoa(36.11);Arthropoda(36.11);Crustacea(18.39);Maxillopoda(18.39);Copepoda(18.39);Calanoida(18.39);Acartiidae(18.39);Acartia(18.39);Acartia tonsa(91.98);
-5e1ffc399c604ac1ada7b5e03faf94f2	Eukaryota(91.49);Metazoa(91.49);Cnidaria(91.49);Hydrozoa(91.49);Hydroidolina(91.49);Siphonophorae(54.93);Physonectae(36.62);Resomiidae(18.31);Resomia(18.31);Resomia persica(18.31);
-99517db718278833eb87d3162970f7ef	Eukaryota(90.03);Metazoa(90.03);Ecdysozoa(90.03);Arthropoda(90.03);Crustacea(90.03);Maxillopoda(90.03);Copepoda(90.03);Calanoida(90.03);Centropagidae(36.43);Centropages(36.43);Centropages typicus(45.75);
-a908ba13285ee98af391186878707ef3	Eukaryota(90.28);Metazoa(90.28);Ecdysozoa(72.20);Arthropoda(72.20);Crustacea(72.20);Maxillopoda(72.20);Copepoda(72.20);Calanoida(72.20);Temoridae(18.35);Temora(18.35);Temora discaudata(91.79);
-e03ea0c4cb89e071370ef5a7d708d805	Eukaryota(91.74);Metazoa(91.74);Cnidaria(91.74);Hydrozoa(91.74);Hydroidolina(91.74);Siphonophorae(55.08);Physonectae(36.72);Resomiidae(18.36);Resomia(18.36);Resomia persica(18.36);
-f6f3fa25ceb627f1a37238340dfbdedc	Eukaryota(91.84);Metazoa(91.84);Cnidaria(91.84);Hydrozoa(91.84);Hydroidolina(91.84);Siphonophorae(73.47);Calycophorae(18.36);Hippopodiidae(18.36);Hippopodius(18.36);Hippopodius hippopus(18.36);
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3febc35c2fc290a431cb286799ee168432894515f21d10919425dec4e83c862
+size 2265
