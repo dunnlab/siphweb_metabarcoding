@@ -1,0 +1,58 @@
+TO DO LIST:
+----------
+
+#Editor
+
+Ask editor: Latex template?
+Add ethics statement in methods “Our protocol was compliant with all local regulations and under a marine collection permit. Since no vertebrates or cephalopods were involved, we did not need oversight from an animal care board.”
+Write response to reviewers
+Remove funders from acknowledgements section
+Change my affiliation to Yale for billing purposes
+Identify copyright holders or all photos in Figure 2.
+	Ask for permission: “I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/).”
+	Upload Content Permission Form under “Other” in the submissionAdd to Fig2 caption: “Reprinted from [reference] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+add “© Magnolia Press” in Desmophyes and mention in the caption “reproduced with permission from the copyright holder”.
+	Add to Fig2 caption: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+	remove/replace the pictures that were not approved by the holders from Fig2.
+Format manuscript to match journal requirements
+	https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf
+	https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+Finalize marked-up version of the MS with line numbers.
+Save alternative version with all edits resolved (unmarked)
+
+#Reviewer 1
+
+Tone down the specialization narrative when our data is purely qualitative
+Respond by explaining that quantitative statistical analysis in not in the scope of this paper, and it is not meaningful given the nature of the data, and the feasibility of sample replication in the deep-sea
+Describe the protocol in more detail in the methods
+Describe the primer design analyses
+Change Damian-Serrano 2020 citations to protocols.io DOI link
+Identify which V1-9 regions the priming sites correspond to.
+Double check with pre-existing primers for these regions see if they match.
+Rename the barcodes to reflect their gene position.
+Evaluate assignment differences between SILVA databases and report results
+HOW? - play around to see if any comparison makes sense
+Argument that comparison was not in the scope, that these were integrated to interpret the result based on taxonomic rank coverage and different sensitivities.
+Redo all SM figures (other than SM10 and SM11) as summary tables.
+
+#Reviewers 2
+
+Correct the claim of application to other gelatinous species including those two articles
+Clarify which sources were interpreted as environmental and why. (number of reads, natural history)
+“Eukaryote”, “Bacteria”, “Hydrozoan”, “Rotifer”, “Shark”, “Ascidian”, “Sponge”, “Hydromedusa” “Bryozoan”, “Echinoderm”, “Gastrotrich” “Orthonectid” “Bivalve”, “Anemone”, “Echiurid”, “Hydroid”
+Clarify why marine snow was not considered
+Specify the species-level identification confidence for the copepod genus/species mentioned in the Atlantic specimens (Centropages sp. 54.99%, Acartia tonsa 91.5%, and Temora discaudata 91.81% using the SILVA123 database).
+Clarify that we used gastrozooids from all specimens not just ones with visible gut contents.
+Clarify that gastrozooids without visible gut contents were also sampled, we just made sure that the bulgy ones were definitely sampled.
+Explain DAPC first usage
+Synthesize discussion
+Catalog voucher specimens. Provide voucher catalog numbers through YPM.
+Specify Geneious version used (11.1.5)
+Clarify in Fig 5 caption what “gelatinous” encompasses
+
+#Sanger sequence errors
+
+Contact GenBank to withdraw sequences
+Make a note in the Github repo
+
+

@@ -17,7 +17,7 @@ library(googledrive)
 
 barcodes=c("134", "152","166", "179", "261", "272")
 drive_get("/")
-setwd("/Volumes/GoogleDrive/My Drive/Metabarcoding_things/siphweb_metabarcoding/IDtables_ALL")
+setwd("~/siphweb_metabarcoding/Data/IDtables_ALL/")
 
 runids = c("RUN0","RUN1","RUN2","RUN3", "RUN4","RUN5")
 metacomblist=list()
@@ -219,18 +219,18 @@ ggplot(customtab, aes(x = sample, y = log(abundance), fill = OTU)) + geom_bar(po
 
 ### Analyze Metaxa & Trawl Data
 #Read metabarcoding data
-setwd("smb://localhost/alejandro.damianserrano@yale.edu - Google Drive/My Drive/Metabarcoding_things/")
-allsamples <- read.csv("/Volumes/GoogleDrive/My Drive/Metabarcoding_things/siphweb_metabarcoding/AllSamplesParsed.tsv", sep="\t", header = T, stringsAsFactors = F)
+setwd("~/siphweb_metabarcoding")
+allsamples <- read.csv("Manual_curation/AllSamplesParsed.tsv", sep="\t", header = T, stringsAsFactors = F)
 allsamples <- allsamples[,-66]
 #Parse sequences/feature_names
-allseqs <- read.csv("/Volumes/GoogleDrive/My Drive/Metabarcoding_things/siphweb_metabarcoding/seqs-feats.csv", sep="\t", header = F, stringsAsFactors = F)
+allseqs <- read.csv("Data/seqs-feats.csv", sep="\t", header = F, stringsAsFactors = F)
 names(allseqs) <- c("Feature_name","Sequence")
 allseqs <- allseqs[which(allseqs$Feature_name %in% unique(allsamples$Feature_name)),]
 seqs_samples <- full_join(allsamples,allseqs, by="Feature_name")
 #write.table(seqs_samples, "SequencesParsed.tsv", sep="\t", col.names = T, row.names = F)
 
 #Read trawl data
-trawls = read.csv("/Volumes/GoogleDrive/My\ Drive/Metabarcoding_things/siphweb_metabarcoding/trawls_data_Nov2020.tsv", header=T, sep="\t", stringsAsFactors = F)
+trawls = read.csv("Data/trawls_data_Nov2020.tsv", header=T, sep="\t", stringsAsFactors = F)
 trawls$Broad.group[which(trawls$Broad.group == "Krill")] <- "Euphausid"
 trawls$Broad.group[which(trawls$Broad.group == "Gymnosome pteropod")] <- "Gastropod"
 trawls$Broad.group[which(trawls$Broad.group == "Appendicularia")] <- "Larvacean"
@@ -248,7 +248,7 @@ names(broad.taxa) <- c("Sample", "Broad.group", "Representative.count")
 broad.taxa$Representative.count[is.na(broad.taxa$Representative.count)]<-1
 
 #Encode extraction-to-trawl match
-ext <- read.csv("/Volumes/GoogleDrive/My Drive/Metabarcoding_things/siphweb_metabarcoding/extractions_GC_Nov2020.tsv", header=T, stringsAsFactors = F, sep="\t" )
+ext <- read.csv("Data/extractions_GC_Nov2020.tsv", header=T, stringsAsFactors = F, sep="\t" )
 trawl_to_specimen <- ext[,c(1,3,13)]
 RUN0trawls = data.frame(Extraction..=allsamples$Extraction, Specimen.. = allsamples$Specimen, Corrresponding.prey.field.sample = rep(NA, nrow(allsamples)))[which(allsamples$run == "RUN0"),]
 names(RUN0trawls) <- names(trawl_to_specimen)
