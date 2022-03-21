@@ -26,15 +26,15 @@ These were removed from GenBank. Since these are only three sequences among mill
 
 ### Barcode region renaming:
 
-We originally named the barcode regions by their predicted amplicon length (134, 152, 166, 179, 261, 272). For the PLOS ONE article, we renamed these regions in the manuscript and figures to indicate the genomic regions they correspond to.
+We originally named the barcode regions by their predicted amplicon length (134, 152, 166, 179, 261, 272). For the PLOS ONE article, we renamed these  in the manuscript and figures to indicate the 18S regions they correspond to.
 
 Here's the name conversion table:
 
-| Barcode_name| GeneRegion  |
-| ----------- | ----------- |
-| 134         | V9_ITS1     |
-| 152         | V5          |
-| 166         | V3          |
-| 179         | V7-V8       |
-| 261         | V8          |
-| 272         | V5-V7       |
+| Original barcode names | GeneRegion  | Start position | End position | New barcode names |
+| ---------------------- | ----------- | -------------- | ------------ | ----------------- |
+| 134         | V9     |    1675   | 1790 | V9  |
+| 152         | Between V5 and V7 (short amplicon)  |  1187  |  1339 |  V5-V7S  |
+| 166         | V3          | 420 | 566 |   V3 |
+| 179         | V7       |  1319   |  1489 | V7 |
+| 261         | Part of V7 and all of V8      |  1472   |  1687  | V7p+V8  |
+| 272         | Between V5 and V7 (long amplicon)  |  1067   | 1339 | V5-V7L  |
