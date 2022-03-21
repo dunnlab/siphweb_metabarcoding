@@ -448,7 +448,7 @@ wrap_plots(GC,TR,SEL, widths = c(1,1,1.7,1.7))
 #dev.off()
 
 #### COMBINED PLOT WITH LITERATURE+VARS+DAPC_predictions
-lit <- read.csv("siphweb_metabarcoding/Literature-data/allinteractions.tsv", sep="\t", stringsAsFactors = F)
+lit <- read.csv("Data/Literature-data/allinteractions.tsv", sep="\t", stringsAsFactors = F)
 
 ROV_lit <- lit[which(lit$source %in% c("Pugh2009cResomiidae", "Choy_2017", "Hissman2005_newrho")),]
 ROV_lit$Predator[which(ROV_lit$Predator=="Apolemia")] <- "Apolemia sp" 
@@ -473,7 +473,7 @@ GC_pruned <- GC_lit[which(GC_lit$Predator %in% unique(meltedGC$Species)),]
 
 ggplot(GC_pruned, aes(x = Prey_broad, y = Predator, fill = Num_interactions)) + geom_tile(color="grey") + scale_fill_gradient(low = "black", high = "black") + theme_bw() + theme(panel.grid.major = element_blank()) + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), axis.title.y=element_blank())
 
-MorphDAPC <- read.csv("siphweb_metabarcoding/Literature-data/DAPCdiet_posteriors.tsv", sep="\t", stringsAsFactors = F)
+MorphDAPC <- read.csv("Data/Literature-data/DAPCdiet_posteriors.tsv", sep="\t", stringsAsFactors = F)
 #MorphDAPC <- MorphDAPC[which(MorphDAPC$Species %in% unique(meltedGC$Species)),]
 meltedMorph <- melt(MorphDAPC)
 names(meltedMorph)[2:3] <- c("Prey","Predicted")
@@ -570,75 +570,187 @@ MD <- M + geom_point(data = sources_combo[which(sources_combo$Source=="Literatur
 MDS <- MD + geom_point(data = sources_combo[which(sources_combo$Source=="Literature_Shallow"),],shape=15, position = position_nudge(-0.08,-0.16), col=ifelse(sources_combo[which(sources_combo$Source=="Literature_Shallow"),]$N == 0, NA, "green"),cex=2.5) + theme_bw()+ theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), axis.title.y=element_blank())
 MDS + geom_point(data = morph, position = position_nudge(0.08,0.16),shape=15, col=ifelse(morph$N<0.01, NA, "purple"),cex=2.5, aes(alpha=log(N+1))) + theme_bw()+ theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), axis.title.y=element_blank())
 
-#Supplementary compoplots
+#Supplementary compoplots ##### AND NOW SUPPLEMENTARY TABLES 
+
 ref_samples <- allsamples[which(!(allsamples$Interpretation %in% c("Short","Unknown"))),]
 ref_samples$Interpretation[which(ref_samples$Interpretation == "Cross")] <- "Contamination"
 
+ref_samples$Broad.group[which(ref_samples$Broad.group %in% c("Hydroid","Hydrozoan","Hydromedusa"))] <- "Hydrozoan"
+
+BG_order <- c("Siphonophore", PreyOrderTr[which(PreyOrderTr %in% unique(ref_samples$Broad.group) & PreyOrderTr != "Siphonophore")],"Sponge", "Ascidian", "Hydrozoan","Anemone", "Branchiopod", "Bryozoan",  "Nemertean", "Sipunculan", "Echiurid", "Rotifer", "Gastrotrich", "Platyctenid", "Orthonectid", "Trematode", "Cestode", "Nematode", "Myxozoan", "Ichthyiophonid", "Mite", "Insect", "Oligochaete", "Shark", "Tetrapod", "Pollen", "Eukaryote", "Bacteria")
 #group_samples <- ref_samples[which(!(ref_samples$Interpretation %in% c("Environmental","Contamination"))),]
 
-#species by broad group
-pdf("SM_spp_broadgroup.pdf", width = 20, height = 10)
-ggplot(ref_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1))) 
-dev.off()
-
-#species by broad group and barcode
-pdf("SM_spp_broadgroup_barcode.pdf", width = 20, height = 10)
-ggplot(ref_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1))) +  facet_grid(.~barcode)
-dev.off()
-
 #species by interpretation
+
+ref_samples[,c("Species","Interpretation","abundance")] %>% dcast(Species~Interpretation, value.var="abundance", fun.aggregate = sum) -> Isp_table
+Isp_table[,c("Species", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination")] -> Isp_table
+write.table(Isp_table, "PLOSOne_Revisions/Supplement_tables/SM_Table1_Isp.tsv", sep="\t", row.names = F)
+
 pdf("SM_spp_interpretation.pdf", width = 20, height = 10)
 ggplot(ref_samples, aes(x = Species, y = log(abundance), fill = Interpretation)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(8))) + guides(shape = guide_legend(override.aes = list(size = 1))) 
 dev.off()
 
 #species by interpretation and barcode
+
+barIsp_list <- lapply(as.list(barcodes), function(B){ref_samples[which(ref_samples$barcode == B),c("Species","Interpretation","abundance")] %>% as.data.frame() %>% dcast(Species~Interpretation, value.var="abundance", fun.aggregate = sum) -> Ti; Ti[,c("Species", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination")] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+barIsp_table <- bind_rows(barIsp_list)
+barIsp_table[is.na(barIsp_table)] <- 0
+barIsp_table <- barIsp_table[,c("Species", "Barcode", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination")]
+write.table(barIsp_table, "PLOSOne_Revisions/Supplement_tables/SMTable2_barIsp.tsv", sep="\t", row.names = F)
+
+
 pdf("SM_spp_interpretation_barcode.pdf", width = 20, height = 10)
 ggplot(ref_samples, aes(x = Species, y = log(abundance), fill = Interpretation)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(8))) + guides(shape = guide_legend(override.aes = list(size = 1))) + facet_grid(.~barcode)
 dev.off()
 
-#specimens by broad group
-pdf("SM_ind_broadgroup.pdf", width = 20, height = 10)
-ggplot(ref_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1)))
-dev.off()
-
-#specimens by broad group and barcode
-pdf("SM_ind_broadgroup_barcode.pdf", width = 20, height = 30)
-ggplot(ref_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1))) + facet_wrap(.~barcode, nrow=6, ncol=1)
-dev.off()
-
 #specimens by interpretation
+
+ref_samples[,c("Specimen","Species","Interpretation","abundance")] %>% dcast(Specimen+Species~Interpretation, value.var="abundance", fun.aggregate = sum) -> Iind_table
+Iind_table[order(Iind_table$Species),c("Specimen","Species", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination")] -> Iind_table
+write.table(Iind_table, "PLOSOne_Revisions/Supplement_tables/SMTable3_Iind.tsv", sep="\t", row.names = F)
+
 pdf("SM_ind_interpretation.pdf", width = 20, height = 10)
 ggplot(ref_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Interpretation)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(8))) + guides(shape = guide_legend(override.aes = list(size = 1))) + guides(shape = guide_legend(override.aes = list(size = 1)))
 dev.off()
 
 #specimens by interpretation and barcode
+
+barIind_list <- lapply(as.list(barcodes), function(B){ref_samples[which(ref_samples$barcode == B),c("Specimen","Species","Interpretation","abundance")] %>% dcast(Specimen+Species~Interpretation, value.var="abundance", fun.aggregate = sum) -> Ti; Ti[order(Ti$Species),c("Specimen","Species", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination")] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+barIind_table <- bind_rows(barIind_list)
+barIind_table[is.na(barIind_table)] <- 0
+barIind_table <- barIind_table[order(barIind_table$Barcode),c("Specimen","Species", "Barcode", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination")]
+write.table(barIind_table, "PLOSOne_Revisions/Supplement_tables/SMTable4_barIind.tsv", sep="\t", row.names = F)
+
 pdf("SM_ind_interpretation_barcode.pdf", width = 20, height = 30)
 ggplot(ref_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Interpretation)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(8))) + guides(shape = guide_legend(override.aes = list(size = 1))) + guides(shape = guide_legend(override.aes = list(size = 1))) + facet_wrap(.~barcode, nrow=6, ncol=1)
 dev.off()
 
+#species by broad group
+
+ref_samples[,c("Species","Broad.group", "abundance")] %>% dcast(Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> BGsp_table
+BGsp_table[,c(1,match(BG_order, colnames(BGsp_table)))] -> BGsp_table
+write.table(BGsp_table, "PLOSOne_Revisions/Supplement_tables/SMTable5_BGsp.tsv", sep="\t", row.names = F)
+
+pdf("SM_spp_broadgroup.pdf", width = 20, height = 10)
+ggplot(ref_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1))) 
+dev.off()
+
+#species by broad group and barcode
+barBGsp_list <- lapply(as.list(barcodes), function(B){ref_samples[which(ref_samples$barcode == B),c("Species","Broad.group","abundance")] %>% dcast(Species~Broad.group, value.var="abundance",fun.aggregate = sum) -> Ti; Ti[,c(1,match(BG_order[which(BG_order %in% colnames(Ti))], colnames(Ti)))] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+barBGsp_table <- bind_rows(barBGsp_list)
+barBGsp_table[is.na(barBGsp_table)] <- 0
+barBGsp_table <- barBGsp_table[,c(1,38,match(BG_order, colnames(barBGsp_table)))]
+write.table(barBGsp_table, "PLOSOne_Revisions/Supplement_tables/SMTable6_barBGsp.tsv", sep="\t", row.names = F)
+
+pdf("SM_spp_broadgroup_barcode.pdf", width = 20, height = 10)
+ggplot(ref_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1))) +  facet_grid(.~barcode)
+dev.off()
+
+
+#specimens by broad group
+
+ref_samples[,c("Specimen","Species","Broad.group","abundance")] %>% dcast(Specimen+Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> BGind_table
+BGind_table[order(BGind_table$Species),c(1,2,match(BG_order, colnames(BGind_table)))] -> BGind_table
+write.table(BGind_table, "PLOSOne_Revisions/Supplement_tables/SMTable7_BGind.tsv", sep="\t", row.names = F)
+
+pdf("SM_ind_broadgroup.pdf", width = 20, height = 10)
+ggplot(ref_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1)))
+dev.off()
+
+#specimens by broad group and barcode
+barBGind_list <- lapply(as.list(barcodes), function(B){ref_samples[which(ref_samples$barcode == B),c("Specimen","Species","Broad.group","abundance")] %>% dcast(Specimen+Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> Ti; Ti[order(Ti$Species),c(1,2,match(BG_order[which(BG_order %in% colnames(Ti))], colnames(Ti)))] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+barBGind_table <- bind_rows(barBGind_list)
+barBGind_table[is.na(barBGind_table)] <- 0
+barBGind_table <- barBGind_table[order(barBGind_table$Barcode),c(1,2,39,match(BG_order, colnames(barBGind_table)))]
+write.table(barBGind_table, "PLOSOne_Revisions/Supplement_tables/SMTable8_barBGind.tsv", sep="\t", row.names = F)
+
+pdf("SM_ind_broadgroup_barcode.pdf", width = 20, height = 30)
+ggplot(ref_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(8, "Set2"))(16), colorRampPalette(brewer.pal(8, "Set1"))(16), colorRampPalette(brewer.pal(8, "Dark2"))(23))) + guides(shape = guide_legend(override.aes = list(size = 1))) + facet_wrap(.~barcode, nrow=6, ncol=1)
+dev.off()
+
 #############
-#Without siph signal
+# ONLY PREY -- Without siph signal #
 prey_samples <- ref_samples[which(ref_samples$Interpretation == "Prey"),]
 
 #species by broad group
+
+prey_samples[,c("Species","Broad.group","abundance")] %>% dcast(Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> BGspPrey_table
+BGspPrey_table[,c(1,match(PreyOrder[which(PreyOrder %in% colnames(BGspPrey_table))], colnames(BGspPrey_table)))] -> BGspPrey_table
+write.table(BGspPrey_table, "PLOSOne_Revisions/Supplement_tables/SMTable9_BGspPrey.tsv", sep="\t", row.names = F)
+
 pdf("SM_spp_broadgroup_prey.pdf", width = 20, height = 10)
 ggplot(prey_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(6, "Set1"))(14))) + guides(shape = guide_legend(override.aes = list(size = 1))) 
 dev.off()
 
-#species by broad group and barcode
-pdf("SM_spp_broadgroup_barcode_prey.pdf", width = 20, height = 6)
-ggplot(prey_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(6, "Set1"))(14))) + guides(shape = guide_legend(override.aes = list(size = 1))) +  facet_grid(.~barcode)
-dev.off()
-
 #specimens by broad group
+prey_samples[,c("Specimen","Species","Broad.group","abundance")] %>% dcast(Specimen+Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> BGindPrey_table
+BGindPrey_table[order(BGindPrey_table$Species),c(1,2,match(PreyOrder[which(PreyOrder %in% colnames(BGindPrey_table))], colnames(BGindPrey_table)))] -> BGindPrey_table
+write.table(BGindPrey_table, "PLOSOne_Revisions/Supplement_tables/SMTable10_BGindPrey.tsv", sep="\t", row.names = F)
+
 pdf("SM_ind_broadgroup_prey.pdf", width = 20, height = 10)
 ggplot(prey_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(6, "Set1"))(14))) + guides(shape = guide_legend(override.aes = list(size = 1))) 
 dev.off()
 
+#species by broad group and barcode
+
+barBGspPrey_list <- lapply(as.list(barcodes), function(B){prey_samples[which(prey_samples$barcode == B),c("Species","Broad.group","abundance")] %>% dcast(Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> Ti; Ti[,c(1,match(PreyOrder[which(PreyOrder %in% colnames(Ti))], colnames(Ti)))] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+barBGspPrey_table <- bind_rows(barBGspPrey_list)
+barBGspPrey_table[is.na(barBGspPrey_table)] <- 0
+barBGspPrey_table <- barBGspPrey_table[,c(1,10,match(PreyOrder[which(PreyOrder %in% colnames(BGspPrey_table))], colnames(barBGspPrey_table)))]
+write.table(barBGsp_table, "PLOSOne_Revisions/Supplement_tables/SMTable11_barBGspPrey.tsv", sep="\t", row.names = F)
+
+pdf("SM_spp_broadgroup_barcode_prey.pdf", width = 20, height = 6)
+ggplot(prey_samples, aes(x = Species, y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(6, "Set1"))(14))) + guides(shape = guide_legend(override.aes = list(size = 1))) +  facet_grid(.~barcode)
+dev.off()
+
 #specimens by broad group and barcode
+barBGindPrey_list <- lapply(as.list(barcodes), function(B){prey_samples[which(prey_samples$barcode == B),c("Specimen","Species","Broad.group","abundance")] %>% dcast(Specimen+Species~Broad.group, value.var="abundance", fun.aggregate = sum) -> Ti; Ti[order(Ti$Species),c(1,2,match(PreyOrder[which(PreyOrder %in% colnames(Ti))], colnames(Ti)))] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+barBGindPrey_table <- bind_rows(barBGindPrey_list)
+barBGindPrey_table[is.na(barBGindPrey_table)] <- 0
+barBGindPrey_table <- barBGindPrey_table[,c(1,2,11,match(PreyOrder[which(PreyOrder %in% colnames(barBGspPrey_table))], colnames(barBGspPrey_table)))] %>% .[,-12]
+write.table(barBGindPrey_table, "PLOSOne_Revisions/Supplement_tables/SMTable12_barBGindPrey.tsv", sep="\t", row.names = F)
+
 pdf("SM_ind_broadgroup_barcode_prey.pdf", width = 20, height = 10)
 ggplot(prey_samples, aes(x = paste(Species, Specimen), y = log(abundance), fill = Broad.group)) + geom_bar(position = "fill",stat = "identity") + theme_bw() + theme(legend.key.size = unit(1,"line"), legend.text = element_text(size=5),legend.position="bottom", axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_manual(values=c(colorRampPalette(brewer.pal(6, "Set1"))(14))) + guides(shape = guide_legend(override.aes = list(size = 1)))  + facet_wrap(.~barcode, nrow=6, ncol=1)
 dev.off()
+
+######
+#Unique sequences 
+#######
+sum_samples <- allsamples
+sum_samples$Interpretation[which(sum_samples$Interpretation == "Cross")] <- "Contamination"
+sum_samples$Interpretation[which(sum_samples$Interpretation == "Short")] <- "Unknown"
+sum_samples %>% distinct(Sequence, .keep_all = TRUE) -> uniseq_samples
+
+# interpretation by specimen and barcode
+type_order <- c("Specimen","Species", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination", "Unknown")
+
+FEATbarIind_list <- lapply(as.list(barcodes), function(B){uniseq_samples[which(uniseq_samples$barcode == B),c("Specimen","Species","Interpretation","Sequence")] %>% dcast(Specimen+Species~Interpretation, fun.aggregate = function(X){length(unique(X))}, value.var = "Sequence") -> Ti;print(Ti %>% head()); Ti[order(Ti$Species),type_order[which(type_order %in% colnames(Ti))]] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+FEATbarIind_table <- bind_rows(FEATbarIind_list)
+FEATbarIind_table[is.na(FEATbarIind_table)] <- 0
+FEATbarIind_table <- FEATbarIind_table[order(FEATbarIind_table$Barcode),c("Specimen","Species", "Barcode", "Predator", "Prey", "Secondary", "Parasite", "Environmental", "Contamination", "Unknown")]
+
+group_by(FEATbarIind_table[,c(-1,-2)],Barcode) %>% 
+  dplyr::summarise(Predator=sum(Predator), Prey = sum(Prey), Secondary = sum(Secondary), Parasite = sum(Parasite), Environmental = sum(Environmental), Contamination = sum(Contamination), Unknown = sum(Unknown)) %>% 
+  mutate(Total = Predator+Prey+Secondary+Parasite+Environmental+Contamination+Unknown) %>% 
+  add_row(Barcode="TOTAL", Predator=sum(.$Predator), Prey=sum(.$Prey), Secondary=sum(.$Secondary), Parasite=sum(.$Parasite), Environmental=sum(.$Environmental), Contamination=sum(.$Contamination), Unknown=sum(.$Unknown), Total=sum(.$Total)) %>% 
+  write.table("PLOSOne_Revisions/Supplement_tables/SMTable13_FEATbarIind.tsv", sep="\t", row.names = F)
+
+#broad group by specimen & barcode
+BG_order <- c(BG_order,"Unknown")
+FEATbarBGind_list <- lapply(as.list(barcodes), function(B){
+  uniseq_samples[which(uniseq_samples$barcode == B),c("Specimen","Species","Broad.group","Sequence")] %>% 
+    dcast(Specimen+Species~Broad.group, fun.aggregate = function(X){length(unique(X))}, value.var = "Sequence") -> Ti;
+  Ti[order(Ti$Species),c(1,2,match(BG_order[which(BG_order %in% colnames(Ti))], colnames(Ti)))] -> Ti_ord;return(mutate(Ti_ord, Barcode = B))})
+FEATbarBGind_table <- bind_rows(FEATbarBGind_list)
+FEATbarBGind_table[is.na(FEATbarBGind_table)] <- 0
+FEATbarBGind_table <- FEATbarBGind_table[order(FEATbarBGind_table$Barcode),c("Specimen","Species","Barcode", BG_order[which(BG_order %in% colnames(FEATbarBGind_table))])]
+
+group_by(FEATbarBGind_table[,c(-1,-2)],Barcode) %>% 
+  dplyr::summarise_all(sum) %>% 
+  mutate(Total = Siphonophore+Copepod+Decapod+Euphausid+Mysid+Lophogastrid+Stomatopod+Ostracod+Bivalve+Larvacean++Salp+Scyphomedusa+Ctenophore+Actinopteri+Amphipod+Isopod+Echinoderm+Polychaete+Chaetognath+Gastropod+Doliolid+Pyrosome+Sponge+Ascidian+Hydrozoan+Anemone+Branchiopod+Bryozoan+Nemertean+Sipunculan+Echiurid+Rotifer+Platyctenid+Orthonectid+Trematode+Cestode+Nematode+Myxozoan+Ichthyiophonid+Mite+Insect+Oligochaete+Tetrapod+Pollen+Eukaryote+Bacteria+Unknown) %>% 
+  add_row(Barcode="TOTAL", Siphonophore=sum(.$Siphonophore), Copepod=sum(.$Copepod), Decapod=sum(.$Decapod), Euphausid=sum(.$Euphausid), Mysid=sum(.$Mysid), Lophogastrid=sum(.$Lophogastrid), Stomatopod=sum(.$Stomatopod), Ostracod=sum(.$Ostracod), Bivalve=sum(.$Bivalve), Larvacean=sum(.$Larvacean), Salp=sum(.$Salp), Scyphomedusa=sum(.$Scyphomedusa), Ctenophore=sum(.$Ctenophore), Actinopteri=sum(.$Actinopteri), Amphipod=sum(.$Amphipod), Isopod=sum(.$Isopod), Echinoderm=sum(.$Echinoderm), Polychaete=sum(.$Polychaete), Chaetognath=sum(.$Chaetognath), Gastropod=sum(.$Gastropod), Doliolid=sum(.$Doliolid), Pyrosome=sum(.$Pyrosome), Sponge=sum(.$Sponge), Ascidian=sum(.$Ascidian), Hydrozoan=sum(.$Hydrozoan), Anemone=sum(.$Anemone), Branchiopod=sum(.$Branchiopod), Bryozoan=sum(.$Bryozoan), Nemertean=sum(.$Nemertean), Sipunculan=sum(.$Sipunculan), Echiurid=sum(.$Echiurid), Rotifer=sum(.$Rotifer), Platyctenid=sum(.$Platyctenid), Orthonectid=sum(.$Orthonectid), Trematode=sum(.$Trematode), Cestode=sum(.$Cestode), Nematode=sum(.$Nematode), Myxozoan=sum(.$Myxozoan), Ichthyiophonid=sum(.$Ichthyiophonid), Mite=sum(.$Mite), Insect=sum(.$Insect), Oligochaete=sum(.$Oligochaete), Tetrapod=sum(.$Tetrapod), Pollen=sum(.$Pollen), Eukaryote=sum(.$Eukaryote), Bacteria=sum(.$Bacteria), Unknown=sum(.$Unknown), Total=sum(.$Total)) %>% 
+  write.table("PLOSOne_Revisions/Supplement_tables/SMTable14_FEATbarBGind.tsv", sep="\t", row.names = F)
 
 ############
 

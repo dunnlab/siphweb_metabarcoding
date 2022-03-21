@@ -1,0 +1,834 @@
+"Specimen"	"Species"	"Barcode"	"Predator"	"Prey"	"Secondary"	"Parasite"	"Environmental"	"Contamination"
+"D1243-BW5"	"Agalma okenii"	"V9"	73514	0	0	0	0	0
+"D1244-BW3"	"Agalma okenii"	"V9"	73460	0	0	0	0	0
+"D1244-BW4"	"Agalma okenii"	"V9"	53934	0	0	0	0	0
+"D1240-D1"	"Apolemia lanosa"	"V9"	26570	12	0	0	0	0
+"D858-D6"	"Apolemia lanosa"	"V9"	1896848	0	0	6	4401	90
+"D964-D1"	"Apolemia lanosa"	"V9"	247522	0	0	0	17	0
+"D1137-SS2"	"Apolemia rubriversa"	"V9"	45142	0	0	0	0	0
+"D1240-D12"	"Apolemia rubriversa"	"V9"	139236	0	0	0	0	0
+"D1242-D2"	"Apolemia rubriversa"	"V9"	144168	0	0	0	0	0
+"D1243-D2"	"Apolemia rubriversa"	"V9"	148496	0	0	0	0	0
+"D1244-MS2"	"Apolemia rubriversa"	"V9"	97348	0	0	0	0	0
+"D1244-MS3"	"Apolemia rubriversa"	"V9"	79264	0	0	0	4	0
+"D1245-D1"	"Apolemia rubriversa"	"V9"	115326	338	0	0	0	0
+"D1240-D10"	"Apolemia sp"	"V9"	131294	10	0	8	9869	0
+"D1242-SS4"	"Apolemia undescribed sp"	"V9"	71806	314	0	0	0	0
+"D1244-D2"	"Apolemia undescribed sp"	"V9"	112876	14	0	0	0	0
+"D1163-D4"	"Bargmannia amoena"	"V9"	81954	0	0	0	90874	0
+"D1165-SS12"	"Bargmannia amoena"	"V9"	38410	56	0	0	395	0
+"D861-D12"	"Bargmannia amoena"	"V9"	711864	854666	0	34972	12398	26
+"D1168-SS7"	"Bargmannia elongata"	"V9"	53084	0	0	0	7758	0
+"D1164-SS7"	"Bargmannia lata"	"V9"	47936	0	0	12	3092	0
+"D1240-D9"	"Bargmannia lata"	"V9"	99340	100	0	54	4098	20
+"D1242-D6"	"Bargmannia lata"	"V9"	69544	0	0	0	0	0
+"D1240-MS1"	"Chuniphyes moserae"	"V9"	131848	0	0	0	0	0
+"D1137-MS5"	"Chuniphyes multidentata"	"V9"	55812	0	0	0	0	0
+"D1241-SS2"	"Chuniphyes multidentata"	"V9"	44094	0	0	0	0	0
+"D1242-SS12"	"Chuniphyes multidentata"	"V9"	68452	0	0	0	0	0
+"D1243-SS11"	"Chuniphyes multidentata"	"V9"	53354	0	0	0	0	0
+"D1244-SS9"	"Chuniphyes multidentata"	"V9"	72766	82	0	0	0	0
+"D1243-SS9"	"Cordagalma ordinatum"	"V9"	247216	0	0	0	108	0
+"D1243-SS8"	"Craseoa lathetica"	"V9"	33118	0	0	0	0	0
+"D960-SS1"	"Craseoa lathetica"	"V9"	537925	0	0	0	2942	10
+"D1244-SS12"	"Desmophyes annectens"	"V9"	24080	0	0	0	0	0
+"26Mar19-BW3-1"	"Diphyes dispar"	"V9"	54958	0	0	0	0	0
+"26Mar19-BW3-38"	"Diphyes dispar"	"V9"	60426	0	0	0	0	0
+"26Mar19-BW3-39"	"Diphyes dispar"	"V9"	51264	0	0	0	0	0
+"26Mar19-BW4-30"	"Diphyes dispar"	"V9"	59366	0	0	0	0	0
+"D1243-BW19"	"Diphyes dispar"	"V9"	83596	0	0	0	0	0
+"D1243-BW25"	"Diphyes dispar"	"V9"	81164	126	0	0	0	0
+"D1243-BW28"	"Diphyes dispar"	"V9"	66408	0	0	0	0	0
+"D1243-BW29"	"Diphyes dispar"	"V9"	93744	0	0	0	0	0
+"D1243-BW30"	"Diphyes dispar"	"V9"	122866	0	0	0	0	0
+"D1243-BW31"	"Diphyes dispar"	"V9"	83048	0	0	0	0	0
+"D1243-BW32"	"Diphyes dispar"	"V9"	44838	0	0	0	0	0
+"D1243-BW33"	"Diphyes dispar"	"V9"	107190	0	0	0	0	0
+"D1243-BW37"	"Diphyes dispar"	"V9"	96570	0	0	0	4	0
+"D1244-BW1"	"Diphyes dispar"	"V9"	97204	0	0	0	0	0
+"D1244-BW24"	"Diphyes dispar"	"V9"	111314	0	0	0	0	0
+"D1240-D6"	"Erenna cornuta"	"V9"	100680	0	0	0	32	0
+"D1165-SS1"	"Erenna sirena"	"V9"	101282	0	0	0	3175	5
+"D860-D6"	"Erenna sirena"	"V9"	469528	0	0	6	1506	64
+"D1242-MS6"	"Forskalia formosa"	"V9"	36500	0	0	0	0	0
+"D1242-SS1"	"Forskalia formosa"	"V9"	106968	0	0	0	0	0
+"D963-SS6"	"Forskalia formosa"	"V9"	148144	0	0	0	0	244
+"D1137-D7"	"Forskalia sp."	"V9"	64216	0	0	0	32	23
+"D1137-D9"	"Forskalia sp."	"V9"	60004	816	0	0	0	156
+"D1243-D4"	"Forskalia sp."	"V9"	42792	0	0	0	0	0
+"D1245-D9"	"Forskalia sp."	"V9"	90780	260	0	0	87	0
+"M123-SS8"	"Forskalia sp."	"V9"	33862	196757	0	0	2644	24
+"D1023-MS2"	"Frillagalma vityazi"	"V9"	242215	0	0	0	603	6
+"D1240-SS5"	"Frillagalma vityazi"	"V9"	49054	0	0	0	201	0
+"D1242-D8"	"Frillagalma vityazi"	"V9"	35680	0	0	0	0	0
+"D1241-D10"	"Gymnopraia lapislazula"	"V9"	70864	0	0	0	0	0
+"D1243-SS7"	"Gymnopraia lapislazula"	"V9"	54220	0	0	0	0	0
+"D965-D10"	"Gymnopraia lapislazula"	"V9"	199746	0	0	0	178	0
+"D1244-D8"	"Halistemma rubrum"	"V9"	108772	0	0	0	40	0
+"D1241-MS6"	"Kephyes ovata"	"V9"	44100	0	0	0	0	0
+"D1241-SS8"	"Kephyes ovata"	"V9"	68286	0	0	0	0	0
+"D1242-SS12b"	"Lensia conoidea"	"V9"	77090	74	0	0	0	0
+"D1241-D5"	"Lilyopsis fluoracantha"	"V9"	92334	0	0	0	0	0
+"D1169-SS8"	"Lychnagalma utricularia"	"V9"	38330	0	0	0	0	0
+"D1242-SS10"	"Lychnagalma utricularia"	"V9"	27960	0	0	0	0	0
+"D1242-SS11"	"Lychnagalma utricularia"	"V9"	47530	67678	0	0	202	0
+"D962-D4"	"Lychnagalma utricularia"	"V9"	4454	194806	0	0	1925	668
+"D959-SS7"	"Marrus claudanielis"	"V9"	155882	0	0	0	58	0
+"D1138.2-BW45"	"Muggiaea atlantica"	"V9"	63466	0	0	0	0	0
+"D1138.2-BW46"	"Muggiaea atlantica"	"V9"	82842	0	0	0	0	0
+"D1138.2-BW63"	"Muggiaea atlantica"	"V9"	74882	0	0	0	14	0
+"D1138.2-BW64"	"Muggiaea atlantica"	"V9"	54848	0	0	0	0	0
+"D1138.2-BW65"	"Muggiaea atlantica"	"V9"	47684	6	0	0	120	0
+"D1241-MS2"	"Nanomia (deep)"	"V9"	66684	0	0	0	0	0
+"D1244-SS10"	"Nanomia (deep)"	"V9"	148712	0	0	0	0	0
+"D1244-SS8"	"Nanomia (deep)"	"V9"	162	27460	0	0	0	0
+"Groton2_Dive1_36"	"Nanomia sp. Atlantic"	"V9"	0	0	0	123	0	0
+"Groton2_Dive2_16"	"Nanomia sp. Atlantic"	"V9"	151214	0	0	0	0	0
+"Groton2_Dive2_18"	"Nanomia sp. Atlantic"	"V9"	397266	0	0	0	0	0
+"Groton2_Dive2_20"	"Nanomia sp. Atlantic"	"V9"	307128	0	0	0	0	0
+"Groton2_Dive2_22"	"Nanomia sp. Atlantic"	"V9"	342860	0	0	0	0	0
+"Groton2_Dive2_26"	"Nanomia sp. Atlantic"	"V9"	259088	2564	0	0	102	0
+"Groton2_Dive2_28"	"Nanomia sp. Atlantic"	"V9"	240936	3884	0	0	0	0
+"Groton2_Dive2_30"	"Nanomia sp. Atlantic"	"V9"	195250	40150	0	0	0	0
+"Groton2_Dive2_32"	"Nanomia sp. Atlantic"	"V9"	323621	0	0	0	0	0
+"Groton2_Dive2_34"	"Nanomia sp. Atlantic"	"V9"	300404	3137	0	0	0	0
+"Groton2_Dive2_36"	"Nanomia sp. Atlantic"	"V9"	424670	254	0	123	0	0
+"Groton2_Dive2_38"	"Nanomia sp. Atlantic"	"V9"	390046	0	0	0	0	0
+"26Mar19-BW3-20"	"Nanomia sp. shallow"	"V9"	51792	0	0	0	0	0
+"26Mar19-BW3-25.1"	"Nanomia sp. shallow"	"V9"	38910	0	0	0	0	0
+"26Mar19-BW3-29"	"Nanomia sp. shallow"	"V9"	63082	0	0	0	0	0
+"26Mar19-BW3-40.1"	"Nanomia sp. shallow"	"V9"	45626	5598	0	0	0	0
+"26Mar19-BW4-31"	"Nanomia sp. shallow"	"V9"	42544	0	0	0	0	0
+"26Mar19-BW4-32"	"Nanomia sp. shallow"	"V9"	42040	0	0	0	0	0
+"D1138-BW20"	"Nanomia sp. shallow"	"V9"	80912	0	0	0	0	0
+"D1138-BW21"	"Nanomia sp. shallow"	"V9"	55770	0	0	0	0	0
+"D1138-BW22"	"Nanomia sp. shallow"	"V9"	104454	0	0	0	0	0
+"D1138-BW34"	"Nanomia sp. shallow"	"V9"	52294	0	0	0	0	0
+"D1138-BW6"	"Nanomia sp. shallow"	"V9"	43662	0	0	0	0	0
+"KiloMoana2018-BW7-4"	"Nanomia sp. shallow"	"V9"	417885	10336	0	0	416449	32
+"BIOS19-D1-P1"	"Physalia physalis"	"V9"	59266	842	0	0	713	0
+"BIOS19-D1-P2"	"Physalia physalis"	"V9"	67958	0	0	0	339	10
+"BIOS19-D1-P3"	"Physalia physalis"	"V9"	1800	236	366	10	72	0
+"BIOS19-D1-P4"	"Physalia physalis"	"V9"	59870	0	0	0	0	0
+"BIOS19-D1-P5"	"Physalia physalis"	"V9"	166532	2000	9330	2887	53922	2435
+"D1244-D3"	"Praya dubia"	"V9"	88178	0	0	0	0	0
+"D960-BW2"	"Praya dubia"	"V9"	169208	0	0	3718	28	0
+"D1166-D8"	"Resomia dunni"	"V9"	229636	548	0	0	1058	22
+"D1168-D8"	"Resomia dunni"	"V9"	36436	0	0	0	10	0
+"D963-D4"	"Resomia dunni"	"V9"	365622	0	0	0	1014	118
+"D965-D7"	"Resomia ornicephala"	"V9"	204460	0	0	0	292	62
+"D1245-D6"	"Sphaeronectes christiansonae"	"V9"	170886	0	0	0	0	0
+"26Mar19-BW3-20.1"	"Sphaeronectes koellikeri"	"V9"	85032	0	0	0	0	0
+"26Mar19-BW3-20.2"	"Sphaeronectes koellikeri"	"V9"	62428	0	0	0	6	0
+"26Mar19-BW3-20.3"	"Sphaeronectes koellikeri"	"V9"	74158	0	0	0	0	0
+"26Mar19-BW3-35"	"Sphaeronectes koellikeri"	"V9"	61582	0	0	0	0	0
+"26Mar19-BW3-35.1"	"Sphaeronectes koellikeri"	"V9"	132690	0	0	0	0	0
+"26Mar19-BW3-35.2"	"Sphaeronectes koellikeri"	"V9"	76872	0	0	0	0	0
+"26Mar19-BW3-35.3"	"Sphaeronectes koellikeri"	"V9"	60882	0	0	0	0	0
+"26Mar19-BW3-35.4"	"Sphaeronectes koellikeri"	"V9"	67732	0	0	0	0	0
+"26Mar19-BW3-35.5"	"Sphaeronectes koellikeri"	"V9"	61230	0	0	0	0	0
+"D1138-BW60"	"Sphaeronectes koellikeri"	"V9"	23894	0	0	0	0	0
+"D1243-D3"	"Stephanomia amphytridis"	"V9"	97812	0	0	0	44	0
+"D1245-D11"	"Stephanomia amphytridis"	"V9"	53796	0	0	0	0	0
+"D856-SS8"	"Stephanomia amphytridis"	"V9"	410228	0	0	0	244	0
+"Groton1_Dive2_4"	"Sulculeolaria chuni"	"V9"	361934	518	0	0	38	0
+"D1019-D5"	"Undescribed physonect L"	"V9"	477038	2176	0	68	1668	206
+"D1241-SS9"	"Undescribed physonect L"	"V9"	41080	0	0	0	0	0
+"D1241-D6"	"Undescribed physonect ZigZag"	"V9"	48034	0	0	0	0	0
+"D1137-D8"	"Vogtia serrata"	"V9"	42254	0	0	0	10021	48
+"D1243-SS10"	"Vogtia serrata"	"V9"	133946	0	0	0	0	0
+"D961-SS1"	"Vogtia serrata"	"V9"	205667	0	0	0	2791	54
+"D1243-BW5"	"Agalma okenii"	"V5-V7S"	52322	0	0	0	0	0
+"D1244-BW3"	"Agalma okenii"	"V5-V7S"	73918	0	0	0	0	0
+"D1244-BW4"	"Agalma okenii"	"V5-V7S"	119140	0	0	0	0	0
+"D1240-D1"	"Apolemia lanosa"	"V5-V7S"	26304	0	0	0	0	0
+"D858-D6"	"Apolemia lanosa"	"V5-V7S"	1636809	0	0	4	4642	38
+"D964-D1"	"Apolemia lanosa"	"V5-V7S"	213003	0	0	0	11	0
+"D1137-SS2"	"Apolemia rubriversa"	"V5-V7S"	44846	0	0	0	0	0
+"D1240-D12"	"Apolemia rubriversa"	"V5-V7S"	148184	0	0	0	0	0
+"D1242-D2"	"Apolemia rubriversa"	"V5-V7S"	119378	0	0	0	0	0
+"D1243-D2"	"Apolemia rubriversa"	"V5-V7S"	74198	0	0	0	0	0
+"D1244-MS2"	"Apolemia rubriversa"	"V5-V7S"	79006	0	0	0	0	0
+"D1244-MS3"	"Apolemia rubriversa"	"V5-V7S"	115598	0	0	0	54	0
+"D1245-D1"	"Apolemia rubriversa"	"V5-V7S"	72808	566	0	0	100	0
+"D1240-D10"	"Apolemia sp"	"V5-V7S"	73228	0	0	0	27922	38
+"D1242-SS4"	"Apolemia undescribed sp"	"V5-V7S"	61156	560	0	0	0	0
+"D1244-D2"	"Apolemia undescribed sp"	"V5-V7S"	98468	0	0	0	28	0
+"D1163-D4"	"Bargmannia amoena"	"V5-V7S"	86084	0	0	0	2170	0
+"D1165-SS12"	"Bargmannia amoena"	"V5-V7S"	38486	494	0	0	276	0
+"D861-D12"	"Bargmannia amoena"	"V5-V7S"	448458	850170	0	43808	3304	168
+"D1168-SS7"	"Bargmannia elongata"	"V5-V7S"	34850	0	0	0	14810	652
+"D1164-SS7"	"Bargmannia lata"	"V5-V7S"	39176	0	0	0	3248	1696
+"D1240-D9"	"Bargmannia lata"	"V5-V7S"	71898	0	0	0	4230	872
+"D1242-D6"	"Bargmannia lata"	"V5-V7S"	77194	0	0	0	0	0
+"D1240-MS1"	"Chuniphyes moserae"	"V5-V7S"	75858	0	0	0	0	0
+"D1137-MS5"	"Chuniphyes multidentata"	"V5-V7S"	50354	0	0	0	0	0
+"D1241-SS2"	"Chuniphyes multidentata"	"V5-V7S"	41720	0	0	0	0	0
+"D1242-SS12"	"Chuniphyes multidentata"	"V5-V7S"	51704	0	0	0	0	0
+"D1243-SS11"	"Chuniphyes multidentata"	"V5-V7S"	45262	0	0	0	0	0
+"D1244-SS9"	"Chuniphyes multidentata"	"V5-V7S"	84290	126	0	0	0	0
+"D1243-SS9"	"Cordagalma ordinatum"	"V5-V7S"	253766	0	0	0	466	76
+"D1243-SS8"	"Craseoa lathetica"	"V5-V7S"	32302	0	0	0	0	0
+"D960-SS1"	"Craseoa lathetica"	"V5-V7S"	268650	0	0	0	1994	93
+"D1244-SS12"	"Desmophyes annectens"	"V5-V7S"	17768	0	0	0	0	0
+"26Mar19-BW3-1"	"Diphyes dispar"	"V5-V7S"	62484	0	0	0	0	0
+"26Mar19-BW3-38"	"Diphyes dispar"	"V5-V7S"	57790	0	0	0	0	0
+"26Mar19-BW3-39"	"Diphyes dispar"	"V5-V7S"	48296	0	0	0	16	0
+"26Mar19-BW4-30"	"Diphyes dispar"	"V5-V7S"	56840	0	0	0	0	0
+"D1243-BW19"	"Diphyes dispar"	"V5-V7S"	79428	0	0	0	0	0
+"D1243-BW25"	"Diphyes dispar"	"V5-V7S"	86896	100	0	0	0	0
+"D1243-BW28"	"Diphyes dispar"	"V5-V7S"	95152	0	0	0	0	0
+"D1243-BW29"	"Diphyes dispar"	"V5-V7S"	82576	0	0	0	0	0
+"D1243-BW30"	"Diphyes dispar"	"V5-V7S"	99896	0	0	0	0	0
+"D1243-BW31"	"Diphyes dispar"	"V5-V7S"	70358	0	0	0	0	0
+"D1243-BW32"	"Diphyes dispar"	"V5-V7S"	78384	0	0	0	0	0
+"D1243-BW33"	"Diphyes dispar"	"V5-V7S"	70134	0	0	0	0	0
+"D1243-BW37"	"Diphyes dispar"	"V5-V7S"	107410	0	0	0	0	0
+"D1244-BW1"	"Diphyes dispar"	"V5-V7S"	66172	0	0	0	0	0
+"D1244-BW24"	"Diphyes dispar"	"V5-V7S"	118616	0	0	0	180	0
+"D1240-D6"	"Erenna cornuta"	"V5-V7S"	93692	0	0	0	0	0
+"D860-D6"	"Erenna sirena"	"V5-V7S"	597024	0	0	0	610	892
+"D1242-MS6"	"Forskalia formosa"	"V5-V7S"	30482	0	0	0	0	0
+"D1242-SS1"	"Forskalia formosa"	"V5-V7S"	113926	0	0	0	0	0
+"D963-SS6"	"Forskalia formosa"	"V5-V7S"	109718	0	0	0	0	122
+"D1137-D7"	"Forskalia sp."	"V5-V7S"	69122	0	0	0	0	0
+"D1137-D9"	"Forskalia sp."	"V5-V7S"	74748	0	0	0	0	0
+"D1243-D4"	"Forskalia sp."	"V5-V7S"	49624	0	0	0	0	0
+"D1245-D9"	"Forskalia sp."	"V5-V7S"	82022	472	0	0	422	32
+"M123-SS8"	"Forskalia sp."	"V5-V7S"	10958	171470	0	0	355	0
+"D1023-MS2"	"Frillagalma vityazi"	"V5-V7S"	210483	0	0	0	620	393
+"D1240-SS5"	"Frillagalma vityazi"	"V5-V7S"	43600	0	0	0	32	23
+"D1242-D8"	"Frillagalma vityazi"	"V5-V7S"	40010	0	0	0	0	0
+"D1241-D10"	"Gymnopraia lapislazula"	"V5-V7S"	77224	0	0	0	0	0
+"D1243-SS7"	"Gymnopraia lapislazula"	"V5-V7S"	83898	0	0	0	0	0
+"D965-D10"	"Gymnopraia lapislazula"	"V5-V7S"	163560	0	0	0	126	0
+"D1244-D8"	"Halistemma rubrum"	"V5-V7S"	71088	0	0	0	0	0
+"D1241-MS6"	"Kephyes ovata"	"V5-V7S"	46602	0	0	0	0	0
+"D1241-SS8"	"Kephyes ovata"	"V5-V7S"	48736	0	0	0	0	0
+"D1242-SS12b"	"Lensia conoidea"	"V5-V7S"	65416	214	0	0	0	0
+"D1241-D5"	"Lilyopsis fluoracantha"	"V5-V7S"	83216	0	0	0	0	0
+"D1169-SS8"	"Lychnagalma utricularia"	"V5-V7S"	14190	0	0	0	0	0
+"D1242-SS10"	"Lychnagalma utricularia"	"V5-V7S"	22466	0	0	0	0	0
+"D1242-SS11"	"Lychnagalma utricularia"	"V5-V7S"	41064	56130	0	0	506	0
+"D962-D4"	"Lychnagalma utricularia"	"V5-V7S"	3700	154710	0	0	4992	15
+"D1164-SS6"	"Marrus claudanielis"	"V5-V7S"	80646	0	0	0	110	0
+"D959-SS7"	"Marrus claudanielis"	"V5-V7S"	157983	0	0	0	301	0
+"D1138.2-BW45"	"Muggiaea atlantica"	"V5-V7S"	65768	0	0	0	0	0
+"D1138.2-BW46"	"Muggiaea atlantica"	"V5-V7S"	74406	0	0	0	0	0
+"D1138.2-BW63"	"Muggiaea atlantica"	"V5-V7S"	83150	0	0	0	0	0
+"D1138.2-BW64"	"Muggiaea atlantica"	"V5-V7S"	47500	0	0	0	0	0
+"D1138.2-BW65"	"Muggiaea atlantica"	"V5-V7S"	36246	0	0	0	0	0
+"D1241-MS2"	"Nanomia (deep)"	"V5-V7S"	47640	0	0	0	0	0
+"D1244-SS10"	"Nanomia (deep)"	"V5-V7S"	135892	0	0	0	49	0
+"D1244-SS8"	"Nanomia (deep)"	"V5-V7S"	0	18624	0	0	0	0
+"Groton2_Dive1_36"	"Nanomia sp. Atlantic"	"V5-V7S"	0	1218	0	272	0	0
+"Groton2_Dive1_38"	"Nanomia sp. Atlantic"	"V5-V7S"	0	165	0	0	0	0
+"Groton2_Dive2_16"	"Nanomia sp. Atlantic"	"V5-V7S"	170180	0	0	0	0	0
+"Groton2_Dive2_20"	"Nanomia sp. Atlantic"	"V5-V7S"	218252	0	0	0	0	0
+"Groton2_Dive2_22"	"Nanomia sp. Atlantic"	"V5-V7S"	228468	0	0	0	0	0
+"Groton2_Dive2_24"	"Nanomia sp. Atlantic"	"V5-V7S"	308482	348	0	0	0	0
+"Groton2_Dive2_26"	"Nanomia sp. Atlantic"	"V5-V7S"	238134	3776	0	45	0	0
+"Groton2_Dive2_28"	"Nanomia sp. Atlantic"	"V5-V7S"	211216	8476	0	0	0	0
+"Groton2_Dive2_30"	"Nanomia sp. Atlantic"	"V5-V7S"	154606	43504	0	0	0	0
+"Groton2_Dive2_32"	"Nanomia sp. Atlantic"	"V5-V7S"	254264	0	0	0	0	0
+"Groton2_Dive2_34"	"Nanomia sp. Atlantic"	"V5-V7S"	206766	5700	0	0	0	0
+"Groton2_Dive2_36"	"Nanomia sp. Atlantic"	"V5-V7S"	284432	1218	0	272	6	0
+"Groton2_Dive2_38"	"Nanomia sp. Atlantic"	"V5-V7S"	331242	165	0	0	0	0
+"26Mar19-BW3-20"	"Nanomia sp. shallow"	"V5-V7S"	62164	0	0	0	0	0
+"26Mar19-BW3-25.1"	"Nanomia sp. shallow"	"V5-V7S"	49168	0	0	0	0	0
+"26Mar19-BW3-29"	"Nanomia sp. shallow"	"V5-V7S"	67030	0	0	0	0	0
+"26Mar19-BW3-40.1"	"Nanomia sp. shallow"	"V5-V7S"	32554	0	0	7472	0	0
+"26Mar19-BW4-31"	"Nanomia sp. shallow"	"V5-V7S"	56090	0	0	0	0	0
+"26Mar19-BW4-32"	"Nanomia sp. shallow"	"V5-V7S"	49254	0	0	0	0	0
+"D1138-BW20"	"Nanomia sp. shallow"	"V5-V7S"	52478	0	0	0	0	0
+"D1138-BW21"	"Nanomia sp. shallow"	"V5-V7S"	60932	0	0	0	0	0
+"D1138-BW22"	"Nanomia sp. shallow"	"V5-V7S"	124762	0	0	0	0	0
+"D1138-BW34"	"Nanomia sp. shallow"	"V5-V7S"	56254	0	0	0	0	0
+"D1138-BW6"	"Nanomia sp. shallow"	"V5-V7S"	35726	0	0	0	0	0
+"KiloMoana2018-BW7-4"	"Nanomia sp. shallow"	"V5-V7S"	805282	2	0	0	308	10
+"BIOS19-D1-P1"	"Physalia physalis"	"V5-V7S"	144637	0	0	0	0	0
+"BIOS19-D1-P2"	"Physalia physalis"	"V5-V7S"	123188	0	0	0	0	0
+"BIOS19-D1-P3"	"Physalia physalis"	"V5-V7S"	50376	0	0	0	0	0
+"BIOS19-D1-P4"	"Physalia physalis"	"V5-V7S"	58182	0	0	0	0	0
+"BIOS19-D1-P5"	"Physalia physalis"	"V5-V7S"	137050	4692	17286	61	46718	0
+"D1244-D3"	"Praya dubia"	"V5-V7S"	93466	0	0	0	0	0
+"D960-BW2"	"Praya dubia"	"V5-V7S"	173782	0	0	5032	12	0
+"D1166-D8"	"Resomia dunni"	"V5-V7S"	85432	852	0	0	6514	43
+"D1168-D8"	"Resomia dunni"	"V5-V7S"	73024	0	0	0	100	0
+"D963-D4"	"Resomia dunni"	"V5-V7S"	293968	0	0	0	1430	98
+"D965-D7"	"Resomia ornicephala"	"V5-V7S"	191229	0	0	0	131	486
+"D1245-D6"	"Sphaeronectes christiansonae"	"V5-V7S"	95796	0	0	142	0	0
+"26Mar19-BW3-20.1"	"Sphaeronectes koellikeri"	"V5-V7S"	87574	0	0	0	0	0
+"26Mar19-BW3-20.2"	"Sphaeronectes koellikeri"	"V5-V7S"	58756	0	0	0	0	0
+"26Mar19-BW3-20.3"	"Sphaeronectes koellikeri"	"V5-V7S"	90674	0	0	0	4	0
+"26Mar19-BW3-35"	"Sphaeronectes koellikeri"	"V5-V7S"	77598	0	0	0	0	0
+"26Mar19-BW3-35.1"	"Sphaeronectes koellikeri"	"V5-V7S"	202326	0	0	0	0	0
+"26Mar19-BW3-35.2"	"Sphaeronectes koellikeri"	"V5-V7S"	70132	0	0	0	0	0
+"26Mar19-BW3-35.3"	"Sphaeronectes koellikeri"	"V5-V7S"	64968	0	0	0	0	0
+"26Mar19-BW3-35.4"	"Sphaeronectes koellikeri"	"V5-V7S"	60494	0	0	0	0	0
+"26Mar19-BW3-35.5"	"Sphaeronectes koellikeri"	"V5-V7S"	60304	0	0	0	0	0
+"D1138-BW60"	"Sphaeronectes koellikeri"	"V5-V7S"	64634	554	0	0	0	0
+"D1243-D3"	"Stephanomia amphytridis"	"V5-V7S"	98632	0	0	0	18	0
+"D1245-D11"	"Stephanomia amphytridis"	"V5-V7S"	115268	0	0	0	0	0
+"D856-SS8"	"Stephanomia amphytridis"	"V5-V7S"	962900	0	0	0	6	0
+"Groton1_Dive2_4"	"Sulculeolaria chuni"	"V5-V7S"	242726	384	0	0	17	0
+"D1019-D5"	"Undescribed physonect L"	"V5-V7S"	735334	0	0	6	96	56
+"D1241-SS9"	"Undescribed physonect L"	"V5-V7S"	40494	0	0	0	0	0
+"D1241-D6"	"Undescribed physonect ZigZag"	"V5-V7S"	54944	0	0	0	0	0
+"D1137-D8"	"Vogtia serrata"	"V5-V7S"	20614	70	0	0	28896	2651
+"D1243-SS10"	"Vogtia serrata"	"V5-V7S"	76295	236	0	0	1792	2948
+"D961-SS1"	"Vogtia serrata"	"V5-V7S"	124029	0	0	0	21026	33644
+"D1243-BW5"	"Agalma okenii"	"V3"	89390	0	0	0	0	0
+"D1244-BW3"	"Agalma okenii"	"V3"	114056	0	0	0	0	0
+"D1244-BW4"	"Agalma okenii"	"V3"	140244	0	0	0	0	0
+"D1240-D1"	"Apolemia lanosa"	"V3"	39726	0	0	0	0	0
+"D858-D6"	"Apolemia lanosa"	"V3"	1243421	0	0	2	126157	198
+"D964-D1"	"Apolemia lanosa"	"V3"	286202	0	0	0	0	0
+"D1137-SS2"	"Apolemia rubriversa"	"V3"	77666	0	0	0	0	0
+"D1240-D12"	"Apolemia rubriversa"	"V3"	220222	0	0	0	0	0
+"D1242-D2"	"Apolemia rubriversa"	"V3"	159950	84	0	0	0	0
+"D1243-D2"	"Apolemia rubriversa"	"V3"	151226	0	0	0	0	0
+"D1244-MS2"	"Apolemia rubriversa"	"V3"	130532	0	0	0	0	0
+"D1244-MS3"	"Apolemia rubriversa"	"V3"	153686	0	0	0	0	0
+"D1245-D1"	"Apolemia rubriversa"	"V3"	120102	600	0	0	0	0
+"D1240-D10"	"Apolemia sp"	"V3"	126902	0	0	12	22808	69
+"D1242-SS4"	"Apolemia undescribed sp"	"V3"	96040	836	0	0	0	0
+"D1244-D2"	"Apolemia undescribed sp"	"V3"	135702	0	0	0	0	0
+"D1163-D4"	"Bargmannia amoena"	"V3"	199472	0	0	0	3243	33
+"D1165-SS12"	"Bargmannia amoena"	"V3"	51598	458	0	0	866	39
+"D861-D12"	"Bargmannia amoena"	"V3"	711751	600776	0	27504	14246	112
+"D1168-SS7"	"Bargmannia elongata"	"V3"	60748	0	0	0	7688	14
+"D1244-SS6"	"Bargmannia elongata"	"V3"	14498	49694	0	0	68	0
+"D1164-SS7"	"Bargmannia lata"	"V3"	47574	32	0	0	5748	0
+"D1240-D9"	"Bargmannia lata"	"V3"	110362	0	0	0	5226	281
+"D1242-D6"	"Bargmannia lata"	"V3"	99132	0	0	0	0	0
+"D1240-MS1"	"Chuniphyes moserae"	"V3"	139976	0	0	0	0	0
+"D1137-MS5"	"Chuniphyes multidentata"	"V3"	74238	0	0	0	0	0
+"D1241-SS2"	"Chuniphyes multidentata"	"V3"	64158	0	0	0	0	0
+"D1242-SS12"	"Chuniphyes multidentata"	"V3"	88518	0	0	0	0	0
+"D1243-SS11"	"Chuniphyes multidentata"	"V3"	59266	0	0	0	0	0
+"D1244-SS9"	"Chuniphyes multidentata"	"V3"	126052	184	0	0	0	0
+"D1243-SS9"	"Cordagalma ordinatum"	"V3"	128880	0	0	0	150	0
+"D1243-SS8"	"Craseoa lathetica"	"V3"	58432	0	0	0	0	0
+"D960-SS1"	"Craseoa lathetica"	"V3"	667523	0	0	0	1963	190
+"D1244-SS12"	"Desmophyes annectens"	"V3"	26420	0	0	0	0	0
+"26Mar19-BW3-1"	"Diphyes dispar"	"V3"	81840	0	0	0	0	0
+"26Mar19-BW3-38"	"Diphyes dispar"	"V3"	110282	0	0	0	0	0
+"26Mar19-BW3-39"	"Diphyes dispar"	"V3"	69576	0	0	0	0	0
+"26Mar19-BW4-30"	"Diphyes dispar"	"V3"	85828	0	0	0	0	0
+"D1243-BW19"	"Diphyes dispar"	"V3"	110360	0	0	0	0	0
+"D1243-BW25"	"Diphyes dispar"	"V3"	109656	156	0	0	0	0
+"D1243-BW28"	"Diphyes dispar"	"V3"	132354	0	0	0	0	0
+"D1243-BW29"	"Diphyes dispar"	"V3"	146402	0	0	0	58	0
+"D1243-BW30"	"Diphyes dispar"	"V3"	202826	0	0	0	0	0
+"D1243-BW31"	"Diphyes dispar"	"V3"	89306	0	0	0	0	0
+"D1243-BW32"	"Diphyes dispar"	"V3"	112576	0	0	0	0	0
+"D1243-BW33"	"Diphyes dispar"	"V3"	129502	0	0	0	0	0
+"D1243-BW37"	"Diphyes dispar"	"V3"	179658	0	0	0	62	0
+"D1244-BW1"	"Diphyes dispar"	"V3"	116498	12	0	0	0	0
+"D1244-BW24"	"Diphyes dispar"	"V3"	169450	0	0	0	0	0
+"D1240-D6"	"Erenna cornuta"	"V3"	123626	0	0	0	30	0
+"D860-D6"	"Erenna sirena"	"V3"	784320	0	0	0	268546	424
+"D1242-MS6"	"Forskalia formosa"	"V3"	45726	0	0	0	0	0
+"D1242-SS1"	"Forskalia formosa"	"V3"	151130	0	0	0	0	0
+"D963-SS6"	"Forskalia formosa"	"V3"	154358	0	0	0	22	174
+"D1137-D7"	"Forskalia sp."	"V3"	91822	0	0	0	0	0
+"D1137-D9"	"Forskalia sp."	"V3"	104582	0	0	0	0	0
+"D1243-D4"	"Forskalia sp."	"V3"	87058	0	0	0	0	0
+"D1245-D9"	"Forskalia sp."	"V3"	171074	1508	0	0	190	20
+"M123-SS8"	"Forskalia sp."	"V3"	42228	213640	0	0	1394	775
+"D1023-MS2"	"Frillagalma vityazi"	"V3"	303324	0	0	0	4213	264
+"D1240-SS5"	"Frillagalma vityazi"	"V3"	55860	0	0	0	592	62
+"D1242-D8"	"Frillagalma vityazi"	"V3"	44244	0	0	0	0	0
+"D1241-D10"	"Gymnopraia lapislazula"	"V3"	103946	0	0	0	0	0
+"D1243-SS7"	"Gymnopraia lapislazula"	"V3"	114648	0	0	0	0	0
+"D965-D10"	"Gymnopraia lapislazula"	"V3"	273951	0	0	0	87	0
+"D1244-D8"	"Halistemma rubrum"	"V3"	111148	22	0	0	28	0
+"D1241-MS6"	"Kephyes ovata"	"V3"	62528	0	0	0	0	0
+"D1241-SS8"	"Kephyes ovata"	"V3"	88946	0	0	0	0	0
+"D1242-SS12b"	"Lensia conoidea"	"V3"	104220	220	0	0	0	0
+"D1241-D5"	"Lilyopsis fluoracantha"	"V3"	119572	0	0	0	0	0
+"D1169-SS8"	"Lychnagalma utricularia"	"V3"	27144	0	0	0	0	0
+"D1242-SS10"	"Lychnagalma utricularia"	"V3"	45874	0	0	0	0	0
+"D1242-SS11"	"Lychnagalma utricularia"	"V3"	80448	85842	0	0	13	0
+"D962-D4"	"Lychnagalma utricularia"	"V3"	6940	231050	0	0	970	4378
+"D1164-SS6"	"Marrus claudanielis"	"V3"	110802	0	0	0	212	0
+"D959-SS7"	"Marrus claudanielis"	"V3"	99338	0	0	0	10	0
+"D1138.2-BW45"	"Muggiaea atlantica"	"V3"	98836	0	0	0	0	0
+"D1138.2-BW46"	"Muggiaea atlantica"	"V3"	88200	0	0	0	40	0
+"D1138.2-BW63"	"Muggiaea atlantica"	"V3"	106500	0	0	0	48	0
+"D1138.2-BW64"	"Muggiaea atlantica"	"V3"	66096	0	0	0	0	0
+"D1138.2-BW65"	"Muggiaea atlantica"	"V3"	53994	0	0	0	16	0
+"D1241-MS2"	"Nanomia (deep)"	"V3"	70584	0	0	0	0	0
+"D1244-SS10"	"Nanomia (deep)"	"V3"	130224	0	0	0	142	14
+"D1244-SS8"	"Nanomia (deep)"	"V3"	50	34794	0	0	0	0
+"Groton2_Dive1_36"	"Nanomia sp. Atlantic"	"V3"	0	1556	0	126	0	0
+"Groton2_Dive2_16"	"Nanomia sp. Atlantic"	"V3"	208016	0	0	0	0	0
+"Groton2_Dive2_18"	"Nanomia sp. Atlantic"	"V3"	373976	0	0	0	0	0
+"Groton2_Dive2_20"	"Nanomia sp. Atlantic"	"V3"	380558	0	0	0	0	0
+"Groton2_Dive2_22"	"Nanomia sp. Atlantic"	"V3"	352812	0	0	0	0	0
+"Groton2_Dive2_24"	"Nanomia sp. Atlantic"	"V3"	422326	788	0	0	66	0
+"Groton2_Dive2_26"	"Nanomia sp. Atlantic"	"V3"	319060	8222	0	0	0	0
+"Groton2_Dive2_28"	"Nanomia sp. Atlantic"	"V3"	305902	19648	0	0	0	0
+"Groton2_Dive2_30"	"Nanomia sp. Atlantic"	"V3"	186178	65620	0	0	0	0
+"Groton2_Dive2_32"	"Nanomia sp. Atlantic"	"V3"	367544	0	0	0	0	0
+"Groton2_Dive2_34"	"Nanomia sp. Atlantic"	"V3"	298082	14280	0	0	80	0
+"Groton2_Dive2_36"	"Nanomia sp. Atlantic"	"V3"	423080	1556	0	126	38	19
+"Groton2_Dive2_38"	"Nanomia sp. Atlantic"	"V3"	463964	0	0	0	0	0
+"26Mar19-BW3-20"	"Nanomia sp. shallow"	"V3"	79346	0	0	0	0	0
+"26Mar19-BW3-25.1"	"Nanomia sp. shallow"	"V3"	93570	0	0	0	0	0
+"26Mar19-BW3-29"	"Nanomia sp. shallow"	"V3"	96754	0	0	0	0	0
+"26Mar19-BW3-40.1"	"Nanomia sp. shallow"	"V3"	87532	3047	0	0	0	0
+"26Mar19-BW4-31"	"Nanomia sp. shallow"	"V3"	61866	0	0	0	0	0
+"26Mar19-BW4-32"	"Nanomia sp. shallow"	"V3"	59214	0	0	0	0	0
+"D1138-BW20"	"Nanomia sp. shallow"	"V3"	88618	0	0	0	0	0
+"D1138-BW21"	"Nanomia sp. shallow"	"V3"	102922	0	0	0	0	0
+"D1138-BW22"	"Nanomia sp. shallow"	"V3"	175184	0	0	0	0	0
+"D1138-BW34"	"Nanomia sp. shallow"	"V3"	60718	0	0	0	0	0
+"D1138-BW6"	"Nanomia sp. shallow"	"V3"	46628	0	0	0	0	0
+"KiloMoana2018-BW7-4"	"Nanomia sp. shallow"	"V3"	721796	44742	0	0	376	78
+"BIOS19-D1-P1"	"Physalia physalis"	"V3"	167222	16	0	0	0	0
+"BIOS19-D1-P2"	"Physalia physalis"	"V3"	166646	0	0	0	0	0
+"BIOS19-D1-P3"	"Physalia physalis"	"V3"	65138	0	0	0	0	0
+"BIOS19-D1-P4"	"Physalia physalis"	"V3"	89644	0	0	0	0	24
+"BIOS19-D1-P5"	"Physalia physalis"	"V3"	202848	10064	18058	1178	55745	66
+"D1244-D3"	"Praya dubia"	"V3"	163450	0	0	0	0	0
+"D960-BW2"	"Praya dubia"	"V3"	212272	0	0	3854	0	0
+"D1166-D8"	"Resomia dunni"	"V3"	48976	1644	0	0	892	288
+"D1168-D8"	"Resomia dunni"	"V3"	95188	0	0	0	58	0
+"D963-D4"	"Resomia dunni"	"V3"	266744	0	0	0	394	162
+"D965-D7"	"Resomia ornicephala"	"V3"	264866	0	0	0	844	394
+"D1245-D6"	"Sphaeronectes christiansonae"	"V3"	167576	0	0	0	0	28
+"26Mar19-BW3-20.1"	"Sphaeronectes koellikeri"	"V3"	135144	0	0	0	0	0
+"26Mar19-BW3-20.2"	"Sphaeronectes koellikeri"	"V3"	83628	0	0	0	0	0
+"26Mar19-BW3-20.3"	"Sphaeronectes koellikeri"	"V3"	110708	0	0	0	0	0
+"26Mar19-BW3-35"	"Sphaeronectes koellikeri"	"V3"	94728	0	0	0	0	0
+"26Mar19-BW3-35.1"	"Sphaeronectes koellikeri"	"V3"	240754	0	0	0	0	0
+"26Mar19-BW3-35.2"	"Sphaeronectes koellikeri"	"V3"	94656	0	0	0	0	0
+"26Mar19-BW3-35.3"	"Sphaeronectes koellikeri"	"V3"	102702	0	0	0	0	0
+"26Mar19-BW3-35.4"	"Sphaeronectes koellikeri"	"V3"	94872	0	0	0	0	0
+"26Mar19-BW3-35.5"	"Sphaeronectes koellikeri"	"V3"	67356	0	0	0	0	0
+"D1138-BW60"	"Sphaeronectes koellikeri"	"V3"	92898	1512	0	0	0	0
+"D1243-D3"	"Stephanomia amphytridis"	"V3"	151996	0	0	0	146	0
+"D1245-D11"	"Stephanomia amphytridis"	"V3"	153624	0	0	0	0	0
+"D856-SS8"	"Stephanomia amphytridis"	"V3"	330372	0	0	0	311326	74
+"Groton1_Dive2_4"	"Sulculeolaria chuni"	"V3"	344552	1044	0	0	17	0
+"D1019-D5"	"Undescribed physonect L"	"V3"	782548	996	0	0	382	100
+"D1241-SS9"	"Undescribed physonect L"	"V3"	52896	0	0	0	0	0
+"D1241-D6"	"Undescribed physonect ZigZag"	"V3"	74042	0	0	0	0	0
+"D1137-D8"	"Vogtia serrata"	"V3"	25084	46	0	0	37046	0
+"D1243-SS10"	"Vogtia serrata"	"V3"	153928	0	0	0	0	0
+"D961-SS1"	"Vogtia serrata"	"V3"	261294	0	0	0	4622	359
+"D1243-BW5"	"Agalma okenii"	"V7"	59900	0	0	0	0	0
+"D1244-BW3"	"Agalma okenii"	"V7"	72208	0	0	0	0	0
+"D1244-BW4"	"Agalma okenii"	"V7"	137168	0	0	0	0	0
+"D1240-D1"	"Apolemia lanosa"	"V7"	24888	0	0	0	0	0
+"D858-D6"	"Apolemia lanosa"	"V7"	417494	0	0	0	734	8
+"D964-D1"	"Apolemia lanosa"	"V7"	178849	0	0	0	49	0
+"D1137-SS2"	"Apolemia rubriversa"	"V7"	33672	0	0	0	0	0
+"D1240-D12"	"Apolemia rubriversa"	"V7"	142332	0	0	0	0	0
+"D1242-D2"	"Apolemia rubriversa"	"V7"	98684	0	0	0	0	0
+"D1243-D2"	"Apolemia rubriversa"	"V7"	85610	0	0	0	0	0
+"D1244-MS2"	"Apolemia rubriversa"	"V7"	97956	0	0	0	0	0
+"D1244-MS3"	"Apolemia rubriversa"	"V7"	143024	0	0	0	0	0
+"D1245-D1"	"Apolemia rubriversa"	"V7"	143698	952	0	0	12	0
+"D1240-D10"	"Apolemia sp"	"V7"	87182	0	0	14	5240	29
+"D1242-SS4"	"Apolemia undescribed sp"	"V7"	63042	518	0	0	0	0
+"D1244-D2"	"Apolemia undescribed sp"	"V7"	68052	0	0	0	0	0
+"D1163-D4"	"Bargmannia amoena"	"V7"	55090	0	0	0	404	0
+"D1165-SS12"	"Bargmannia amoena"	"V7"	33270	486	0	0	174	0
+"D861-D12"	"Bargmannia amoena"	"V7"	139948	203230	0	1242	132414	0
+"D1244-SS6"	"Bargmannia elongata"	"V7"	13892	25212	0	0	0	0
+"D1164-SS7"	"Bargmannia lata"	"V7"	22212	0	0	0	1222	0
+"D1240-D9"	"Bargmannia lata"	"V7"	25566	0	0	0	26	0
+"D1242-D6"	"Bargmannia lata"	"V7"	57600	0	0	0	0	0
+"D1240-MS1"	"Chuniphyes moserae"	"V7"	120248	0	0	0	210	0
+"D1137-MS5"	"Chuniphyes multidentata"	"V7"	27626	0	0	0	0	0
+"D1241-SS2"	"Chuniphyes multidentata"	"V7"	47890	0	0	0	0	0
+"D1242-SS12"	"Chuniphyes multidentata"	"V7"	53384	0	0	0	0	0
+"D1243-SS11"	"Chuniphyes multidentata"	"V7"	50292	0	0	0	0	0
+"D1244-SS9"	"Chuniphyes multidentata"	"V7"	118448	98	0	0	0	0
+"D1243-SS9"	"Cordagalma ordinatum"	"V7"	239604	0	0	0	230	0
+"D1243-SS8"	"Craseoa lathetica"	"V7"	37260	0	0	0	0	4
+"D960-SS1"	"Craseoa lathetica"	"V7"	346043	0	0	0	555	0
+"D1244-SS12"	"Desmophyes annectens"	"V7"	19092	0	0	0	0	0
+"26Mar19-BW3-1"	"Diphyes dispar"	"V7"	66232	0	0	0	0	0
+"26Mar19-BW3-38"	"Diphyes dispar"	"V7"	55688	0	0	0	0	0
+"26Mar19-BW3-39"	"Diphyes dispar"	"V7"	42532	0	0	0	10	0
+"26Mar19-BW4-30"	"Diphyes dispar"	"V7"	54810	0	0	0	0	0
+"D1243-BW19"	"Diphyes dispar"	"V7"	63728	0	0	0	0	0
+"D1243-BW25"	"Diphyes dispar"	"V7"	90568	78	0	0	0	0
+"D1243-BW28"	"Diphyes dispar"	"V7"	94536	0	0	0	0	0
+"D1243-BW29"	"Diphyes dispar"	"V7"	85090	0	0	0	0	0
+"D1243-BW30"	"Diphyes dispar"	"V7"	107030	0	0	0	0	0
+"D1243-BW31"	"Diphyes dispar"	"V7"	78774	0	0	0	0	0
+"D1243-BW32"	"Diphyes dispar"	"V7"	110844	0	0	0	0	0
+"D1243-BW33"	"Diphyes dispar"	"V7"	98732	0	0	0	0	0
+"D1243-BW37"	"Diphyes dispar"	"V7"	150114	0	0	0	0	0
+"D1244-BW1"	"Diphyes dispar"	"V7"	81200	16	0	0	0	0
+"D1244-BW24"	"Diphyes dispar"	"V7"	115780	0	0	0	308	0
+"D1240-D6"	"Erenna cornuta"	"V7"	96422	0	0	0	0	0
+"D860-D6"	"Erenna sirena"	"V7"	78012	0	0	0	104	0
+"D1242-MS6"	"Forskalia formosa"	"V7"	29376	0	0	0	0	0
+"D1242-SS1"	"Forskalia formosa"	"V7"	92232	0	0	0	12	0
+"D963-SS6"	"Forskalia formosa"	"V7"	92126	0	0	0	8	0
+"D1137-D7"	"Forskalia sp."	"V7"	31728	0	0	0	0	0
+"D1137-D9"	"Forskalia sp."	"V7"	42414	0	0	0	0	0
+"D1243-D4"	"Forskalia sp."	"V7"	48888	0	0	0	0	0
+"D1245-D9"	"Forskalia sp."	"V7"	102904	332	0	0	0	0
+"M123-SS8"	"Forskalia sp."	"V7"	33624	989	0	0	1369	8
+"D1023-MS2"	"Frillagalma vityazi"	"V7"	203019	0	0	0	449	0
+"D1240-SS5"	"Frillagalma vityazi"	"V7"	24564	0	0	0	36	0
+"D1242-D8"	"Frillagalma vityazi"	"V7"	29850	0	0	0	0	0
+"D1241-D10"	"Gymnopraia lapislazula"	"V7"	83724	0	0	0	0	0
+"D1243-SS7"	"Gymnopraia lapislazula"	"V7"	72564	0	0	0	0	0
+"D965-D10"	"Gymnopraia lapislazula"	"V7"	159804	0	0	0	30	0
+"D1244-D8"	"Halistemma rubrum"	"V7"	71476	20	0	0	0	0
+"D1241-MS6"	"Kephyes ovata"	"V7"	47058	0	0	0	0	0
+"D1241-SS8"	"Kephyes ovata"	"V7"	60412	0	0	0	0	0
+"D1242-SS12b"	"Lensia conoidea"	"V7"	70748	234	0	0	40	0
+"D1241-D5"	"Lilyopsis fluoracantha"	"V7"	74916	0	0	0	0	0
+"D1169-SS8"	"Lychnagalma utricularia"	"V7"	21254	0	0	0	0	0
+"D1242-SS10"	"Lychnagalma utricularia"	"V7"	20910	0	0	0	0	0
+"D1242-SS11"	"Lychnagalma utricularia"	"V7"	35950	0	0	0	0	0
+"D962-D4"	"Lychnagalma utricularia"	"V7"	4840	139662	0	0	370	118
+"D1164-SS6"	"Marrus claudanielis"	"V7"	65826	0	0	0	24	0
+"D959-SS7"	"Marrus claudanielis"	"V7"	186044	0	0	0	0	0
+"D1138.2-BW45"	"Muggiaea atlantica"	"V7"	106920	0	0	0	0	0
+"D1138.2-BW46"	"Muggiaea atlantica"	"V7"	56940	0	0	0	0	0
+"D1138.2-BW63"	"Muggiaea atlantica"	"V7"	39976	0	0	0	0	0
+"D1138.2-BW64"	"Muggiaea atlantica"	"V7"	32930	0	0	0	0	0
+"D1138.2-BW65"	"Muggiaea atlantica"	"V7"	33438	0	0	0	0	0
+"D1241-MS2"	"Nanomia (deep)"	"V7"	48460	0	0	0	0	0
+"D1244-SS10"	"Nanomia (deep)"	"V7"	75242	0	0	0	8	0
+"D1244-SS8"	"Nanomia (deep)"	"V7"	0	17772	0	0	0	0
+"Groton2_Dive2_16"	"Nanomia sp. Atlantic"	"V7"	144584	0	0	0	0	0
+"Groton2_Dive2_18"	"Nanomia sp. Atlantic"	"V7"	131334	0	0	0	0	0
+"Groton2_Dive2_20"	"Nanomia sp. Atlantic"	"V7"	236478	0	0	0	0	0
+"Groton2_Dive2_22"	"Nanomia sp. Atlantic"	"V7"	121458	0	0	0	0	0
+"Groton2_Dive2_24"	"Nanomia sp. Atlantic"	"V7"	297168	230	0	0	0	0
+"Groton2_Dive2_26"	"Nanomia sp. Atlantic"	"V7"	118880	1844	0	0	0	0
+"Groton2_Dive2_28"	"Nanomia sp. Atlantic"	"V7"	95544	5926	0	0	0	0
+"Groton2_Dive2_30"	"Nanomia sp. Atlantic"	"V7"	128494	28655	0	0	0	0
+"Groton2_Dive2_32"	"Nanomia sp. Atlantic"	"V7"	212924	0	0	0	0	0
+"Groton2_Dive2_34"	"Nanomia sp. Atlantic"	"V7"	100354	1793	0	0	8	0
+"Groton2_Dive2_36"	"Nanomia sp. Atlantic"	"V7"	55832	0	0	0	0	0
+"Groton2_Dive2_38"	"Nanomia sp. Atlantic"	"V7"	125984	0	0	0	0	0
+"26Mar19-BW3-20"	"Nanomia sp. shallow"	"V7"	56820	0	0	0	0	0
+"26Mar19-BW3-25.1"	"Nanomia sp. shallow"	"V7"	53340	0	0	0	0	0
+"26Mar19-BW3-29"	"Nanomia sp. shallow"	"V7"	67390	0	0	0	0	0
+"26Mar19-BW3-40.1"	"Nanomia sp. shallow"	"V7"	40392	0	0	0	0	0
+"26Mar19-BW4-31"	"Nanomia sp. shallow"	"V7"	46908	0	0	0	0	0
+"26Mar19-BW4-32"	"Nanomia sp. shallow"	"V7"	46072	0	0	0	0	0
+"D1138-BW20"	"Nanomia sp. shallow"	"V7"	30136	0	0	0	0	0
+"D1138-BW21"	"Nanomia sp. shallow"	"V7"	38656	0	0	0	0	0
+"D1138-BW22"	"Nanomia sp. shallow"	"V7"	84076	0	0	0	0	0
+"D1138-BW34"	"Nanomia sp. shallow"	"V7"	44784	0	0	0	0	0
+"D1138-BW6"	"Nanomia sp. shallow"	"V7"	21202	0	0	0	0	0
+"KiloMoana2018-BW7-4"	"Nanomia sp. shallow"	"V7"	126844	4748	0	0	124652	10
+"BIOS19-D1-P1"	"Physalia physalis"	"V7"	100502	0	0	0	0	0
+"BIOS19-D1-P2"	"Physalia physalis"	"V7"	90832	0	0	0	0	0
+"BIOS19-D1-P3"	"Physalia physalis"	"V7"	43176	0	0	0	0	0
+"BIOS19-D1-P4"	"Physalia physalis"	"V7"	36614	0	0	0	0	0
+"BIOS19-D1-P5"	"Physalia physalis"	"V7"	45120	66	3252	46	10758	36
+"D1244-D3"	"Praya dubia"	"V7"	108554	0	0	0	0	0
+"D960-BW2"	"Praya dubia"	"V7"	206760	0	0	1560	0	0
+"D1166-D8"	"Resomia dunni"	"V7"	29044	530	0	0	520	0
+"D1168-D8"	"Resomia dunni"	"V7"	107056	0	0	0	0	0
+"D963-D4"	"Resomia dunni"	"V7"	130357	0	0	0	43	16
+"D965-D7"	"Resomia ornicephala"	"V7"	41806	0	0	0	0	26
+"D1245-D6"	"Sphaeronectes christiansonae"	"V7"	88828	0	0	0	0	0
+"26Mar19-BW3-20.1"	"Sphaeronectes koellikeri"	"V7"	53022	0	0	0	0	0
+"26Mar19-BW3-20.2"	"Sphaeronectes koellikeri"	"V7"	57054	0	0	0	6	0
+"26Mar19-BW3-20.3"	"Sphaeronectes koellikeri"	"V7"	70270	0	0	0	0	0
+"26Mar19-BW3-35"	"Sphaeronectes koellikeri"	"V7"	50402	0	0	0	0	0
+"26Mar19-BW3-35.1"	"Sphaeronectes koellikeri"	"V7"	122616	0	0	0	0	0
+"26Mar19-BW3-35.2"	"Sphaeronectes koellikeri"	"V7"	62830	0	0	0	0	0
+"26Mar19-BW3-35.3"	"Sphaeronectes koellikeri"	"V7"	67158	0	0	0	0	0
+"26Mar19-BW3-35.4"	"Sphaeronectes koellikeri"	"V7"	49988	0	0	0	0	0
+"26Mar19-BW3-35.5"	"Sphaeronectes koellikeri"	"V7"	26056	0	0	0	0	0
+"D1138-BW60"	"Sphaeronectes koellikeri"	"V7"	44482	488	0	0	0	0
+"D1243-D3"	"Stephanomia amphytridis"	"V7"	53756	0	0	0	6	0
+"D1245-D11"	"Stephanomia amphytridis"	"V7"	81234	0	0	0	0	0
+"D856-SS8"	"Stephanomia amphytridis"	"V7"	137738	0	0	0	128117	0
+"Groton1_Dive2_4"	"Sulculeolaria chuni"	"V7"	148790	282	0	0	0	0
+"D1019-D5"	"Undescribed physonect L"	"V7"	241148	230	0	0	5244	4
+"D1241-SS9"	"Undescribed physonect L"	"V7"	39928	0	0	0	0	0
+"D1241-D6"	"Undescribed physonect ZigZag"	"V7"	50846	0	0	0	0	0
+"D1137-D8"	"Vogtia serrata"	"V7"	0	0	0	0	11710	0
+"D1243-SS10"	"Vogtia serrata"	"V7"	103334	0	0	0	0	0
+"D961-SS1"	"Vogtia serrata"	"V7"	106204	0	0	0	812	4
+"D1243-BW5"	"Agalma okenii"	"V7p+V8"	1728	0	0	0	0	0
+"D1244-BW3"	"Agalma okenii"	"V7p+V8"	440	0	0	0	0	0
+"D1244-BW4"	"Agalma okenii"	"V7p+V8"	1816	0	0	0	0	0
+"D1240-D1"	"Apolemia lanosa"	"V7p+V8"	2042	0	0	0	0	0
+"D858-D6"	"Apolemia lanosa"	"V7p+V8"	336605	0	0	0	1972	418
+"D964-D1"	"Apolemia lanosa"	"V7p+V8"	2732	0	0	0	0	0
+"D1137-SS2"	"Apolemia rubriversa"	"V7p+V8"	2026	0	0	0	0	0
+"D1240-D12"	"Apolemia rubriversa"	"V7p+V8"	14470	0	0	0	0	0
+"D1242-D2"	"Apolemia rubriversa"	"V7p+V8"	9936	0	0	0	0	0
+"D1243-D2"	"Apolemia rubriversa"	"V7p+V8"	4830	0	0	0	0	0
+"D1244-MS2"	"Apolemia rubriversa"	"V7p+V8"	5390	0	0	0	0	0
+"D1244-MS3"	"Apolemia rubriversa"	"V7p+V8"	3960	0	0	0	0	0
+"D1245-D1"	"Apolemia rubriversa"	"V7p+V8"	4564	0	0	0	0	74
+"D1240-D10"	"Apolemia sp"	"V7p+V8"	5678	0	0	0	21674	0
+"D1242-SS4"	"Apolemia undescribed sp"	"V7p+V8"	7640	0	0	0	0	0
+"D1244-D2"	"Apolemia undescribed sp"	"V7p+V8"	1466	0	0	0	0	0
+"D1163-D4"	"Bargmannia amoena"	"V7p+V8"	9554	0	0	0	832	0
+"D1165-SS12"	"Bargmannia amoena"	"V7p+V8"	5232	26	0	0	817	67
+"D861-D12"	"Bargmannia amoena"	"V7p+V8"	158704	238836	0	6406	190	4
+"D1168-SS7"	"Bargmannia elongata"	"V7p+V8"	492	0	0	0	14359	167
+"D1164-SS7"	"Bargmannia lata"	"V7p+V8"	1568	0	0	0	4027	0
+"D1240-D9"	"Bargmannia lata"	"V7p+V8"	5950	0	0	0	1419	42
+"D1242-D6"	"Bargmannia lata"	"V7p+V8"	7700	0	0	0	0	0
+"D1240-MS1"	"Chuniphyes moserae"	"V7p+V8"	5208	0	0	0	0	0
+"D1137-MS5"	"Chuniphyes multidentata"	"V7p+V8"	5214	0	0	0	0	0
+"D1241-SS2"	"Chuniphyes multidentata"	"V7p+V8"	3198	0	0	0	0	0
+"D1242-SS12"	"Chuniphyes multidentata"	"V7p+V8"	3710	0	0	0	0	0
+"D1243-SS11"	"Chuniphyes multidentata"	"V7p+V8"	5472	0	0	0	0	0
+"D1244-SS9"	"Chuniphyes multidentata"	"V7p+V8"	6664	0	0	0	0	0
+"D1243-SS9"	"Cordagalma ordinatum"	"V7p+V8"	23208	0	0	0	400	0
+"D1243-SS8"	"Craseoa lathetica"	"V7p+V8"	688	0	0	0	0	0
+"D960-SS1"	"Craseoa lathetica"	"V7p+V8"	8346	0	0	0	582	448
+"D1244-SS12"	"Desmophyes annectens"	"V7p+V8"	1484	0	0	0	0	0
+"26Mar19-BW3-1"	"Diphyes dispar"	"V7p+V8"	6372	0	0	0	0	0
+"26Mar19-BW3-38"	"Diphyes dispar"	"V7p+V8"	2998	0	0	0	0	0
+"26Mar19-BW3-39"	"Diphyes dispar"	"V7p+V8"	5380	0	0	0	0	0
+"26Mar19-BW4-30"	"Diphyes dispar"	"V7p+V8"	6494	0	0	0	0	0
+"D1243-BW19"	"Diphyes dispar"	"V7p+V8"	2932	0	0	0	0	0
+"D1243-BW25"	"Diphyes dispar"	"V7p+V8"	2088	0	0	0	0	0
+"D1243-BW28"	"Diphyes dispar"	"V7p+V8"	2032	0	0	0	0	0
+"D1243-BW29"	"Diphyes dispar"	"V7p+V8"	3170	0	0	0	0	0
+"D1243-BW30"	"Diphyes dispar"	"V7p+V8"	1334	0	0	0	0	0
+"D1243-BW31"	"Diphyes dispar"	"V7p+V8"	2866	0	0	0	0	0
+"D1243-BW32"	"Diphyes dispar"	"V7p+V8"	1758	0	0	0	0	0
+"D1243-BW33"	"Diphyes dispar"	"V7p+V8"	4260	0	0	0	18	0
+"D1243-BW37"	"Diphyes dispar"	"V7p+V8"	8426	0	0	0	0	0
+"D1244-BW1"	"Diphyes dispar"	"V7p+V8"	5258	0	0	0	0	0
+"D1244-BW24"	"Diphyes dispar"	"V7p+V8"	13254	28	0	0	0	0
+"D1240-D6"	"Erenna cornuta"	"V7p+V8"	4988	0	0	0	0	0
+"D1165-SS1"	"Erenna sirena"	"V7p+V8"	162	0	0	0	0	0
+"D860-D6"	"Erenna sirena"	"V7p+V8"	381010	0	0	0	176	204
+"D1242-MS6"	"Forskalia formosa"	"V7p+V8"	174	0	0	0	0	0
+"D1242-SS1"	"Forskalia formosa"	"V7p+V8"	1100	0	0	0	0	0
+"D963-SS6"	"Forskalia formosa"	"V7p+V8"	6858	0	0	0	0	0
+"D1137-D7"	"Forskalia sp."	"V7p+V8"	8542	0	0	0	0	0
+"D1137-D9"	"Forskalia sp."	"V7p+V8"	7528	0	0	0	0	0
+"D1243-D4"	"Forskalia sp."	"V7p+V8"	4326	0	0	0	0	0
+"D1245-D9"	"Forskalia sp."	"V7p+V8"	3058	368	0	0	99	332
+"M123-SS8"	"Forskalia sp."	"V7p+V8"	250	4471	0	0	171	73
+"D1023-MS2"	"Frillagalma vityazi"	"V7p+V8"	8158	0	0	0	727	11
+"D1240-SS5"	"Frillagalma vityazi"	"V7p+V8"	1714	0	0	0	123	49
+"D1242-D8"	"Frillagalma vityazi"	"V7p+V8"	162	0	0	0	0	0
+"D1241-D10"	"Gymnopraia lapislazula"	"V7p+V8"	7606	0	0	0	0	0
+"D1243-SS7"	"Gymnopraia lapislazula"	"V7p+V8"	3804	0	0	0	0	0
+"D965-D10"	"Gymnopraia lapislazula"	"V7p+V8"	10721	0	0	0	31	0
+"D1244-D8"	"Halistemma rubrum"	"V7p+V8"	12056	0	0	0	0	0
+"D1241-MS6"	"Kephyes ovata"	"V7p+V8"	4792	0	0	0	0	0
+"D1241-SS8"	"Kephyes ovata"	"V7p+V8"	9382	0	0	0	0	0
+"D1242-SS12b"	"Lensia conoidea"	"V7p+V8"	7060	0	0	0	0	0
+"D1241-D5"	"Lilyopsis fluoracantha"	"V7p+V8"	3218	0	0	0	0	0
+"D1169-SS8"	"Lychnagalma utricularia"	"V7p+V8"	1644	0	0	0	0	0
+"D1242-SS10"	"Lychnagalma utricularia"	"V7p+V8"	90	0	0	0	0	0
+"D1242-SS11"	"Lychnagalma utricularia"	"V7p+V8"	1566	3740	0	0	201	0
+"D962-D4"	"Lychnagalma utricularia"	"V7p+V8"	290	4474	0	0	8214	1149
+"D1164-SS6"	"Marrus claudanielis"	"V7p+V8"	11642	0	0	0	103	0
+"D959-SS7"	"Marrus claudanielis"	"V7p+V8"	12436	0	0	0	758	14
+"D1138.2-BW45"	"Muggiaea atlantica"	"V7p+V8"	6666	0	0	0	0	0
+"D1138.2-BW46"	"Muggiaea atlantica"	"V7p+V8"	6884	0	0	0	0	0
+"D1138.2-BW63"	"Muggiaea atlantica"	"V7p+V8"	8980	0	0	0	0	0
+"D1138.2-BW64"	"Muggiaea atlantica"	"V7p+V8"	5526	0	0	0	0	0
+"D1138.2-BW65"	"Muggiaea atlantica"	"V7p+V8"	3912	0	0	0	0	0
+"D1241-MS2"	"Nanomia (deep)"	"V7p+V8"	2712	0	0	0	0	0
+"D1244-SS10"	"Nanomia (deep)"	"V7p+V8"	12666	0	0	0	0	5
+"D1244-SS8"	"Nanomia (deep)"	"V7p+V8"	0	1730	0	0	0	0
+"Groton2_Dive2_16"	"Nanomia sp. Atlantic"	"V7p+V8"	7404	0	0	0	0	0
+"Groton2_Dive2_18"	"Nanomia sp. Atlantic"	"V7p+V8"	19424	0	0	0	0	0
+"Groton2_Dive2_20"	"Nanomia sp. Atlantic"	"V7p+V8"	7546	0	0	0	0	0
+"Groton2_Dive2_22"	"Nanomia sp. Atlantic"	"V7p+V8"	4880	0	0	0	0	0
+"Groton2_Dive2_24"	"Nanomia sp. Atlantic"	"V7p+V8"	8358	0	0	0	0	0
+"Groton2_Dive2_26"	"Nanomia sp. Atlantic"	"V7p+V8"	7764	0	0	0	0	0
+"Groton2_Dive2_28"	"Nanomia sp. Atlantic"	"V7p+V8"	14988	696	0	0	0	0
+"Groton2_Dive2_30"	"Nanomia sp. Atlantic"	"V7p+V8"	12832	4978	0	0	0	0
+"Groton2_Dive2_32"	"Nanomia sp. Atlantic"	"V7p+V8"	7772	0	0	0	0	0
+"Groton2_Dive2_34"	"Nanomia sp. Atlantic"	"V7p+V8"	16806	706	0	0	36	0
+"Groton2_Dive2_36"	"Nanomia sp. Atlantic"	"V7p+V8"	14252	98	0	0	0	0
+"Groton2_Dive2_38"	"Nanomia sp. Atlantic"	"V7p+V8"	10940	0	0	0	0	0
+"26Mar19-BW3-20"	"Nanomia sp. shallow"	"V7p+V8"	7548	0	0	0	0	0
+"26Mar19-BW3-25.1"	"Nanomia sp. shallow"	"V7p+V8"	6102	0	0	0	0	0
+"26Mar19-BW3-29"	"Nanomia sp. shallow"	"V7p+V8"	6270	0	0	0	0	0
+"26Mar19-BW3-40.1"	"Nanomia sp. shallow"	"V7p+V8"	4064	0	0	0	0	5775
+"26Mar19-BW4-31"	"Nanomia sp. shallow"	"V7p+V8"	5868	0	0	0	0	0
+"26Mar19-BW4-32"	"Nanomia sp. shallow"	"V7p+V8"	4914	0	0	0	0	0
+"D1138-BW20"	"Nanomia sp. shallow"	"V7p+V8"	6332	0	0	0	0	0
+"D1138-BW21"	"Nanomia sp. shallow"	"V7p+V8"	5628	0	0	0	0	0
+"D1138-BW22"	"Nanomia sp. shallow"	"V7p+V8"	11564	0	0	0	0	0
+"D1138-BW34"	"Nanomia sp. shallow"	"V7p+V8"	6212	0	0	0	0	0
+"D1138-BW6"	"Nanomia sp. shallow"	"V7p+V8"	4112	0	0	0	0	0
+"KiloMoana2018-BW7-4"	"Nanomia sp. shallow"	"V7p+V8"	185672	5888	0	0	5596	8
+"BIOS19-D1-P1"	"Physalia physalis"	"V7p+V8"	18150	0	0	0	0	0
+"BIOS19-D1-P2"	"Physalia physalis"	"V7p+V8"	15352	0	0	0	0	0
+"BIOS19-D1-P3"	"Physalia physalis"	"V7p+V8"	8732	0	0	0	0	0
+"BIOS19-D1-P4"	"Physalia physalis"	"V7p+V8"	9688	0	0	0	0	0
+"BIOS19-D1-P5"	"Physalia physalis"	"V7p+V8"	4346	3542	4148	428	15988	216
+"D1244-D3"	"Praya dubia"	"V7p+V8"	4504	0	0	0	0	0
+"D960-BW2"	"Praya dubia"	"V7p+V8"	5006	0	0	4422	0	0
+"D1166-D8"	"Resomia dunni"	"V7p+V8"	16694	0	0	0	1904	50
+"D1168-D8"	"Resomia dunni"	"V7p+V8"	16058	0	0	0	22	0
+"D963-D4"	"Resomia dunni"	"V7p+V8"	31558	0	0	0	1010	0
+"D965-D7"	"Resomia ornicephala"	"V7p+V8"	17720	0	0	0	0	22
+"D1245-D6"	"Sphaeronectes christiansonae"	"V7p+V8"	17570	0	0	0	0	0
+"26Mar19-BW3-20.1"	"Sphaeronectes koellikeri"	"V7p+V8"	7682	0	0	0	0	0
+"26Mar19-BW3-20.2"	"Sphaeronectes koellikeri"	"V7p+V8"	8074	0	0	0	0	0
+"26Mar19-BW3-20.3"	"Sphaeronectes koellikeri"	"V7p+V8"	10874	0	0	0	0	0
+"26Mar19-BW3-35"	"Sphaeronectes koellikeri"	"V7p+V8"	6540	0	0	0	0	0
+"26Mar19-BW3-35.1"	"Sphaeronectes koellikeri"	"V7p+V8"	11112	0	0	0	0	0
+"26Mar19-BW3-35.2"	"Sphaeronectes koellikeri"	"V7p+V8"	5170	0	0	0	0	0
+"26Mar19-BW3-35.3"	"Sphaeronectes koellikeri"	"V7p+V8"	8736	0	0	0	0	0
+"26Mar19-BW3-35.4"	"Sphaeronectes koellikeri"	"V7p+V8"	8664	0	0	0	0	0
+"26Mar19-BW3-35.5"	"Sphaeronectes koellikeri"	"V7p+V8"	7266	0	0	0	0	0
+"D1138-BW60"	"Sphaeronectes koellikeri"	"V7p+V8"	5656	0	0	0	0	0
+"D1243-D3"	"Stephanomia amphytridis"	"V7p+V8"	9572	0	0	0	0	0
+"D1245-D11"	"Stephanomia amphytridis"	"V7p+V8"	19658	0	0	0	0	0
+"D856-SS8"	"Stephanomia amphytridis"	"V7p+V8"	308142	0	0	0	14	78
+"Groton1_Dive2_4"	"Sulculeolaria chuni"	"V7p+V8"	8956	0	0	0	0	0
+"D1019-D5"	"Undescribed physonect L"	"V7p+V8"	561820	180	0	0	144	164
+"D1241-SS9"	"Undescribed physonect L"	"V7p+V8"	992	0	0	0	0	0
+"D1241-D6"	"Undescribed physonect ZigZag"	"V7p+V8"	1282	0	0	0	0	0
+"D1137-D8"	"Vogtia serrata"	"V7p+V8"	2118	0	0	0	2269	0
+"D1243-SS10"	"Vogtia serrata"	"V7p+V8"	6554	0	0	0	0	0
+"D961-SS1"	"Vogtia serrata"	"V7p+V8"	11364	0	0	0	4191	59
+"D1243-BW5"	"Agalma okenii"	"V5-V7L"	78006	0	0	0	0	0
+"D1244-BW3"	"Agalma okenii"	"V5-V7L"	87469	0	0	0	0	0
+"D1244-BW4"	"Agalma okenii"	"V5-V7L"	119827	0	0	0	0	0
+"D1240-D1"	"Apolemia lanosa"	"V5-V7L"	25166	584	0	0	42	0
+"D858-D6"	"Apolemia lanosa"	"V5-V7L"	504	0	0	2	346	0
+"D964-D1"	"Apolemia lanosa"	"V5-V7L"	179714	0	0	0	424	0
+"D1137-SS2"	"Apolemia rubriversa"	"V5-V7L"	41414	0	0	0	0	0
+"D1240-D12"	"Apolemia rubriversa"	"V5-V7L"	153164	0	0	0	0	0
+"D1242-D2"	"Apolemia rubriversa"	"V5-V7L"	111454	286	0	0	0	0
+"D1243-D2"	"Apolemia rubriversa"	"V5-V7L"	62924	0	0	0	0	0
+"D1244-MS2"	"Apolemia rubriversa"	"V5-V7L"	113162	0	0	0	0	0
+"D1244-MS3"	"Apolemia rubriversa"	"V5-V7L"	64936	0	0	0	0	0
+"D1245-D1"	"Apolemia rubriversa"	"V5-V7L"	89688	0	0	0	128	0
+"D1240-D10"	"Apolemia sp"	"V5-V7L"	56070	0	0	0	21761	0
+"D1242-SS4"	"Apolemia undescribed sp"	"V5-V7L"	75942	630	0	0	0	0
+"D1244-D2"	"Apolemia undescribed sp"	"V5-V7L"	123612	282	0	0	22	0
+"D1163-D4"	"Bargmannia amoena"	"V5-V7L"	28078	0	0	0	1068	0
+"D1165-SS12"	"Bargmannia amoena"	"V5-V7L"	34942	1666	0	0	1520	86
+"D861-D12"	"Bargmannia amoena"	"V5-V7L"	46	668	0	0	454	8
+"D1240-D9"	"Bargmannia lata"	"V5-V7L"	13632	98	0	0	3772	0
+"D1242-D6"	"Bargmannia lata"	"V5-V7L"	70232	0	0	0	0	0
+"D1240-MS1"	"Chuniphyes moserae"	"V5-V7L"	102706	0	0	0	0	0
+"D1137-MS5"	"Chuniphyes multidentata"	"V5-V7L"	48514	0	0	0	0	0
+"D1241-SS2"	"Chuniphyes multidentata"	"V5-V7L"	36562	0	0	0	0	0
+"D1242-SS12"	"Chuniphyes multidentata"	"V5-V7L"	25606	0	0	0	0	0
+"D1243-SS11"	"Chuniphyes multidentata"	"V5-V7L"	26792	0	0	0	0	0
+"D1244-SS9"	"Chuniphyes multidentata"	"V5-V7L"	115876	610	0	0	0	0
+"D1243-SS9"	"Cordagalma ordinatum"	"V5-V7L"	297540	0	0	0	730	0
+"D1243-SS8"	"Craseoa lathetica"	"V5-V7L"	53272	0	0	0	0	0
+"D960-SS1"	"Craseoa lathetica"	"V5-V7L"	514580	0	0	0	5314	436
+"D1244-SS12"	"Desmophyes annectens"	"V5-V7L"	22196	24	0	0	0	0
+"26Mar19-BW3-1"	"Diphyes dispar"	"V5-V7L"	71076	0	0	0	0	0
+"26Mar19-BW3-38"	"Diphyes dispar"	"V5-V7L"	55816	0	0	0	0	0
+"26Mar19-BW3-39"	"Diphyes dispar"	"V5-V7L"	57376	0	0	0	42	0
+"26Mar19-BW4-30"	"Diphyes dispar"	"V5-V7L"	60540	0	0	0	0	0
+"D1243-BW19"	"Diphyes dispar"	"V5-V7L"	99808	0	0	0	0	0
+"D1243-BW25"	"Diphyes dispar"	"V5-V7L"	126256	70	0	0	0	0
+"D1243-BW28"	"Diphyes dispar"	"V5-V7L"	90074	0	0	0	0	0
+"D1243-BW29"	"Diphyes dispar"	"V5-V7L"	126180	0	0	0	0	0
+"D1243-BW30"	"Diphyes dispar"	"V5-V7L"	145418	0	0	0	0	0
+"D1243-BW31"	"Diphyes dispar"	"V5-V7L"	90926	0	0	0	0	0
+"D1243-BW32"	"Diphyes dispar"	"V5-V7L"	97888	0	0	0	0	0
+"D1243-BW33"	"Diphyes dispar"	"V5-V7L"	83394	0	0	0	0	0
+"D1243-BW37"	"Diphyes dispar"	"V5-V7L"	96708	0	0	0	7	0
+"D1244-BW1"	"Diphyes dispar"	"V5-V7L"	88864	170	0	0	10	0
+"D1244-BW24"	"Diphyes dispar"	"V5-V7L"	131662	104	0	0	22	0
+"D1240-D6"	"Erenna cornuta"	"V5-V7L"	39056	0	0	0	22	0
+"D860-D6"	"Erenna sirena"	"V5-V7L"	3	0	0	0	25	2
+"D1242-SS1"	"Forskalia formosa"	"V5-V7L"	98256	0	0	0	0	0
+"D963-SS6"	"Forskalia formosa"	"V5-V7L"	45236	0	0	0	0	106
+"D1137-D7"	"Forskalia sp."	"V5-V7L"	63938	0	0	0	42	36
+"D1137-D9"	"Forskalia sp."	"V5-V7L"	3381	0	0	0	0	0
+"D1243-D4"	"Forskalia sp."	"V5-V7L"	55608	0	0	0	38	0
+"D1245-D9"	"Forskalia sp."	"V5-V7L"	69170	4172	0	30	1956	22
+"M123-SS8"	"Forskalia sp."	"V5-V7L"	96910	96817	0	0	17958	366
+"D1023-MS2"	"Frillagalma vityazi"	"V5-V7L"	250268	0	0	0	2227	562
+"D1240-SS5"	"Frillagalma vityazi"	"V5-V7L"	28	0	0	0	0	0
+"D1241-D10"	"Gymnopraia lapislazula"	"V5-V7L"	89202	0	0	0	0	0
+"D1243-SS7"	"Gymnopraia lapislazula"	"V5-V7L"	80846	0	0	0	0	0
+"D965-D10"	"Gymnopraia lapislazula"	"V5-V7L"	287	0	0	0	149	14
+"D1244-D8"	"Halistemma rubrum"	"V5-V7L"	90616	0	0	0	0	0
+"D1241-MS6"	"Kephyes ovata"	"V5-V7L"	74820	0	0	0	0	0
+"D1241-SS8"	"Kephyes ovata"	"V5-V7L"	109522	0	0	0	0	0
+"D1242-SS12b"	"Lensia conoidea"	"V5-V7L"	77346	622	0	0	0	0
+"D1241-D5"	"Lilyopsis fluoracantha"	"V5-V7L"	82002	0	0	0	0	0
+"D1169-SS8"	"Lychnagalma utricularia"	"V5-V7L"	6402	0	0	0	0	0
+"D1242-SS11"	"Lychnagalma utricularia"	"V5-V7L"	23862	28136	0	0	8224	0
+"D962-D4"	"Lychnagalma utricularia"	"V5-V7L"	632	213722	0	0	604	1658
+"D1164-SS6"	"Marrus claudanielis"	"V5-V7L"	74358	0	0	0	494	0
+"D959-SS7"	"Marrus claudanielis"	"V5-V7L"	258988	0	0	0	1492	206
+"D1138.2-BW45"	"Muggiaea atlantica"	"V5-V7L"	42972	0	0	0	0	0
+"D1138.2-BW46"	"Muggiaea atlantica"	"V5-V7L"	45200	0	0	0	30	0
+"D1138.2-BW63"	"Muggiaea atlantica"	"V5-V7L"	62376	0	0	0	0	0
+"D1138.2-BW64"	"Muggiaea atlantica"	"V5-V7L"	36371	0	0	0	0	0
+"D1138.2-BW65"	"Muggiaea atlantica"	"V5-V7L"	37758	0	0	0	0	0
+"D1241-MS2"	"Nanomia (deep)"	"V5-V7L"	76742	0	0	0	0	0
+"D1244-SS10"	"Nanomia (deep)"	"V5-V7L"	60628	0	0	0	110	0
+"D1244-SS8"	"Nanomia (deep)"	"V5-V7L"	0	14360	0	0	0	0
+"Groton2_Dive1_36"	"Nanomia sp. Atlantic"	"V5-V7L"	0	0	0	45	0	0
+"Groton2_Dive2_16"	"Nanomia sp. Atlantic"	"V5-V7L"	76802	0	0	0	0	0
+"Groton2_Dive2_18"	"Nanomia sp. Atlantic"	"V5-V7L"	160256	0	0	0	0	0
+"Groton2_Dive2_20"	"Nanomia sp. Atlantic"	"V5-V7L"	141766	0	0	0	0	0
+"Groton2_Dive2_22"	"Nanomia sp. Atlantic"	"V5-V7L"	123357	0	0	0	0	0
+"Groton2_Dive2_24"	"Nanomia sp. Atlantic"	"V5-V7L"	167468	1236	0	0	0	0
+"Groton2_Dive2_26"	"Nanomia sp. Atlantic"	"V5-V7L"	177526	1002	0	0	0	0
+"Groton2_Dive2_28"	"Nanomia sp. Atlantic"	"V5-V7L"	124790	2754	0	0	0	0
+"Groton2_Dive2_30"	"Nanomia sp. Atlantic"	"V5-V7L"	65370	37812	0	0	0	0
+"Groton2_Dive2_32"	"Nanomia sp. Atlantic"	"V5-V7L"	125090	0	0	0	0	0
+"Groton2_Dive2_34"	"Nanomia sp. Atlantic"	"V5-V7L"	57131	3598	0	0	250	0
+"Groton2_Dive2_36"	"Nanomia sp. Atlantic"	"V5-V7L"	48264	0	0	45	0	0
+"Groton2_Dive2_38"	"Nanomia sp. Atlantic"	"V5-V7L"	148616	0	0	0	0	0
+"26Mar19-BW3-20"	"Nanomia sp. shallow"	"V5-V7L"	58208	0	0	0	0	0
+"26Mar19-BW3-25.1"	"Nanomia sp. shallow"	"V5-V7L"	62628	0	0	0	0	0
+"26Mar19-BW3-29"	"Nanomia sp. shallow"	"V5-V7L"	47360	0	0	0	0	0
+"26Mar19-BW3-40.1"	"Nanomia sp. shallow"	"V5-V7L"	15818	0	0	0	0	0
+"26Mar19-BW4-31"	"Nanomia sp. shallow"	"V5-V7L"	53957	0	0	0	0	0
+"26Mar19-BW4-32"	"Nanomia sp. shallow"	"V5-V7L"	54826	0	0	0	0	0
+"D1138-BW20"	"Nanomia sp. shallow"	"V5-V7L"	57025	0	0	0	48	0
+"D1138-BW21"	"Nanomia sp. shallow"	"V5-V7L"	59756	0	0	0	0	0
+"D1138-BW22"	"Nanomia sp. shallow"	"V5-V7L"	58366	0	0	0	50	22
+"D1138-BW34"	"Nanomia sp. shallow"	"V5-V7L"	53552	0	0	0	0	0
+"D1138-BW6"	"Nanomia sp. shallow"	"V5-V7L"	11308	0	0	0	0	0
+"KiloMoana2018-BW7-4"	"Nanomia sp. shallow"	"V5-V7L"	552	32	0	0	166	2
+"BIOS19-D1-P1"	"Physalia physalis"	"V5-V7L"	93770	0	2	0	0	0
+"BIOS19-D1-P2"	"Physalia physalis"	"V5-V7L"	57162	0	0	0	4	0
+"BIOS19-D1-P3"	"Physalia physalis"	"V5-V7L"	51692	0	0	0	0	0
+"BIOS19-D1-P4"	"Physalia physalis"	"V5-V7L"	13344	0	0	0	11	0
+"BIOS19-D1-P5"	"Physalia physalis"	"V5-V7L"	9178	0	1188	506	16909	1253
+"D1244-D3"	"Praya dubia"	"V5-V7L"	74476	0	0	0	0	0
+"D960-BW2"	"Praya dubia"	"V5-V7L"	324248	0	0	2280	0	0
+"D1166-D8"	"Resomia dunni"	"V5-V7L"	30972	0	0	0	1288	100
+"D1168-D8"	"Resomia dunni"	"V5-V7L"	57990	0	0	0	130	0
+"D963-D4"	"Resomia dunni"	"V5-V7L"	421338	0	0	0	3424	372
+"D965-D7"	"Resomia ornicephala"	"V5-V7L"	188583	0	0	0	225	416
+"D1245-D6"	"Sphaeronectes christiansonae"	"V5-V7L"	76212	216	0	0	140	12
+"26Mar19-BW3-20.1"	"Sphaeronectes koellikeri"	"V5-V7L"	14514	0	0	0	298	0
+"26Mar19-BW3-20.2"	"Sphaeronectes koellikeri"	"V5-V7L"	52464	0	0	0	658	0
+"26Mar19-BW3-35"	"Sphaeronectes koellikeri"	"V5-V7L"	31850	0	0	0	176	98
+"26Mar19-BW3-35.1"	"Sphaeronectes koellikeri"	"V5-V7L"	57862	0	0	0	366	216
+"26Mar19-BW3-35.2"	"Sphaeronectes koellikeri"	"V5-V7L"	37378	56	0	0	182	103
+"26Mar19-BW3-35.3"	"Sphaeronectes koellikeri"	"V5-V7L"	34378	0	0	0	193	0
+"26Mar19-BW3-35.4"	"Sphaeronectes koellikeri"	"V5-V7L"	27930	0	0	0	96	0
+"26Mar19-BW3-35.5"	"Sphaeronectes koellikeri"	"V5-V7L"	8780	0	0	0	15	0
+"D1138-BW60"	"Sphaeronectes koellikeri"	"V5-V7L"	45208	2104	0	0	0	0
+"D1243-D3"	"Stephanomia amphytridis"	"V5-V7L"	62482	0	0	0	76	0
+"D1245-D11"	"Stephanomia amphytridis"	"V5-V7L"	124264	0	0	0	0	0
+"D856-SS8"	"Stephanomia amphytridis"	"V5-V7L"	58	0	0	0	0	12
+"Groton1_Dive2_4"	"Sulculeolaria chuni"	"V5-V7L"	381695	366	0	0	0	0
+"D1019-D5"	"Undescribed physonect L"	"V5-V7L"	48	0	0	0	360	96
+"D1241-SS9"	"Undescribed physonect L"	"V5-V7L"	64640	0	0	0	0	0
+"D1241-D6"	"Undescribed physonect ZigZag"	"V5-V7L"	56374	0	0	0	0	0
+"D1137-D8"	"Vogtia serrata"	"V5-V7L"	8288	0	0	0	3419	0
+"D1243-SS10"	"Vogtia serrata"	"V5-V7L"	116165	0	0	0	0	0
+"D961-SS1"	"Vogtia serrata"	"V5-V7L"	201087	0	0	0	11477	1060
