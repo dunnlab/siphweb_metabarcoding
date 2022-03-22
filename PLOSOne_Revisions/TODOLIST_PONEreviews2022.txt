@@ -3,32 +3,25 @@ TO DO LIST:
 
 #Editor
 
-Write response to reviewers
-Change my affiliation in submission to Yale for billing purposes
 Identify copyright holders or all photos in Figure 2.
-	Ask for permission: “I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/).”
-	Upload Content Permission Form under “Other” in the submissionAdd to Fig2 caption: “Reprinted from [reference] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
-add “© Magnolia Press” in Desmophyes and mention in the caption “reproduced with permission from the copyright holder”.
-	Add to Fig2 caption: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+	Missing:
+		-MBARI (Apolemia lanosa, Lychnagalma, Resomia, Vogtia)
+		-Russ Hopcroft (Diphyes)
+		-Schmidt Ocean (undescribed physonect)
+	Upload Content Permission Forms under “Other” in the submission
+	Add to Fig2 caption: “Reprinted from [reference] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
 	remove/replace the pictures that were not approved by the holders from Fig2.
-Format manuscript to match journal requirements
-	https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf
-	https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
-Finalize marked-up version of the MS.
-Save alternative version with all edits resolved (unmarked)
-
-#Reviewer 1
-
-Describe the protocol in more detail in the methods
-Describe the primer design analyses
-Identify which V1-9 regions the priming sites correspond to:
-	-Double check with pre-existing primers for these regions see if they match mine.
-	-Using fake PCR simulations.
-	-Rename the barcodes throughout MS and figures to reflect their gene position.
-Explain the differences between SILVA databases in terms of sequence # (after removal of bacterial sequences in 138), taxonomic rank annotations
-Upload all SM summary tables.
 
 #Reviewers 2
 
-Clarify which sources were interpreted as environmental and why. (number of reads, natural history)
 Synthesize discussion
+
+#Final
+
+Format manuscript to match journal requirements
+	https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf
+	https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+Finalize marked-up version of the MS. 
+Save alternative version with all edits resolved (unmarked)
+Write response to reviewers
+
