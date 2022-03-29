@@ -1,3 +1,4 @@
 SILVA138_* filter=lfs diff=lfs merge=lfs -text
 metaxa2_* filter=lfs diff=lfs merge=lfs -text
 combined_silva_* filter=lfs diff=lfs merge=lfs -text
+IMG_0831_VserrataADS.png filter=lfs diff=lfs merge=lfs -text

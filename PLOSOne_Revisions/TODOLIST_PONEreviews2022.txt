@@ -1,27 +1,90 @@
 TO DO LIST:
 ----------
 
-#Editor
-
-Identify copyright holders or all photos in Figure 2.
-	Missing:
-		-MBARI (Apolemia lanosa, Lychnagalma, Resomia, Vogtia)
-		-Russ Hopcroft (Diphyes)
-		-Schmidt Ocean (undescribed physonect)
-	Upload Content Permission Forms under “Other” in the submission
-	Add to Fig2 caption: “Reprinted from [reference] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
-	remove/replace the pictures that were not approved by the holders from Fig2.
-
-#Reviewers 2
-
-Synthesize discussion
-
 #Final
 
-Format manuscript to match journal requirements
-	https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf
-	https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
-Finalize marked-up version of the MS. 
-Save alternative version with all edits resolved (unmarked)
-Write response to reviewers
+Make sure the genus species contraction are adequately ordered, and fig/tab citations
+SI captions, change all to S1...
+Reupload all figures as TIF files, named as Fig1.tif
+Numerical references
 
+1 (Harbison 1992)
+2 (Robison 2004)
+3 (Falkowski et al. 1998)
+4 (Choy et al. 2017)
+5 (O’Brien 2007, 
+6  Grossman et al. 2015) 
+7 Purcell 1981a
+8 Hetherington et al. 2022
+9 (Mackie et al. 1988)
+10 (Jamieson and Linley 2021)
+11 (Purcell 1981b)
+12 (Haddock 2004)
+13 Biggs 1977
+14 Leray et al. 2013
+15 Harms-Tuohy et al. 2016
+16 Fernández-Álvarez et al. 2018
+17 Reis et al. 2018
+18 Connell et al. 2014
+19 McInnes et al. 2017
+20 Clarke et al. 2018
+21 Jensen et al. 2018
+22 Marques et al. 2019
+23 (Pauli et al. 2021
+24 (Sun et al. 2021)
+25 (Schroeder et al. 2022)
+26 (Damian Serrano et al. 2021a). 
+27 Damian-Serrano et al. (2021b) 
+28 Haddock & Heine (2005)
+29 Kearse et al 2012
+30 Hadziavdic et al. (2014)
+31 (Martin 2011)
+32 (Bushnell et al. 2017)
+33 (Callahan et al. 2016) 
+34 (Bolyen et al. 2019)
+35 (Rognes et al. 2016) 
+36 (Bengtsson-Palme et al. 2015)
+37 (Quast et al. 2012)
+38 Strauss 1979
+39 (Griffiths 1975)
+40 (Purcell 1984a
+###
+41 (Bardi & Marques 2007
+42 (Purcell 1984b) -- CHECK ALL PURCELL (11,40,42,7)
+43 (Chi et al. 2020)
+44 Pugh (1986)
+45 Sutton 2013
+46 Kelly et al. 2019). 
+47 Longhurst 1976, 
+48  Hopkins et al. 1994
+49 Cohen & Forward 2009)
+50 Purcell & Mills 1988
+51 Mills 1995
+52 Turner 2004
+53 (Robison et al. 2005, 
+54 Luo et al. 2020)
+55 Henschke et al. 2016
+56 Gotelli & Graves 1996,
+57 Ciannelli et al. 2005
+58 Cohen et al. 2012
+59 Laigle et al. 2018, 
+60 Maureaud et al. 2020
+61 Ward et al. 2012, 
+62 Zhang et al. 2014
+63 Scharf et al. 2000; 
+64 Costa 2019
+65 (Pages & Madin 2010) 
+66 (Hardy 1956)
+67 Gilljam et al. 2011
+68 Jacob et al., 2011
+69 Deagle & Tollit 2007, 
+70 Troedsson et al. 2009,
+71 Valentini et al. 2009
+72  Munro et al 2018
+
+check to include authors names when mentioned explicitly
+
+Please include the following items when submitting your revised manuscript:
+	-A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+	-A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+	-An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
