@@ -1,0 +1,73 @@
+1. Harbison GR. The gelatinous inhabitants of the ocean interior. Oceanus. 1992;35:18-23.
+2. Robison BH. Deep pelagic biology. Journal of experimental marine biology and ecology. 2004 Mar 31;300(1-2):253-72.
+3. Falkowski PG, Barber RT, Smetacek V. Biogeochemical controls and feedbacks on ocean primary production. Science. 1998 Jul 10;281(5374):200-6.
+4. Choy CA, Haddock SH, Robison BH. Deep pelagic food web structure as revealed by in situ feeding observations. Proceedings of the Royal Society B: Biological Sciences. 2017 Dec 6;284(1868):20172116.
+5. O'Brien TD. COPEPOD, a global plankton database: A review of the 2007 database contents and new quality control methodology. 2017 https://www.st.nmfs.noaa.gov/copepod/
+6. Grossmann MM, Nishikawa J, Lindsay DJ. Diversity and community structure of pelagic cnidarians in the Celebes and Sulu Seas, southeast Asian tropical marginal seas. Deep Sea Research Part I: Oceanographic Research Papers. 2015 Jun 1;100:54-63.
+7. Purcell JE. Dietary composition and diel feeding patterns of epipelagic siphonophores. Marine Biology. 1981 Nov;65(1):83-90.
+8. Hetherington ED, Damian-Serrano A, Haddock SHD, Dunn CW, Choy CA. Moving beyond medusae: Integrating siphonophores into marine food web ecology.  Limnology and Oceanography Letters. 2022 Feb Under reviewIn press..
+9. Mackie GO, Pugh PR, Purcell JE. Siphonophore biology. Advances in Marine biology. 1988 Jan 1;24:97-262.
+10. Jamieson AJ, Linley TD. Hydrozoans, scyphozoans, larvaceans and ctenophores observed in situ at hadal depths. Journal of Plankton Research. 2021 Jan;43(1):20-32.
+11. Purcell JE. Feeding ecology of Rhizophysa eysenhardti, a siphonophore predator of fish larvae. Limnology and Oceanography. 1981 May;26(3):424-32.
+12. Haddock SH. A golden age of gelata: past and future research on planktonic ctenophores and cnidarians. Hydrobiologia. 2004 Nov;530(1):549-56.
+13. Biggs DC. Field studies of fishing, feeding, and digestion in siphonophores. Marine & Freshwater Behaviour & Phy. 1977 Jan 1;4(4):261-74.
+14. Leray M, Yang JY, Meyer CP, Mills SC, Agudelo N, Ranwez V, Boehm JT, Machida RJ. A new versatile primer set targeting a short fragment of the mitochondrial COI region for metabarcoding metazoan diversity: application for characterizing coral reef fish gut contents. Frontiers in zoology. 2013 Dec;10(1):1-4.
+15. Harms-Tuohy CA, Schizas NV, Appeldoorn RS. Use of DNA metabarcoding for stomach content analysis in the invasive lionfish Pterois volitans in Puerto Rico. Marine Ecology Progress Series. 2016 Oct 25;558:181-91.
+16. Fernández-Álvarez FÁ, Machordom A, García-Jiménez R, Salinas-Zavala CA, Villanueva R. Predatory flying squids are detritivores during their early planktonic life. Scientific Reports. 2018 Feb 21;8(1):1-2.
+17. Van van der Reis AL, Laroche O, Jeffs AG, Lavery SD. Preliminary analysis of New Zealand scampi (Metanephrops challengeri) diet using metabarcoding. PeerJ. 2018 Sep 20;6:e5641.
+18. Connell SC, O'Rorke R, Jeffs AG, Lavery SD. DNA identification of the phyllosoma diet of Jasus edwardsii and Scyllarus sp. Z. New Zealand Journal of Marine and Freshwater Research. 2014 Jul 3;48(3):416-29.
+19. McInnes JC, Alderman R, Lea MA, Raymond B, Deagle BE, Phillips RA, Stanworth A, Thompson DR, Catry P, Weimerskirch H, Suazo CG. High occurrence of jellyfish predation by black‐browed and Campbell albatross identified by DNA metabarcoding. Molecular Ecology. 2017 Sep;26(18):4831-45.
+20. Clarke LJ, Trebilco R, Walters A, Polanowski AM, Deagle BE. DNA-based diet analysis of mesopelagic fish from the southern Kerguelen Axis. Deep Sea Research Part II: Topical Studies in Oceanography. 2020 Apr 1;174.
+21. Jensen MR, Knudsen SW, Munk P, Thomsen PF, Møller PR. Tracing European eel in the diet of mesopelagic fishes from the Sargasso Sea using DNA from fish stomachs. Marine Biology. 2018 Aug;165(8):1-1.
+22. Marques R, Darnaude AM, Crochemore S, Bouvier C, Bonnet D. Molecular approach indicates consumption of jellyfish by commercially important fish species in a coastal Mediterranean lagoon. Marine environmental research. 2019 Dec 1;152:104787.
+23. Pauli NC, Metfies K, Pakhomov EA, Neuhaus S, Graeve M, Wenta P, Flintrop CM, Badewien TH, Iversen MH, Meyer B. Selective feeding in Southern Ocean key grazers—diet composition of krill and salps. Communications biology. 2021 Sep 10;4(1):1-2.
+24. Sun T, Wang L, Zhao J, Dong Z. Application of DNA metabarcoding to characterize the diet of the moon jellyfish Aurelia coerulea polyps and ephyrae. Acta Oceanologica Sinica. 2021 Aug;40(8):160-7.
+25. Schroeder, A., Camatti, E., Pansera, M. and Pallavicini, A. Applying DNA metabarcoding for the diet investigation of the invasive ctenophore Mnemiopsis leidyi in a transitional environment. 2022 (Preprint DOI  10.21203/rs.3.rs-1307217/v1)
+26. Damian-Serrano A, Haddock SH, Dunn CW. The evolution of siphonophore tentilla for specialized prey capture in the open ocean. Proceedings of the National Academy of Sciences. 2021a Feb 23;118(8).
+27. Damian-Serrano A, Haddock SH, Dunn CW. The evolutionary history of siphonophore tentilla: Novelties, convergence, and integration. Integrative Organismal Biology. 2021b May 26.
+28. Haddock SH, Heine JN. Scientific blue-water diving La Jolla. CA: California Sea Grant College Program. 2005.
+29. Kearse M, Moir R, Wilson A, Stones-Havas S, Cheung M, Sturrock S, Buxton S, Cooper A, Markowitz S, Duran C, Thierer T. Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data. Bioinformatics. 2012 Jun 15;28(12):1647-9.
+30. Hadziavdic K, Lekang K, Lanzen A, Jonassen I, Thompson EM, Troedsson C. Characterization of the 18S rRNA gene for designing universal eukaryote specific primers. PloS one. 2014 Feb 7;9(2):e87624.
+31. Martin M. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet. journal. 2011 May 2;17(1):10-2.
+32. Bushnell B, Rood J, Singer E. BBMerge–Accurate paired shotgun read merging via overlap. PLoS one. 2017 Oct 26;12(10):e0185056.
+33. Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJ, Holmes SP. DADA2: high-resolution sample inference from Illumina amplicon data. Nature methods. 2016 Jul;13(7):581-3.
+34. Bolyen E, Rideout JR, Dillon MR, Bokulich NA, Abnet CC, Al-Ghalith GA, Alexander H, Alm EJ, Arumugam M, Asnicar F, Bai Y. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Nature biotechnology. 2019 Aug;37(8):852-7.
+35. Rognes T, Flouri T, Nichols B, Quince C, Mahé F. VSEARCH: a versatile open source tool for metagenomics. PeerJ. 2016 Oct 18;4:e2584.
+36. Bengtsson‐Palme J, Hartmann M, Eriksson KM, Pal C, Thorell K, Larsson DG, Nilsson RH. METAXA2: improved identification and taxonomic classification of small and large subunit rRNA in metagenomic data. Molecular ecology resources. 2015 Nov;15(6):1403-14.
+37. Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glöckner FO. The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic acids research. 2012 Nov 27;41(D1):D590-6.
+38. Strauss RE. Reliability estimates for Ivlevˈs electivity index, the forage ratio, and a proposed linear index of food selection. Transactions of the American Fisheries Society. 1979 Jul;108(4):344-52.
+39. Griffiths D. Prey availability and the food of predators. Ecology. 1975 Aug;56(5):1209-14.
+40. Purcell JE. Predation on fish larvae by Physalia physalis, the Portuguese man of war. Marine ecology progress series. Oldendorf. 1984a Jan 1;19(1):189-91.
+41. Bardi J, Marques AC. Taxonomic redescription of the Portuguese man-of-war, Physalia physalis (Cnidaria, Hydrozoa, Siphonophorae, Cystonectae) from Brazil. Iheringia. Série Zoologia. 2007;97:425-33.
+42. Purcell JE. The functions of nematocysts in prey capture by epipelagic siphonophores (Coelenterata, Hydrozoa). The Biological Bulletin. 1984b Apr;166(2):310-27.
+43. Chi X, Dierking J, Hoving HJ, Lüskow F, Denda A, Christiansen B, Sommer U, Hansen T, Javidpour J. Tackling the jelly web: Trophic ecology of gelatinous zooplankton in oceanic food webs of the eastern tropical Atlantic assessed by stable isotope analysis. Limnology and Oceanography. 2021 Feb;66(2):289-305.
+44. Pugh PR. Trophic factors affecting the distribution of siphonophores in the North Atlantic Ocean. UNESCO Technical Papers in Marine Science. 1986;49:230-4.
+45. Sutton TT. Vertical ecology of the pelagic ocean: classical patterns and new perspectives. Journal of fish biology. 2013 Dec;83(6):1508-27.
+46. Kelly TB, Davison PC, Goericke R, Landry MR, Ohman MD, Stukel MR. The importance of mesozooplankton diel vertical migration for sustaining a mesopelagic food web. Frontiers in Marine Science. 2019 Sep 13;6:508.
+47. Longhurst AR. Vertical Migration. The Ecology of the Seas, DH Cushing and JJ Walsh, eds., Philadelphia: University of Pennsylvania Press; 1976.
+48. Hopkins TL, Flock ME, Gartner Jr JV, Torres JJ. Structure and trophic ecology of a low latitude midwater decapod and mysid assemblage. Marine Ecology Progress Series. 1994 Jun 23:143-56.
+49. Cohen JE, Briand F, Newman CM. Community food webs: data and theory. Springer Science & Business Media; 2012 Dec 6.
+50. Pugh PR. The diel migrations and distributions within a mesopelagic community in the North East Atlantic. 7. Siphonophores. Progress in Oceanography. 1984 Jan 1;13(3-4):461-89.
+51. Purcell JE, Mills, CE. The correlation between nematocyst types and diets in pelagic hydrozoa. The biology of nematocysts. 1988:463-85.
+52. Mills CE. Medusae, siphonophores, and ctenophores as planktivorous predators in changing global ecosystems. ICES Journal of Marine Science. 1995 Jun 1;52(3-4):575-81.
+53. Turner JT. The importance of small planktonic copepods and their roles in pelagic marine food webs. Zoological studies. 2004 Jan;43(2):255-66.
+54. Robison BH, Reisenbichler KR, Sherlock RE. Giant larvacean houses: Rapid carbon transport to the deep sea floor. Science. 2005 Jun 10;308(5728):1609-11.
+55. Luo JY, Condon RH, Stock CA, Duarte CM, Lucas CH, Pitt KA, Cowen RK. Gelatinous zooplankton‐mediated carbon flows in the global oceans: a data‐driven modeling study. Global Biogeochemical Cycles. 2020 Sep;34(9):e2020GB006704.
+56. Henschke N, Everett JD, Richardson AJ, Suthers IM. Rethinking the role of salps in the ocean. Trends in Ecology & Evolution. 2016 Sep 1;31(9):720-33.
+57. Gotelli NJ, Graves GR. Null models in ecology. 1996.
+58. Ciannelli L, Hjermann DØ, Lehodey P, Ottersen G, Duffy-Anderson JT, Stenseth NC. Climate forcing, food web structure and community dynamics in pelagic marine ecosystems. Aquatic food webs: an ecosystem approach. Oxford University Press, Oxford. 2005 Apr 7:143-69.
+59. Cohen JH, Forward Jr RB. Zooplankton diel vertical migration—a review of proximate control. Oceanography and marine biology. 2016 Apr 19:89-122.
+60. Laigle I, Aubin I, Digel C, Brose U, Boulangeat I, Gravel D. Species traits as drivers of food web structure. Oikos. 2018 Feb;127(2):316-26.
+61. Maureaud A, Andersen KH, Zhang L, Lindegren M. Trait‐based food web model reveals the underlying mechanisms of biodiversity–ecosystem functioning relationships. Journal of Animal Ecology. 2020 Jun;89(6):1497-510.
+62. Ward BA, Dutkiewicz S, Jahn O, Follows MJ. A size‐structured food‐web model for the global ocean. Limnology and Oceanography. 2012 Nov;57(6):1877-91.
+63. Zhang L, Hartvig M, Knudsen K, Andersen KH. Size-based predictions of food web patterns. Theoretical ecology. 2014 Feb;7(1):23-33.
+64. Scharf FS, Juanes F, Rountree RA. Predator size-prey size relationships of marine fish predators: interspecific variation and effects of ontogeny and body size on trophic-niche breadth. Marine Ecology Progress Series. 2000 Dec 8;208:229-48.
+65. Costa GC. Predator size, prey size, and dietary niche breadth relationships in marine predators. Ecology. 2009 Jul;90(7):2014-9.
+66. Pagès F, Madin LP. Siphonophores eat fish larger than their stomachs. Deep Sea Research Part II: Topical Studies in Oceanography. 2010 Dec 1;57(24-26):2248-50.
+67. Hardy SA. The open sea, its natural history, the world of plankton. 1956. No. 574.92 H3.
+68. Gilljam D, Thierry A, Edwards FK, Figueroa D, Ibbotson AT, Jones JI, Lauridsen RB, Petchey OL, Woodward G, Ebenman B. Seeing double:: Size-based and taxonomic views of food web structure. Advances in ecological research. 2011 Jan 1;45:67-133.
+69. Jacob U, Thierry A, Brose U, Arntz WE, Berg S, Brey T, Fetzer I, Jonsson T, Mintenbeck K, Möllmann C, Petchey OL. The role of body size in complex food webs: A cold case. Advances in ecological research. 2011 Jan 1;45:181-223.
+70. Deagle BE, Tollit DJ. Quantitative analysis of prey DNA in pinniped faeces: potential to estimate diet composition?. Conservation Genetics. 2007 Jun;8(3):743-7.
+71. Troedsson C, Simonelli P, Nägele V, Nejstgaard JC, Frischer ME. Quantification of copepod gut content by differential length amplification quantitative PCR (dla-qPCR). Marine Biology. 2009 Feb;156(3):253-9.
+72. Valentini A, Miquel C, Nawaz MA, Bellemain EV, Coissac E, Pompanon F, Gielly L, Cruaud C, Nascetti G, Wincker P, Swenson JE. New perspectives in diet analysis based on DNA barcoding and parallel pyrosequencing: the trnL approach. Molecular ecology resources. 2009 Jan;9(1):51-60.
+73. Munro C, Siebert S, Zapata F, Howison M, Damian-Serrano A, Church SH, Goetz FE, Pugh PR, Haddock SH, Dunn CW. Improved phylogenetic resolution within Siphonophora (Cnidaria) with implications for trait evolution. Molecular phylogenetics and evolution. 2018 Oct 1;127:823-33.
