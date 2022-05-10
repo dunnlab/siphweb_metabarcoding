@@ -1,0 +1,9 @@
+1. The author list and affiliations are correct on the title page of the manuscript, and the author contributions, and competing interests are correct as in the assignment letter. However, I would like to modify the funding statement to append "The operation of the research vessel R/V Western Flyer and its scientific equipment for specimen collection was funded by the David and Lucile Packard Foundation." As a whole, the financial disclosure statement would read like::
+
+"This research was funded by the Yale Institute of Biospheric Studies through a Doctoral Dissertation Improvement Award to A.D.-S. (https://yibs.yale.edu/research/yibs-small-grant-program/dissertation-improvement-grants), as well as by the National Science Foundation grants NSF-OCE 1829835 (to C.W.D.), OCE-1829805 (to S.H.D.H.), and OCE-1829812 (to C.A.C.) https://www.nsf.gov/geo/oce/programs/biores.jsp. The operation of the research vessel R/V Western Flyer and its scientific equipment for specimen collection was funded by the David and Lucile Packard Foundation. The funders did not play any role in the study design, data collection, and analysis, decision to publish, or preparation of the manuscript."
+
+2. We made the repository "https://github.com/dunnlab/siphweb_metabarcoding" public and it should be directly acessible now from that link.
+
+3. Our paper meets PLOS ONE's typesetting requirements for References, Tables, and Figures.
+
+4. We already ran each figure through the PACE tool and they are good to go.
